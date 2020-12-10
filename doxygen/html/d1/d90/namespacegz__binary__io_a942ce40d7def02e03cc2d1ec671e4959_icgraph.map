@@ -1,0 +1,14 @@
+<map id="gz_binary_io::gz_read_2d_vector_b" name="gz_binary_io::gz_read_2d_vector_b">
+<area shape="rect" id="node1" title=" " alt="" coords="433,326,583,367"/>
+<area shape="rect" id="node2" href="$d4/dd4/namespacegz__field__data__io__b.html#a97637a300ff4399b57927c511a50adfd" title=" " alt="" coords="232,173,385,214"/>
+<area shape="rect" id="node7" href="$de/d00/namespacegz__node__geometry__io__b.html#aff42b69caa1bf40c2690696841f171b2" title=" " alt="" coords="233,399,384,455"/>
+<area shape="rect" id="node12" href="$de/d00/namespacegz__node__geometry__io__b.html#a1e0142181e04189ed719a83ded21f0f4" title=" " alt="" coords="233,319,384,375"/>
+<area shape="rect" id="node3" href="$d8/dd8/namespacegz__field__file__io__b.html#a18322c83d7846e3cc78f75942f431f21" title=" " alt="" coords="27,5,162,61"/>
+<area shape="rect" id="node4" href="$d7/d1a/namespacegz__ucd__field__file__io__b.html#a678b77b49076d64e0602d7724a2025f1" title=" " alt="" coords="19,85,171,141"/>
+<area shape="rect" id="node5" href="$d8/dd8/namespacegz__field__file__io__b.html#a60c0993ab8883b88da0f242f078b0365" title=" " alt="" coords="25,165,164,221"/>
+<area shape="rect" id="node6" href="$d7/d1a/namespacegz__ucd__field__file__io__b.html#ac82f0f1e6a2cba09e894bd6f91725aa6" title=" " alt="" coords="18,245,171,301"/>
+<area shape="rect" id="node8" href="$dc/d82/namespacegz__edge__data__io__b.html#afaa538f3d2f544f175ab1d5358395c22" title=" " alt="" coords="5,326,184,367"/>
+<area shape="rect" id="node9" href="$d3/d79/namespacegz__element__data__io__b.html#a1b61a0b276cc74088658c36e4c4dde96" title=" " alt="" coords="23,472,166,528"/>
+<area shape="rect" id="node10" href="$da/d8f/namespacegz__mesh__data__io__b.html#aef4a3fde2cb07a171f8687443cf96182" title=" " alt="" coords="8,553,181,594"/>
+<area shape="rect" id="node11" href="$dc/dc6/namespacegz__surface__data__io__b.html#a149f6e62e30e5fb7dfd5efe396ed5eec" title=" " alt="" coords="25,392,165,448"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="t_spheric_data_io::multi_sph_file_data" name="t_spheric_data_io::multi_sph_file_data">
+<area shape="rect" id="node1" title="Structure of spherical transform mesh IO for multiple domains." alt="" coords="321,71,456,112"/>
+<area shape="rect" id="node2" href="$d5/d81/structt__node__id__spherical__io_1_1sph__io__data.html" title="Structure for spherical harmonics table IO." alt="" coords="37,5,174,47"/>
+<area shape="rect" id="node3" href="$d2/d62/structt__comm__table_1_1communication__table.html" title="data structure for communication table" alt="" coords="5,71,205,112"/>
+<area shape="rect" id="node4" href="$d6/d07/structt__spheric__data__io_1_1mul__sph__group__data.html" title="Structure of group data for spherical transform." alt="" coords="34,136,177,177"/>
+</map>

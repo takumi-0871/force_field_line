@@ -1,0 +1,27 @@
+var structt__sph__volume__mean__square_1_1sph__vol__mean__squares =
+[
+    [ "avol", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a30fd31d12fc4169379ab0a46baed897a", null ],
+    [ "fhead_ave", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#adb6e9d94688fac0073514d1d0193e1a2", null ],
+    [ "fhead_rms_v", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#afcf6036410a82c2c6db015cab5d41ed6", null ],
+    [ "iflag_volume_ave_sph", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#ad600506145778b9d2fa7857976a6560a", null ],
+    [ "iflag_volume_rms_spec", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a47f7f07a36650e8de4c165888a2d4dda", null ],
+    [ "irank_l", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#aa34453f4db29255e172620f4f1cfb6e7", null ],
+    [ "irank_lm", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a4897e1fcd8efb787b46c9ce226fa97a4", null ],
+    [ "irank_m", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a7db630f5baf736676c6cace74170af2b", null ],
+    [ "kr_inside", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a14e8e64cbda4b30b3fd36bdcc245153c", null ],
+    [ "kr_outside", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a7eb1dd65039a0c78fdd9d2a908d83ab2", null ],
+    [ "ltr", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a9724831fad758a2cd24b5852e13a8dfc", null ],
+    [ "ntot_comp_sq", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a553ee89fa6ac328f32dbef96ccc6297b", null ],
+    [ "num_comp_sq", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a82eb163676a2ec92dd63b0d0ad69352c", null ],
+    [ "num_fld_sq", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a79d88e865f28cddfe29aa898078c7ae7", null ],
+    [ "pwr_name", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#acfb5ab6a585dca34596a6aaa520c7c84", null ],
+    [ "r_inside", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a17d4e0777ce3d19fb269618ee6c2f8dc", null ],
+    [ "r_outside", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#aad758b62b671194769134d04e1127df9", null ],
+    [ "v_ave", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a88ac6a514992d6caae72b1453a24e896", null ],
+    [ "v_l", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a3a1f8f35094cc526b32f0b8589f82214", null ],
+    [ "v_lm", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#ab39ee6658f4c05d1221eef74110a6168", null ],
+    [ "v_m", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a8b0a3ddce9562c2a30f0a57d900719b6", null ],
+    [ "v_m0", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a650170b6ca73c614d53c872bfeb92c71", null ],
+    [ "v_ratio_m0", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#a61b78630804b9b3d7818e9200422cb33", null ],
+    [ "v_sq", "d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html#aa05b697ae365f78d7fd4a7224545496a", null ]
+];

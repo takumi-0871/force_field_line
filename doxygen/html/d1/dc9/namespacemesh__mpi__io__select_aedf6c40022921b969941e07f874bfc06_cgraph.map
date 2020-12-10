@@ -1,0 +1,21 @@
+<map id="mesh_mpi_io_select::sel_mpi_read_node_size" name="mesh_mpi_io_select::sel_mpi_read_node_size">
+<area shape="rect" id="node1" title=" " alt="" coords="5,347,179,389"/>
+<area shape="rect" id="node2" href="$d2/d0d/namespacecalypso__mpi.html#a0f7f6f7b3772f9c3824d1f27652ae341" title=" " alt="" coords="238,135,386,177"/>
+<area shape="rect" id="node3" href="$d6/d9d/namespacegz__mpi__mesh__file__io.html#a3298bef97db5399fe6be266120e669ae" title=" " alt="" coords="227,347,397,389"/>
+<area shape="rect" id="node7" href="$d8/d83/namespacegz__mpi__mesh__file__io__b.html#af2af0c259651df0b6cb3ba5001650801" title=" " alt="" coords="235,201,389,257"/>
+<area shape="rect" id="node10" href="$d4/d7e/namespacempi__mesh__file__io.html#a18b2bcc710a58a09db706991053254b6" title=" " alt="" coords="236,282,388,323"/>
+<area shape="rect" id="node12" href="$d3/d33/namespacempi__mesh__file__io__b.html#a2a2d3d0ee251d1134eb74fb4fc02f49e" title=" " alt="" coords="231,413,393,454"/>
+<area shape="rect" id="node14" href="$d3/dec/namespacemesh__io__select.html#a47bb03751281e4e58c258cd36e94b167" title=" " alt="" coords="243,627,381,669"/>
+<area shape="rect" id="node19" href="$d6/d2d/namespaceset__mesh__file__names.html#a9ee9c52caf78a72fdd0bbfc08941f149" title=" " alt="" coords="457,791,608,833"/>
+<area shape="rect" id="node4" href="$d4/d05/namespacempi__ascii__data__io.html#ad65bf248f5a2dcd24ab4696d0844201a" title=" " alt="" coords="465,282,600,323"/>
+<area shape="rect" id="node5" href="$d1/d7d/namespacegz__mpi__mesh__data__io.html#a315ddc20f5d9bc47e35b0e68c6a60154" title=" " alt="" coords="447,347,618,389"/>
+<area shape="rect" id="node6" href="$d4/d05/namespacempi__ascii__data__io.html#ae7f3d09fef78f72b264c61c0e1cbb1b0" title=" " alt="" coords="668,158,803,199"/>
+<area shape="rect" id="node8" href="$da/dc7/namespacegz__mpi__mesh__data__io__b.html#ac8d6c7d9ba05f5258ccec006943e79eb" title=" " alt="" coords="457,5,609,61"/>
+<area shape="rect" id="node9" href="$d8/dd2/namespacegz__mpi__binary__datum__io.html#adf1c77cd3e99f6b7298436cbb05d41ec" title=" " alt="" coords="455,85,611,141"/>
+<area shape="rect" id="node11" href="$da/dee/namespacempi__mesh__data__io.html#a6322725dee8811d7ef41bb13c78ae765" title=" " alt="" coords="453,217,613,258"/>
+<area shape="rect" id="node13" href="$df/d40/namespacempi__mesh__data__io__b.html#abc1a17d4203f97ffa753a8769cfe08d0" title=" " alt="" coords="445,465,620,506"/>
+<area shape="rect" id="node15" href="$d0/d0c/namespacegz__mesh__file__io.html#aab45992dcc93afff3e0fb4b52e9f195f" title=" " alt="" coords="463,726,602,767"/>
+<area shape="rect" id="node16" href="$d7/dad/namespacegz__mesh__file__io__b.html#a534701619578731455fe26c7703701dc" title=" " alt="" coords="459,530,607,571"/>
+<area shape="rect" id="node17" href="$d9/d43/namespacemesh__file__io.html#aa7e1dc310922e2c80ebbede986d183f3" title=" " alt="" coords="469,595,597,637"/>
+<area shape="rect" id="node18" href="$d0/d05/namespacemesh__file__io__b.html#a2a7ae1ee91a46367d934bd237548c43d" title=" " alt="" coords="461,661,604,702"/>
+</map>

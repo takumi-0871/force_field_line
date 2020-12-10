@@ -1,0 +1,11 @@
+<map id="mesh_file_io_b::read_mesh_geometry_b" name="mesh_file_io_b::read_mesh_geometry_b">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,148,98"/>
+<area shape="rect" id="node2" href="$d9/d00/namespacebinary__io.html#a0e63d68131d87ea896a343ce736a1476" title=" " alt="" coords="196,5,375,32"/>
+<area shape="rect" id="node3" href="$d9/d00/namespacebinary__io.html#ab6ad47cf09d09f26ad57758cc6c323de" title=" " alt="" coords="214,57,357,98"/>
+<area shape="rect" id="node5" href="$dd/de9/namespacemesh__data__io__b.html#a41202d666f9697fe6ddc14d696e8150b" title=" " alt="" coords="210,151,361,193"/>
+<area shape="rect" id="node4" href="$d9/d00/namespacebinary__io.html#a56ce372c0982430576994be4a6ea230d" title=" " alt="" coords="423,35,603,61"/>
+<area shape="rect" id="node6" href="$d9/d68/namespaceelement__connect__io__b.html#ad3e9373973c5a3ef1697d387183df1ea" title=" " alt="" coords="431,86,595,127"/>
+<area shape="rect" id="node7" href="$d6/d8e/namespacedomain__data__io__b.html#af394d4d0034b350bac48027a1527aff6" title=" " alt="" coords="433,151,593,193"/>
+<area shape="rect" id="node8" href="$d6/d8e/namespacedomain__data__io__b.html#aa5444ce8cc3bda737d65dab3e581b369" title=" " alt="" coords="433,217,593,258"/>
+<area shape="rect" id="node9" href="$dd/de9/namespacemesh__data__io__b.html#af38a8e4828e62b69c7e81ce79d5729f8" title=" " alt="" coords="437,282,588,323"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="t_sph_transforms::sph_forward_transforms" name="t_sph_transforms::sph_forward_transforms">
+<area shape="rect" id="node1" title=" " alt="" coords="5,147,157,189"/>
+<area shape="rect" id="node2" href="$de/d8a/namespacespherical__srs__n.html#aa57ca9c8bd8710121c8ce4019d0a874c" title=" " alt="" coords="216,59,383,101"/>
+<area shape="rect" id="node4" href="$d8/d09/namespacem__work__time.html#a80a14ec74cd7855fbc714ec7d6636a9b" title=" " alt="" coords="665,37,877,64"/>
+<area shape="rect" id="node5" href="$d8/d09/namespacem__work__time.html#a91161cdde8de67ffefbd2c1863a14e7c" title=" " alt="" coords="705,89,838,130"/>
+<area shape="rect" id="node6" href="$de/d8a/namespacespherical__srs__n.html#ac25f05dffd9b5834297b6aec8612f67e" title=" " alt="" coords="223,177,375,218"/>
+<area shape="rect" id="node8" href="$d3/d04/namespacet__sph__fft__selector.html#a088f8e5044f56e2714827a36e7c0d3a9" title=" " alt="" coords="217,279,381,321"/>
+<area shape="rect" id="node12" href="$dc/dfe/namespacet__legendre__trans__select.html#abbd82ee34856a9ee12893fe2f90fbee7" title=" " alt="" coords="205,662,393,703"/>
+<area shape="rect" id="node3" href="$df/da5/namespacesel__spherical__srs.html#a924f6b4b80dd85b74807972426e561d3" title=" " alt="" coords="441,59,617,101"/>
+<area shape="rect" id="node7" href="$d1/de7/namespacet__solver__sr.html#a39a4ace23f395ac401094422d619ba85" title=" " alt="" coords="460,177,599,218"/>
+<area shape="rect" id="node9" href="$d4/db4/namespacet__sph__field__fftw.html#a855c8ccecd109cfc1fc6ca07ae266e83" title=" " alt="" coords="449,389,610,430"/>
+<area shape="rect" id="node10" href="$d1/df8/namespacet__sph__fftpack5.html#a43730ff33e8481ad34fa7b4bd2e8a4df" title=" " alt="" coords="461,242,598,283"/>
+<area shape="rect" id="node11" href="$d8/df7/namespacet__sph__single__fftw.html#afc41810a6f9db14547e0ff5da47e071e" title=" " alt="" coords="460,308,599,364"/>
+<area shape="rect" id="node13" href="$d7/daa/namespacelegendre__trans__matmul__big.html#a9c1e1d5b7fd200637e15433b87f6bcb2" title=" " alt="" coords="451,455,608,511"/>
+<area shape="rect" id="node14" href="$d4/dc0/namespacelegendre__transform__sym__tomp.html#a356b27af0904d31b6b2895570418e5ae" title=" " alt="" coords="447,535,611,591"/>
+<area shape="rect" id="node15" href="$d4/dc0/namespacelegendre__transform__sym__tomp.html#aaf11f8ec532807c08144ead25ff12ccb" title=" " alt="" coords="447,615,611,671"/>
+<area shape="rect" id="node16" href="$df/d06/namespacelegendre__trans__sym__matmul.html#ac1ecc1e0171db59abb54fde204be18be" title=" " alt="" coords="456,695,603,751"/>
+<area shape="rect" id="node17" href="$db/d09/namespacelegendre__transform__org.html#adb8ee07a350359e27c4acaaea0299ff2" title=" " alt="" coords="451,775,608,831"/>
+<area shape="rect" id="node18" href="$de/d0f/namespacelegendre__transform__spin.html#ab9ac7f4d636dad5c91d02cef5ef73d9c" title=" " alt="" coords="448,855,611,911"/>
+<area shape="rect" id="node19" href="$d4/d60/namespacelegendre__transform__testloop.html#a50ea91a8c235866c54b827e144c5002c" title=" " alt="" coords="455,935,604,991"/>
+</map>

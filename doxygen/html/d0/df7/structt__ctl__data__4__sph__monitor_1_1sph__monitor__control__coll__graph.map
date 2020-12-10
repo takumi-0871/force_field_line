@@ -1,0 +1,13 @@
+<map id="t_ctl_data_4_sph_monitor::sph_monitor_control" name="t_ctl_data_4_sph_monitor::sph_monitor_control">
+<area shape="rect" id="node1" title=" " alt="" coords="643,344,813,385"/>
+<area shape="rect" id="node2" href="$da/dc0/structt__mid__equator__control_1_1mid__equator__control.html" title=" " alt="" coords="379,108,529,149"/>
+<area shape="rect" id="node3" href="$dd/d45/structt__control__array__real_1_1read__real__item.html" title="structure of control real item" alt="" coords="22,125,158,167"/>
+<area shape="rect" id="node6" href="$d1/da6/structt__ctl__data__pick__sph__spectr_1_1gauss__spectr__control.html" title=" " alt="" coords="379,662,529,718"/>
+<area shape="rect" id="node11" href="$df/d06/structt__ctl__data__sph__vol__spectr_1_1volume__spectr__control.html" title=" " alt="" coords="375,217,533,273"/>
+<area shape="rect" id="node4" href="$d9/d30/structt__control__array__character_1_1read__character__item.html" title="structure of control character item" alt="" coords="5,367,175,408"/>
+<area shape="rect" id="node9" href="$d4/d4f/structt__ctl__data__sph__vol__spectr_1_1layerd__spectr__control.html" title=" " alt="" coords="379,406,529,462"/>
+<area shape="rect" id="node10" href="$d1/da9/structt__ctl__data__pick__sph__spectr_1_1pick__spectr__control.html" title="Structure for spectr data pickup." alt="" coords="384,534,524,590"/>
+<area shape="rect" id="node5" href="$d4/d3d/structt__control__array__integer_1_1read__integer__item.html" title="structure of control integer item" alt="" coords="13,5,167,47"/>
+<area shape="rect" id="node7" href="$d5/d14/structt__control__array__integer_1_1ctl__array__int.html" title="Structure for integer control array." alt="" coords="13,579,167,620"/>
+<area shape="rect" id="node8" href="$dc/da4/structt__control__array__integer2_1_1ctl__array__i2.html" title="Structure for 2 integers control array." alt="" coords="9,709,171,751"/>
+</map>

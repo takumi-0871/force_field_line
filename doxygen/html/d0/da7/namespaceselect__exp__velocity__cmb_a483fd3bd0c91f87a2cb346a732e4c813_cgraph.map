@@ -1,0 +1,7 @@
+<map id="select_exp_velocity_cmb::sel_cmb_sph_viscous_diffusion" name="select_exp_velocity_cmb::sel_cmb_sph_viscous_diffusion">
+<area shape="rect" id="node1" title=" " alt="" coords="5,111,196,167"/>
+<area shape="rect" id="node2" href="$de/d47/namespacecal__sph__exp__fixed__scalar.html#aa27181b9ede747d35e8e8bf501090a84" title=" " alt="" coords="244,5,432,47"/>
+<area shape="rect" id="node3" href="$d3/d32/namespaceset__sph__exp__fix__vector__cmb.html#a8837dcc38bba90ccb98f5759c583be7c" title=" " alt="" coords="255,71,421,127"/>
+<area shape="rect" id="node4" href="$d5/d53/namespaceset__sph__exp__free__cmb.html#a9f9f31c7a7153bf0b717a5d6fd94fb9f" title=" " alt="" coords="256,151,420,207"/>
+<area shape="rect" id="node5" href="$dd/d66/namespaceset__sph__exp__rigid__cmb.html#acfbb6dd11fc756bb4808fa7f4d392186" title=" " alt="" coords="255,231,421,287"/>
+</map>

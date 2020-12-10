@@ -1,0 +1,15 @@
+<map id="t_sph_transforms::pole_b_transform" name="t_sph_transforms::pole_b_transform">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,160,193"/>
+<area shape="rect" id="node2" href="$d1/d7d/namespacecalypso__mpi__real.html#ae7a63dfc14b84bd9271578e6a91373f7" title=" " alt="" coords="213,5,389,47"/>
+<area shape="rect" id="node3" href="$de/d8a/namespacespherical__srs__n.html#aa57ca9c8bd8710121c8ce4019d0a874c" title=" " alt="" coords="217,123,384,164"/>
+<area shape="rect" id="node5" href="$d8/d09/namespacem__work__time.html#a80a14ec74cd7855fbc714ec7d6636a9b" title=" " alt="" coords="665,101,877,127"/>
+<area shape="rect" id="node6" href="$d8/d09/namespacem__work__time.html#a91161cdde8de67ffefbd2c1863a14e7c" title=" " alt="" coords="705,152,838,193"/>
+<area shape="rect" id="node7" href="$de/d8a/namespacespherical__srs__n.html#ac25f05dffd9b5834297b6aec8612f67e" title=" " alt="" coords="225,240,377,281"/>
+<area shape="rect" id="node9" href="$d5/d48/namespacepole__sph__transform.html#a8a83684a78b152d14d39c112aef5852f" title=" " alt="" coords="208,393,393,435"/>
+<area shape="rect" id="node4" href="$df/da5/namespacesel__spherical__srs.html#a924f6b4b80dd85b74807972426e561d3" title=" " alt="" coords="441,123,617,164"/>
+<area shape="rect" id="node8" href="$d1/de7/namespacet__solver__sr.html#a39a4ace23f395ac401094422d619ba85" title=" " alt="" coords="460,240,599,281"/>
+<area shape="rect" id="node10" href="$d8/d48/namespaceschmidt__b__trans__at__center.html#a06fa8896f0a920cd7d84ca8a0732a6c3" title=" " alt="" coords="445,306,614,362"/>
+<area shape="rect" id="node11" href="$d8/d48/namespaceschmidt__b__trans__at__center.html#a8f29b3231f0e29a672a4c3c0f3ec0cdf" title=" " alt="" coords="445,386,614,442"/>
+<area shape="rect" id="node12" href="$d7/d4f/namespaceschmidt__b__trans__at__pole.html#ac7298979d28f239da28ad02e1205533d" title=" " alt="" coords="451,466,608,522"/>
+<area shape="rect" id="node13" href="$d7/d4f/namespaceschmidt__b__trans__at__pole.html#abceec770ccfc1f09edf9bd17d04fac6b" title=" " alt="" coords="451,546,608,602"/>
+</map>

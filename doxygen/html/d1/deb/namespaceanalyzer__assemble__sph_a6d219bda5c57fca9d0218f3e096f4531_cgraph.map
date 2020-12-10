@@ -1,0 +1,35 @@
+<map id="analyzer_assemble_sph::analyze_assemble_sph" name="analyzer_assemble_sph::analyze_assemble_sph">
+<area shape="rect" id="node1" title=" " alt="" coords="5,841,172,883"/>
+<area shape="rect" id="node2" href="$d2/d0d/namespacecalypso__mpi.html#aa89165f2095784395255016a873ecebb" title=" " alt="" coords="235,201,383,243"/>
+<area shape="rect" id="node3" href="$da/d6d/namespacenew__sph__restart.html#a66cc1d0249c464cfaeb10d7f50cfd73b" title=" " alt="" coords="231,267,388,308"/>
+<area shape="rect" id="node11" href="$d6/d73/namespacet__field__data__io.html#ac6cec7d532ecea878577c737e61fe96b" title=" " alt="" coords="469,479,623,520"/>
+<area shape="rect" id="node12" href="$d6/d73/namespacet__field__data__io.html#a86848dea426259f74c4196655280b6b6" title=" " alt="" coords="469,544,623,585"/>
+<area shape="rect" id="node13" href="$d7/def/namespacet__spectr__data__4__assemble.html#a887b8b911a89e67b0613560effed9a6c" title=" " alt="" coords="220,1027,399,1083"/>
+<area shape="rect" id="node15" href="$db/d9b/namespaceset__field__file__names.html#a04400655fc0d7ca5bcf6597f2542ec68" title=" " alt="" coords="239,841,380,883"/>
+<area shape="rect" id="node18" href="$da/d6d/namespacenew__sph__restart.html#ab0c03bcfce9eafbb686cf8b6bff98698" title=" " alt="" coords="235,669,384,711"/>
+<area shape="rect" id="node22" href="$d2/de5/namespacefield__io__select.html#a5f39654d3c9a755c7ebbd5d135d3fc09" title=" " alt="" coords="224,932,395,973"/>
+<area shape="rect" id="node24" href="$da/d6d/namespacenew__sph__restart.html#a97099789a064d6185b898d2558176789" title=" " alt="" coords="233,1184,385,1225"/>
+<area shape="rect" id="node28" href="$df/d1a/namespaceshare__field__data.html#a7d7854dd37dabe5f45d4544c274e7926" title=" " alt="" coords="231,1411,388,1452"/>
+<area shape="rect" id="node32" href="$df/d1a/namespaceshare__field__data.html#a36dedfb025578713eb08f9c2cc802fca" title=" " alt="" coords="231,1508,388,1549"/>
+<area shape="rect" id="node4" href="$d6/d73/namespacet__field__data__io.html#aff1d88f3e15c1079001b516af751ebce" title=" " alt="" coords="475,136,617,177"/>
+<area shape="rect" id="node5" href="$d4/d3e/namespacecopy__rj__phys__data__4__io.html#aee0ad6351528c9f5add2b2cd739662af" title=" " alt="" coords="451,201,641,243"/>
+<area shape="rect" id="node6" href="$d4/d3e/namespacecopy__rj__phys__data__4__io.html#a7f6a5183c9c49ba6a9f0a03f9d445604" title=" " alt="" coords="447,267,645,308"/>
+<area shape="rect" id="node7" href="$d7/d29/namespacet__time__data.html#a2bebf3ab68c30032cebbb306a4b0f399" title=" " alt="" coords="467,332,625,373"/>
+<area shape="rect" id="node8" href="$d1/d5c/namespaceassemble__sph__fields.html#a6935f2c4b469ac7b6b66a971cd91fff5" title=" " alt="" coords="474,398,618,454"/>
+<area shape="rect" id="node9" href="$d1/d5c/namespaceassemble__sph__fields.html#aaa0ae7ddaf76d9ad634379171da90cb0" title=" " alt="" coords="461,5,631,47"/>
+<area shape="rect" id="node10" href="$d3/d17/namespaceset__merged__restart__data.html#ac560f379616d57e2259e06c7c17946e8" title=" " alt="" coords="464,71,628,112"/>
+<area shape="rect" id="node14" href="$da/dc4/namespaceparallel__assemble__sph.html#ac654bc5ce7291da2721f729d3e71304c" title=" " alt="" coords="469,1057,623,1113"/>
+<area shape="rect" id="node16" href="$da/d0b/namespacedelete__data__files.html#acccc1b253dfbfdf51d9c42f713fc1b0a" title=" " alt="" coords="482,873,610,915"/>
+<area shape="rect" id="node17" href="$db/d9b/namespaceset__field__file__names.html#a0ca3a7b35a87ca28065ad8cf22c71736" title=" " alt="" coords="693,815,853,856"/>
+<area shape="rect" id="node19" href="$d4/d3e/namespacecopy__rj__phys__data__4__io.html#a9e8d36b40747515f06b4a65fd287c658" title=" " alt="" coords="468,610,624,666"/>
+<area shape="rect" id="node20" href="$d7/d29/namespacet__time__data.html#a6b6ddb8689c607d95539a008ff515c09" title=" " alt="" coords="467,691,625,732"/>
+<area shape="rect" id="node21" href="$d2/de5/namespacefield__io__select.html#aa6bc724a705c45514572a7d6a76e0c79" title=" " alt="" coords="460,756,632,797"/>
+<area shape="rect" id="node23" href="$d2/de5/namespacefield__io__select.html#af40bc91e48d6f517f17bfe519fb2609f" title=" " alt="" coords="475,991,617,1032"/>
+<area shape="rect" id="node25" href="$da/dc4/namespaceparallel__assemble__sph.html#a0d0c27275321eb1e31f894fec33807e4" title=" " alt="" coords="469,1137,623,1193"/>
+<area shape="rect" id="node26" href="$da/dc4/namespaceparallel__assemble__sph.html#a6fba60faebb9d33168da863d0c4d20d0" title=" " alt="" coords="469,1217,623,1273"/>
+<area shape="rect" id="node27" href="$da/dc4/namespaceparallel__assemble__sph.html#ab8fd31304f7f9b2be43bb9561f24b919" title=" " alt="" coords="469,1297,623,1353"/>
+<area shape="rect" id="node29" href="$da/ddb/namespacet__phys__data.html#a303c839643c6fb3c0279eaac177e1078" title=" " alt="" coords="482,1377,610,1419"/>
+<area shape="rect" id="node30" href="$df/d8a/namespacecalypso__mpi__int.html#aa1d7e59ec70622b426815536a7e6115c" title=" " alt="" coords="461,1508,631,1549"/>
+<area shape="rect" id="node31" href="$d1/d7d/namespacecalypso__mpi__real.html#a638a0d780ac073171276ce04e095f103" title=" " alt="" coords="458,1443,634,1484"/>
+<area shape="rect" id="node33" href="$d1/d7d/namespacecalypso__mpi__real.html#a91e729baef3d5955589bb1d315ceb787" title=" " alt="" coords="458,1573,634,1615"/>
+</map>

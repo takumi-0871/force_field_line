@@ -1,0 +1,6 @@
+<map id="select_exp_velocity_cmb::sel_cmb_sph_vorticity" name="select_exp_velocity_cmb::sel_cmb_sph_vorticity">
+<area shape="rect" id="node1" title=" " alt="" coords="5,86,197,127"/>
+<area shape="rect" id="node2" href="$d3/d32/namespaceset__sph__exp__fix__vector__cmb.html#ae3b876b0b8a8bef8100012a6fa911a01" title=" " alt="" coords="259,5,426,61"/>
+<area shape="rect" id="node3" href="$d5/d53/namespaceset__sph__exp__free__cmb.html#a76b90b320734dce53d692903aa387124" title=" " alt="" coords="246,86,439,127"/>
+<area shape="rect" id="node4" href="$dd/d66/namespaceset__sph__exp__rigid__cmb.html#a5370f6f52f2486eaa61ce9a2bb34c1f9" title=" " alt="" coords="245,151,440,193"/>
+</map>

@@ -54,7 +54,7 @@
 !
       implicit  none
 ! 
-      integer(kind = kint), parameter, private :: nfid_product = 20
+      integer(kind = kint), parameter, private :: nfid_product = 21
 !
 !
 !>        Field label for ageostrophic balance
@@ -178,6 +178,13 @@
      &                name = 'stream_pol_velocity',                     &
      &                math = '$ \Psi_{Us} $')
 !
+!
+!>        Stream functin for the poloidal magnetic field @f$ \Phi_{Bs} @f$
+     type(field_def), parameter :: stream_pol_magne                 &
+     &    = field_def(n_comp = n_vector,                                &
+     &                name = 'stream_pol_magne',                     &
+     &                math = '$ \Phi_{Bs} $')
+!
 !    ----------   Ole definision  ------------------
 !>        Field label for ageostrophic balance
 !!         @f$ -2 e_{ijk} \Omega_{j} u_{k} - \partial_{i} p @f$
@@ -211,6 +218,8 @@
      &   .or. (field_name .eq. square_current%name)                     &
 !
      &   .or. (field_name .eq. stream_pol_velocity%name)                &
+!
+     &   .or. (field_name .eq. stream_pol_magne%name)                &
      &      )   check_field_product_vectors = .TRUE.
 !
       end function check_field_product_vectors
@@ -298,8 +307,12 @@
       call set_field_labels(composition_scale,                          &
      &    n_comps(19), names(19), maths(19))
 !
-      call set_field_labels(stream_pol_velocity,                        &
+     call set_field_labels(stream_pol_velocity,                        &
      &    n_comps(20), names(20), maths(20))
+!
+!
+     call set_field_labels(stream_pol_magne,                        &
+     &    n_comps(21), names(21), maths(21))
 !
       end subroutine set_field_product_labels
 !

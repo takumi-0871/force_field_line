@@ -111,6 +111,8 @@
 !
 !>        start address for stream function for poloidal velocity
         integer (kind=kint) :: i_stream_pol_u =     izero
+!>        start address for stream function for poloidal magnetic field
+        integer (kind=kint) :: i_stream_pol_b =     izero
       end type phys_products_address
 !
 ! ----------------------------------------------------------------------
@@ -178,6 +180,9 @@
 !
         else if (field_name .eq. stream_pol_velocity%name) then
           prod_fld%i_stream_pol_u = i_phys
+!
+        else if (field_name .eq. stream_pol_magne%name) then
+          prod_fld%i_stream_pol_b = i_phys
         end if
       end if
 !
