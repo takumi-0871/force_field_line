@@ -1,0 +1,21 @@
+<map id="set_control_sph_mhd::set_control_sph_mhd_w_viz" name="set_control_sph_mhd::set_control_sph_mhd_w_viz">
+<area shape="rect" id="node1" title=" " alt="" coords="5,355,200,396"/>
+<area shape="rect" id="node2" href="$dc/d1a/namespaceset__nodal__field__name.html#a58380b5ba509bcda7ae720c42c2f042f" title=" " alt="" coords="248,117,405,159"/>
+<area shape="rect" id="node3" href="$d7/d81/namespaceset__control__field__data.html#a78cbd96d9ea9090d42950cde2f81819b" title=" " alt="" coords="467,37,638,79"/>
+<area shape="rect" id="node6" href="$db/dc0/namespaceset__control__sph__data__mhd.html#aae5d56f1a22850dd4d65e6de37c938e8" title=" " alt="" coords="249,234,404,290"/>
+<area shape="rect" id="node11" href="$d2/de7/namespaceset__control__sph__mhd.html#a11f98d1a5c5f7ae66899e8aaabaacad6" title=" " alt="" coords="249,461,404,517"/>
+<area shape="rect" id="node17" href="$d2/de7/namespaceset__control__sph__mhd.html#a880144556a6cd74c98e8ea76293197bb" title=" " alt="" coords="253,541,400,597"/>
+<area shape="rect" id="node18" href="$d4/da5/namespaceset__controls__4__sph__shell.html#a216a82c99af3894b61c776fa804308da" title=" " alt="" coords="251,697,402,753"/>
+<area shape="rect" id="node4" href="$da/ddb/namespacet__phys__data.html#a009738d8922f82b37e428239479ef2a6" title=" " alt="" coords="708,5,844,47"/>
+<area shape="rect" id="node5" href="$dc/d1a/namespaceset__nodal__field__name.html#a157e1176a237ae4dc770c01d41b21382" title=" " alt="" coords="700,71,852,112"/>
+<area shape="rect" id="node7" href="$db/deb/namespaceadd__nodal__fields__4__mhd.html#a61a34f5736828a2403918f2f8c415144" title=" " alt="" coords="462,103,643,144"/>
+<area shape="rect" id="node8" href="$db/deb/namespaceadd__nodal__fields__4__mhd.html#a244dfa943f12a3c6c1b1350b0e20f2c7" title=" " alt="" coords="453,168,652,209"/>
+<area shape="rect" id="node9" href="$d3/dc2/namespaceadd__sph__mhd__fields__2__ctl.html#aa6c9b287ec241fafb68b6f6a02e36c3a" title=" " alt="" coords="475,234,631,290"/>
+<area shape="rect" id="node10" href="$d2/d0d/namespacecalypso__mpi.html#a0f7f6f7b3772f9c3824d1f27652ae341" title=" " alt="" coords="479,315,627,356"/>
+<area shape="rect" id="node12" href="$d6/dec/namespaceset__control__4__pickup__sph.html#a8d69a6180996b70b97a7ce40283e4fb7" title=" " alt="" coords="479,381,626,437"/>
+<area shape="rect" id="node13" href="$d6/dec/namespaceset__control__4__pickup__sph.html#a31f198da28265efeeb6b8c1d5fc69aba" title=" " alt="" coords="479,461,626,517"/>
+<area shape="rect" id="node14" href="$d6/dec/namespaceset__control__4__pickup__sph.html#af776ae4cbe1edb3a8c9799d4637d033d" title=" " alt="" coords="479,541,626,597"/>
+<area shape="rect" id="node15" href="$d6/dec/namespaceset__control__4__pickup__sph.html#aedf65e89d03aeffa51fa099e9d9b8d98" title=" " alt="" coords="479,621,626,677"/>
+<area shape="rect" id="node16" href="$d6/dec/namespaceset__control__4__pickup__sph.html#a353bb3605ee06753099029f95cd8ee5b" title=" " alt="" coords="479,701,626,757"/>
+<area shape="rect" id="node19" href="$d5/da2/namespaceskip__comment__f.html#a645d7a06293c003f01f26c79a7e23d2e" title=" " alt="" coords="477,781,628,823"/>
+</map>

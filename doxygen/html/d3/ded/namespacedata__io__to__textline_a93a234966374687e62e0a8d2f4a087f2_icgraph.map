@@ -1,0 +1,41 @@
+<map id="data_io_to_textline::read_byte_stack_textline" name="data_io_to_textline::read_byte_stack_textline">
+<area shape="rect" id="node1" title=" " alt="" coords="760,882,935,923"/>
+<area shape="rect" id="node2" href="$d8/db2/namespacegz__mpi__domain__data__io.html#aa57ab3b891c8894d71c17e3c3a17486a" title=" " alt="" coords="509,194,708,235"/>
+<area shape="rect" id="node10" href="$d7/d80/namespacegz__mpi__integer__list__io.html#a47600d06f0ddd9c4315c1be273251d5e" title=" " alt="" coords="536,874,681,930"/>
+<area shape="rect" id="node13" href="$d7/d80/namespacegz__mpi__integer__list__io.html#a81a9db8d11087ce166a79b8123b22f88" title=" " alt="" coords="505,955,712,996"/>
+<area shape="rect" id="node14" href="$d7/d80/namespacegz__mpi__integer__list__io.html#a0fff2b4a539f69210ff7e6594f38224e" title=" " alt="" coords="525,1024,692,1066"/>
+<area shape="rect" id="node17" href="$d8/db2/namespacegz__mpi__domain__data__io.html#a1d3919a133ee7262e4f93d06f67e8663" title=" " alt="" coords="536,382,681,438"/>
+<area shape="rect" id="node20" href="$dd/dd3/namespacegz__mpi__ascii__data__io.html#a24bcf7b049cb6e1681e34a462104d8d9" title=" " alt="" coords="515,655,702,696"/>
+<area shape="rect" id="node24" href="$d4/d05/namespacempi__ascii__data__io.html#ab30ed961360572b6aa7d94175dcd6c05" title=" " alt="" coords="530,1616,687,1658"/>
+<area shape="rect" id="node3" href="$d8/db2/namespacegz__mpi__domain__data__io.html#a0342090c7a2dcc006bbf9bfcb23d963d" title=" " alt="" coords="5,76,201,118"/>
+<area shape="rect" id="node4" href="$d2/d2a/namespacegz__mpi__spherical__model__io.html#a7d54e88cad8df6f10b5a317b27678da8" title=" " alt="" coords="254,259,453,300"/>
+<area shape="rect" id="node5" href="$da/d3b/namespacegz__mpi__groups__io.html#a90729f20f2499fdf844c89d4fb0af5ee" title=" " alt="" coords="27,142,180,183"/>
+<area shape="rect" id="node6" href="$d8/db2/namespacegz__mpi__domain__data__io.html#aae05ab97543483065d216a5d095d8962" title=" " alt="" coords="5,11,201,52"/>
+<area shape="rect" id="node7" href="$d2/d2a/namespacegz__mpi__spherical__model__io.html#adc3e19543763d9b26802e49619d817aa" title=" " alt="" coords="256,194,451,235"/>
+<area shape="rect" id="node8" href="$da/d3b/namespacegz__mpi__groups__io.html#a9598984d7f03fcf5b33a9b048cd35369" title=" " alt="" coords="269,324,437,366"/>
+<area shape="rect" id="node9" href="$da/d3b/namespacegz__mpi__groups__io.html#aafd5e92b0097b91562e62474b7a2befa" title=" " alt="" coords="19,324,187,366"/>
+<area shape="rect" id="node11" href="$d3/dda/namespacegz__mpi__element__connect__io.html#ae5643b6bd5920292a342dbed8123db3c" title=" " alt="" coords="252,951,455,992"/>
+<area shape="rect" id="node12" href="$d2/d2a/namespacegz__mpi__spherical__model__io.html#a1f42ff4b08d31c9400b93c1701b93dbc" title=" " alt="" coords="249,886,457,927"/>
+<area shape="rect" id="node15" href="$d3/dda/namespacegz__mpi__element__connect__io.html#a24e3909b647ff75ad505babc31e0d381" title=" " alt="" coords="268,1097,439,1153"/>
+<area shape="rect" id="node16" href="$d3/dda/namespacegz__mpi__element__connect__io.html#a2f6cc5069fd1663cb0957e9bf75b7b2a" title=" " alt="" coords="268,1017,439,1073"/>
+<area shape="rect" id="node18" href="$d8/db2/namespacegz__mpi__domain__data__io.html#a441cd6b974610e6814ac06bc81f4a1d4" title=" " alt="" coords="254,390,453,431"/>
+<area shape="rect" id="node19" href="$d8/db2/namespacegz__mpi__domain__data__io.html#a9f55a70742d4348b76d03fd893c4f151" title=" " alt="" coords="263,76,444,118"/>
+<area shape="rect" id="node21" href="$d3/dda/namespacegz__mpi__element__connect__io.html#a6a24c2164b3938df88110e08568fa7bb" title=" " alt="" coords="250,768,457,810"/>
+<area shape="rect" id="node22" href="$db/dac/namespacegz__mpi__sph__gl__1d__idx__io.html#a9feb11308bbf95389ef8a413c2950e00" title=" " alt="" coords="276,608,431,664"/>
+<area shape="rect" id="node23" href="$db/dac/namespacegz__mpi__sph__gl__1d__idx__io.html#ac164f12d07aa7c0283d00c5175847819" title=" " alt="" coords="276,688,431,744"/>
+<area shape="rect" id="node25" href="$d6/d21/namespacempi__domain__data__io.html#a6927a0e36a3cc55796fea04a6b670d44" title=" " alt="" coords="273,1507,433,1548"/>
+<area shape="rect" id="node26" href="$df/dfd/namespacempi__element__connect__io.html#a0d26c2331158f2a09cefa8a5041e6294" title=" " alt="" coords="279,1573,428,1629"/>
+<area shape="rect" id="node27" href="$df/dfd/namespacempi__element__connect__io.html#ad48ce0566e0dd49b18d94111df31d0ac" title=" " alt="" coords="263,1654,444,1695"/>
+<area shape="rect" id="node28" href="$d6/d21/namespacempi__domain__data__io.html#aba7bfed3edbdd00a810dc678b54bb3bf" title=" " alt="" coords="274,1719,433,1760"/>
+<area shape="rect" id="node29" href="$d3/d80/namespacempi__spherical__model__io.html#ab019ac622ae5d030b8e7030fa21f01af" title=" " alt="" coords="260,1784,447,1826"/>
+<area shape="rect" id="node30" href="$d3/d80/namespacempi__spherical__model__io.html#a39262f47512bc50c47e372482cf17471" title=" " alt="" coords="265,1850,442,1891"/>
+<area shape="rect" id="node31" href="$dd/dbb/namespacempi__groups__io.html#a1778531984fd5fd7400db7afbba815e7" title=" " alt="" coords="286,1915,421,1956"/>
+<area shape="rect" id="node32" href="$d6/d21/namespacempi__domain__data__io.html#af87669274d45f993fe5c98740687ff52" title=" " alt="" coords="274,1980,433,2022"/>
+<area shape="rect" id="node33" href="$df/dfd/namespacempi__element__connect__io.html#afc052303cb6ac222fa6aeaf0e6390033" title=" " alt="" coords="261,2046,446,2087"/>
+<area shape="rect" id="node34" href="$d3/d80/namespacempi__spherical__model__io.html#af08d1e70d811e2eb706c1badfe879e91" title=" " alt="" coords="266,2111,441,2152"/>
+<area shape="rect" id="node35" href="$d0/db6/namespacempi__sph__gl__1d__idx__io.html#aac58917f77658b56c8bc9f957fabc0dd" title=" " alt="" coords="268,1178,439,1219"/>
+<area shape="rect" id="node36" href="$d0/db6/namespacempi__sph__gl__1d__idx__io.html#a55a4d494ae87e06fae14681886cf8bca" title=" " alt="" coords="264,1243,443,1284"/>
+<area shape="rect" id="node37" href="$dd/dbb/namespacempi__groups__io.html#ad90a35589e0fc3d2efd31f8b1a5413d0" title=" " alt="" coords="33,1331,173,1372"/>
+<area shape="rect" id="node38" href="$dd/dbb/namespacempi__groups__io.html#a68e756cc54182f66b0bf7687a7040feb" title=" " alt="" coords="283,1360,423,1402"/>
+<area shape="rect" id="node39" href="$df/dfd/namespacempi__element__connect__io.html#a6b61cdec7740c525a6ba505642edb4df" title=" " alt="" coords="278,1426,429,1482"/>
+</map>

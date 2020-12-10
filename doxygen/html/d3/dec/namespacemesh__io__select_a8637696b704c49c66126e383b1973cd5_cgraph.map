@@ -1,0 +1,22 @@
+<map id="mesh_io_select::sel_read_geometry_size" name="mesh_io_select::sel_read_geometry_size">
+<area shape="rect" id="node1" title=" " alt="" coords="5,384,152,425"/>
+<area shape="rect" id="node2" href="$d0/d0c/namespacegz__mesh__file__io.html#a114fa9952093e4dffda7125e3750483c" title=" " alt="" coords="214,104,361,145"/>
+<area shape="rect" id="node7" href="$d7/dad/namespacegz__mesh__file__io__b.html#ad63eb30b59e7ec1a5a76ebd8250cb0a4" title=" " alt="" coords="200,287,375,328"/>
+<area shape="rect" id="node10" href="$d9/d43/namespacemesh__file__io.html#a4476324fdcffa4372b90770c332a8248" title=" " alt="" coords="223,384,351,425"/>
+<area shape="rect" id="node12" href="$d0/d05/namespacemesh__file__io__b.html#a9a9ab3b1347e2545c730e66157d8a246" title=" " alt="" coords="216,476,359,517"/>
+<area shape="rect" id="node16" href="$d6/d2d/namespaceset__mesh__file__names.html#a9ee9c52caf78a72fdd0bbfc08941f149" title=" " alt="" coords="212,697,363,739"/>
+<area shape="rect" id="node3" href="$d2/dc8/namespaceskip__gz__comment.html#a39ad888fbfc406606f95265d6f233e96" title=" " alt="" coords="429,5,595,47"/>
+<area shape="rect" id="node5" href="$d2/d09/namespacegz__mesh__data__io.html#af451e59f6e00145a47e73f685ab00490" title=" " alt="" coords="439,71,585,112"/>
+<area shape="rect" id="node6" href="$d2/dc8/namespaceskip__gz__comment.html#a394be54091c77184f1c3a2db68ed343f" title=" " alt="" coords="430,136,594,177"/>
+<area shape="rect" id="node4" href="$d0/dc0/namespacegzip__file__access.html#aec62e27604a89d486b1ccf31cf8ea474" title=" " alt="" coords="649,100,808,141"/>
+<area shape="rect" id="node8" href="$da/d8f/namespacegz__mesh__data__io__b.html#aef4a3fde2cb07a171f8687443cf96182" title=" " alt="" coords="425,253,599,295"/>
+<area shape="rect" id="node9" href="$d1/d90/namespacegz__binary__io.html#a974fbf0c7d789e142ae2a7419f2f42a0" title=" " alt="" coords="447,319,577,360"/>
+<area shape="rect" id="node11" href="$d2/d2e/namespacemesh__data__io.html#a383b6c1d113dcd3b07492ae1e7b0718f" title=" " alt="" coords="444,384,580,425"/>
+<area shape="rect" id="node13" href="$d9/d00/namespacebinary__io.html#a0e63d68131d87ea896a343ce736a1476" title=" " alt="" coords="423,450,601,477"/>
+<area shape="rect" id="node14" href="$d9/d00/namespacebinary__io.html#ab6ad47cf09d09f26ad57758cc6c323de" title=" " alt="" coords="441,501,583,543"/>
+<area shape="rect" id="node15" href="$dd/de9/namespacemesh__data__io__b.html#af38a8e4828e62b69c7e81ce79d5729f8" title=" " alt="" coords="437,567,587,608"/>
+<area shape="rect" id="node17" href="$d6/d85/namespaceset__mesh__extensions.html#af550a74a2bc92b9f72a536b01f4a064e" title=" " alt="" coords="437,632,587,673"/>
+<area shape="rect" id="node18" href="$d6/d85/namespaceset__mesh__extensions.html#aaad8ba75cd26c5692dbeed1603524516" title=" " alt="" coords="437,697,587,739"/>
+<area shape="rect" id="node19" href="$d9/d85/namespaceset__parallel__file__name.html#a82dc7398c437c7cc17d05b34423a8166" title=" " alt="" coords="437,763,587,804"/>
+<area shape="rect" id="node20" href="$d9/d85/namespaceset__parallel__file__name.html#a96abf914a90f55115d5f6b2fd0185e0d" title=" " alt="" coords="437,828,587,869"/>
+</map>

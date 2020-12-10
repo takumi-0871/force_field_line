@@ -1,0 +1,12 @@
+<map id="set_bc_flag_sph_velo::set_sph_bc_velo_sph" name="set_bc_flag_sph_velo::set_sph_bc_velo_sph">
+<area shape="rect" id="node1" title=" " alt="" coords="5,189,161,231"/>
+<area shape="rect" id="node2" href="$d0/d02/namespacet__boundary__sph__spectr.html#a793b451930c73aefbe5b76db12b5ff59" title=" " alt="" coords="209,79,397,120"/>
+<area shape="rect" id="node5" href="$df/dd5/namespaceset__bc__sph__scalars.html#a8872eb28d170c58292fef58fa0fd6ca7" title=" " alt="" coords="234,145,373,201"/>
+<area shape="rect" id="node7" href="$d4/d15/namespaceset__bc__flag__sph__velo.html#aead1b4c4cbe190ea8533502bb31cb304" title=" " alt="" coords="220,225,387,267"/>
+<area shape="rect" id="node10" href="$d4/d15/namespaceset__bc__flag__sph__velo.html#aba5d609654d8c59e668000739e278287" title=" " alt="" coords="224,291,383,332"/>
+<area shape="rect" id="node3" href="$d0/d02/namespacet__boundary__sph__spectr.html#a1412b01a83d8047b3beb5622b9ed2f0d" title=" " alt="" coords="459,71,617,127"/>
+<area shape="rect" id="node4" href="$d0/d02/namespacet__boundary__sph__spectr.html#af56d81692bead8afe38d9d63fd85a9aa" title=" " alt="" coords="445,5,631,47"/>
+<area shape="rect" id="node6" href="$d2/d0d/namespacecalypso__mpi.html#a0f7f6f7b3772f9c3824d1f27652ae341" title=" " alt="" coords="464,152,612,193"/>
+<area shape="rect" id="node8" href="$d5/da9/namespaceset__sph__bc__data__by__file.html#afa695d59eced45bb780bd5246aa8fa86" title=" " alt="" coords="455,298,621,354"/>
+<area shape="rect" id="node9" href="$d5/da9/namespaceset__sph__bc__data__by__file.html#a328d2d6ce85b077a89596cef7d0781bb" title=" " alt="" coords="463,218,613,274"/>
+</map>

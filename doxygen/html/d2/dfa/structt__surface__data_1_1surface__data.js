@@ -1,0 +1,27 @@
+var structt__surface__data_1_1surface__data =
+[
+    [ "a_area_surf", "d2/dfa/structt__surface__data_1_1surface__data.html#a63edd12b7ede8b2ef5c12b37d3801304", null ],
+    [ "area_surf", "d2/dfa/structt__surface__data_1_1surface__data.html#a853c76f308c6aeaa74dcf3fd17781058", null ],
+    [ "ie_surf", "d2/dfa/structt__surface__data_1_1surface__data.html#af9e77e6cca4230ab9acd1195d58ca753", null ],
+    [ "iele_4_surf", "d2/dfa/structt__surface__data_1_1surface__data.html#a55e7eec5adaf6fde531b1b47aeb7a223", null ],
+    [ "interior_surf", "d2/dfa/structt__surface__data_1_1surface__data.html#a257360abafbd2b3a35ea2bf63a08c1ff", null ],
+    [ "internal_surf", "d2/dfa/structt__surface__data_1_1surface__data.html#a0383d99e6a9e6278807e80939000f8f6", null ],
+    [ "isf_4_ele", "d2/dfa/structt__surface__data_1_1surface__data.html#a4998fe2730bcc480590142f0e210cf36", null ],
+    [ "isf_external", "d2/dfa/structt__surface__data_1_1surface__data.html#a7aa9fb6583d423b2a63cede22fa83f5b", null ],
+    [ "isf_isolate", "d2/dfa/structt__surface__data_1_1surface__data.html#aa308918e5f3974b5a82cb27312248d77", null ],
+    [ "isf_rot_ele", "d2/dfa/structt__surface__data_1_1surface__data.html#aa911ebb58afd721cd1da9863963ed88b", null ],
+    [ "istack_intersurf", "d2/dfa/structt__surface__data_1_1surface__data.html#a8f7da4f489320811257bb7d362ded439", null ],
+    [ "istack_numsurf", "d2/dfa/structt__surface__data_1_1surface__data.html#a1c5745d812ba7115fd2627cb7fb15c96", null ],
+    [ "istack_surf_smp", "d2/dfa/structt__surface__data_1_1surface__data.html#a16878626c8ceeb22066bee3b337ef18d", null ],
+    [ "isurf_global", "d2/dfa/structt__surface__data_1_1surface__data.html#a0029844b30877d47b372a38958bafc76", null ],
+    [ "max_internal_surf_smp", "d2/dfa/structt__surface__data_1_1surface__data.html#a8c5b587998356d988cab54913b753642", null ],
+    [ "max_surf_smp", "d2/dfa/structt__surface__data_1_1surface__data.html#a963c2ae92c498554ba395c7f645316d3", null ],
+    [ "nnod_4_surf", "d2/dfa/structt__surface__data_1_1surface__data.html#a9e2f59f4bdf3269ad7bf058e2057601e", null ],
+    [ "node_on_sf", "d2/dfa/structt__surface__data_1_1surface__data.html#acce440cd56656f300ca09745ad7712a6", null ],
+    [ "node_on_sf_n", "d2/dfa/structt__surface__data_1_1surface__data.html#af1f0cb750f7119c3c37c613d838c41e8", null ],
+    [ "numsurf", "d2/dfa/structt__surface__data_1_1surface__data.html#a059fc65e93285dd788dd9f0cc511a022", null ],
+    [ "numsurf_ext", "d2/dfa/structt__surface__data_1_1surface__data.html#aa6f9e66344b326a0d9b0a9b0a677400d", null ],
+    [ "numsurf_iso", "d2/dfa/structt__surface__data_1_1surface__data.html#ae9045e495498194bf0b565306134d553", null ],
+    [ "vnorm_surf", "d2/dfa/structt__surface__data_1_1surface__data.html#af7902679672949920231196699f6d60f", null ],
+    [ "x_surf", "d2/dfa/structt__surface__data_1_1surface__data.html#ad9bc90c4c1cd58a75d9b1b1dee3dd9da", null ]
+];

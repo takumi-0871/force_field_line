@@ -1,0 +1,26 @@
+var m__diffusion__term__labels_8f90 =
+[
+    [ "check_diffusivity", "d2/dfd/m__diffusion__term__labels_8f90.html#a12daff9ad8a1b7bcf04dd1121daa631b", null ],
+    [ "check_scalar_diffusion", "d2/dfd/m__diffusion__term__labels_8f90.html#a72118bae19018416cfea23afd8882379", null ],
+    [ "check_vector_diffusion", "d2/dfd/m__diffusion__term__labels_8f90.html#af2306a3444b636770d80537543a05f75", null ],
+    [ "num_base_diffusions", "d2/dfd/m__diffusion__term__labels_8f90.html#a7f13cfb56a939bacbac1cc08328eff40", null ],
+    [ "num_base_diffusivities", "d2/dfd/m__diffusion__term__labels_8f90.html#a39b352845b3eba003997caf03e02830b", null ],
+    [ "set_base_diffusion_labels", "d2/dfd/m__diffusion__term__labels_8f90.html#abb8fe0fb9f0ca17abefec810c0082d3c", null ],
+    [ "set_base_diffusivity_labels", "d2/dfd/m__diffusion__term__labels_8f90.html#aa52bb7dd6d1a68adf4f1a06910ad93e7", null ],
+    [ "chemical_conductivity", "d2/dfd/m__diffusion__term__labels_8f90.html#a7474f85458e40aa9be92f98c49793c18", null ],
+    [ "chemical_diffusivity", "d2/dfd/m__diffusion__term__labels_8f90.html#a606c8fec784d163e66c6aa5d955b312a", null ],
+    [ "composition_diffusion", "d2/dfd/m__diffusion__term__labels_8f90.html#aff90c97abce671c332eb94d302fda0a9", null ],
+    [ "div_viscousity", "d2/dfd/m__diffusion__term__labels_8f90.html#a9ba62fbb66fec5c99b3015b792c3764c", null ],
+    [ "kinetic_viscosity", "d2/dfd/m__diffusion__term__labels_8f90.html#ae3a3cfef36f83927e312c72997a8ee8e", null ],
+    [ "magnetic_diffusion", "d2/dfd/m__diffusion__term__labels_8f90.html#a19f8112589a5632cc01a8b2fe3deca85", null ],
+    [ "magnetic_diffusivity", "d2/dfd/m__diffusion__term__labels_8f90.html#aaf77117b46e7a6442d4a81306419c326", null ],
+    [ "ndiffusion", "d2/dfd/m__diffusion__term__labels_8f90.html#a3c7322cd170dfcec3e970a56b063d1b4", null ],
+    [ "ndiffusivities", "d2/dfd/m__diffusion__term__labels_8f90.html#aa226a5f969da348fa049ff1ca44e6394", null ],
+    [ "thermal_conductivity", "d2/dfd/m__diffusion__term__labels_8f90.html#acdfdccb0a8a37d8f0166f723f0350a7b", null ],
+    [ "thermal_diffusion", "d2/dfd/m__diffusion__term__labels_8f90.html#a8a13c802f78b02e36652e64bbb52b7cf", null ],
+    [ "thermal_diffusivity", "d2/dfd/m__diffusion__term__labels_8f90.html#aff6366fe0886c435f69bdbebf43fa1a2", null ],
+    [ "vector_potential_diffusion", "d2/dfd/m__diffusion__term__labels_8f90.html#a7250b39ba1c16a2ae6a11fc176145a0d", null ],
+    [ "viscosity", "d2/dfd/m__diffusion__term__labels_8f90.html#ac48350735cc2f6d7a8650f332cbdce4a", null ],
+    [ "viscous_diffusion", "d2/dfd/m__diffusion__term__labels_8f90.html#ac43512070ab13a858ff17b9f07bcc64f", null ],
+    [ "vorticity_diffusion", "d2/dfd/m__diffusion__term__labels_8f90.html#a11a8ed7a99f597c087aa16a03cb4a546", null ]
+];

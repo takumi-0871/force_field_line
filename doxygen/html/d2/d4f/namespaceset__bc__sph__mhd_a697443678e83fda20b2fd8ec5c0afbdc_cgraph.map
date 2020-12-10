@@ -1,0 +1,12 @@
+<map id="set_bc_sph_mhd::set_sph_bc_magne_sph" name="set_bc_sph_mhd::set_sph_bc_magne_sph">
+<area shape="rect" id="node1" title=" " alt="" coords="5,192,152,233"/>
+<area shape="rect" id="node2" href="$df/dd5/namespaceset__bc__sph__scalars.html#a8872eb28d170c58292fef58fa0fd6ca7" title=" " alt="" coords="214,35,353,91"/>
+<area shape="rect" id="node4" href="$d5/da9/namespaceset__sph__bc__data__by__file.html#afa695d59eced45bb780bd5246aa8fa86" title=" " alt="" coords="200,185,367,241"/>
+<area shape="rect" id="node9" href="$d5/da9/namespaceset__sph__bc__data__by__file.html#a328d2d6ce85b077a89596cef7d0781bb" title=" " alt="" coords="208,334,359,390"/>
+<area shape="rect" id="node3" href="$d2/d0d/namespacecalypso__mpi.html#a0f7f6f7b3772f9c3824d1f27652ae341" title=" " alt="" coords="430,5,578,47"/>
+<area shape="rect" id="node5" href="$d6/d5d/namespacet__each__sph__boundary__io__data.html#a1eaeba7bd58259801f80dcb488f3ce43" title=" " alt="" coords="417,71,591,127"/>
+<area shape="rect" id="node6" href="$d6/d5d/namespacet__each__sph__boundary__io__data.html#a68a0655acb031cbbffb074fab2f13d47" title=" " alt="" coords="415,151,593,207"/>
+<area shape="rect" id="node7" href="$d5/da2/namespaceskip__comment__f.html#a645d7a06293c003f01f26c79a7e23d2e" title=" " alt="" coords="641,283,792,324"/>
+<area shape="rect" id="node8" href="$d4/d96/namespaceset__sph__boundary__from__file.html#a0760d43aab505fe9e38cd7303e05560c" title=" " alt="" coords="423,283,585,324"/>
+<area shape="rect" id="node10" href="$d6/d5d/namespacet__each__sph__boundary__io__data.html#af78870042886c5f31aeb17d7c883b44b" title=" " alt="" coords="424,399,584,455"/>
+</map>

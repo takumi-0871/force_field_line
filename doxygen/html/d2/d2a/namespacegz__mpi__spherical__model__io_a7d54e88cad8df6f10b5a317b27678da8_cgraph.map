@@ -1,0 +1,20 @@
+<map id="gz_mpi_spherical_model_io::gz_mpi_read_gl_reso_sph" name="gz_mpi_spherical_model_io::gz_mpi_read_gl_reso_sph">
+<area shape="rect" id="node1" title=" " alt="" coords="5,300,204,341"/>
+<area shape="rect" id="node2" href="$dd/dd3/namespacegz__mpi__ascii__data__io.html#acabfa622a1c47626d377f6dbd0301401" title=" " alt="" coords="501,201,671,243"/>
+<area shape="rect" id="node9" href="$d8/db2/namespacegz__mpi__domain__data__io.html#aa57ab3b891c8894d71c17e3c3a17486a" title=" " alt="" coords="252,332,451,373"/>
+<area shape="rect" id="node14" href="$dd/dd3/namespacegz__mpi__ascii__data__io.html#a24bcf7b049cb6e1681e34a462104d8d9" title=" " alt="" coords="258,267,445,308"/>
+<area shape="rect" id="node15" href="$dd/dd3/namespacegz__mpi__ascii__data__io.html#a22f0aef37e772f25457b325dfb0a5bb2" title=" " alt="" coords="511,136,661,177"/>
+<area shape="rect" id="node17" href="$d3/dd4/namespacem__sph__modes__grid__labels.html#a82154a7969ba06dafc12cf82c85b6f03" title=" " alt="" coords="263,463,439,504"/>
+<area shape="rect" id="node18" href="$d3/ded/namespacedata__io__to__textline.html#ad458614e5874ed9a5900334bc0f6c3b3" title=" " alt="" coords="276,397,427,439"/>
+<area shape="rect" id="node3" href="$d7/dcf/namespacet__buffer__4__gzip.html#a60abab7c9eba50fe51f9a2ba9b9863bf" title=" " alt="" coords="739,201,886,243"/>
+<area shape="rect" id="node4" href="$db/d98/namespacecalypso__mpi__char.html#a9d943f5ad61bbb403d8ab9640fd87efd" title=" " alt="" coords="723,397,903,439"/>
+<area shape="rect" id="node5" href="$dc/df6/namespacecalypso__mpi__int8.html#a51d96246acae2705e079daea0a3a333a" title=" " alt="" coords="725,136,901,177"/>
+<area shape="rect" id="node6" href="$de/d27/namespacem__calypso__mpi__io.html#aa261e2f6e7df06b34f5fdd8ca461fd57" title=" " alt="" coords="721,71,904,112"/>
+<area shape="rect" id="node7" href="$db/dda/namespacetransfer__to__long__integers.html#af30c9701b0017688a3c03a4d73a04a94" title=" " alt="" coords="729,267,897,308"/>
+<area shape="rect" id="node8" href="$da/dcc/namespacezlib__convert__text.html#aeafb84d9a1558506a91fd13f9b3f364d" title=" " alt="" coords="747,332,879,373"/>
+<area shape="rect" id="node10" href="$d7/d13/namespacezlib__cvt__ascii__comm__tbl.html#ac3fede8958885f821d77133b60a84cad" title=" " alt="" coords="501,449,671,491"/>
+<area shape="rect" id="node12" href="$d3/ded/namespacedata__io__to__textline.html#aacd2cdbb31bda7b6f2c55c79c1013762" title=" " alt="" coords="503,267,669,308"/>
+<area shape="rect" id="node13" href="$d3/ded/namespacedata__io__to__textline.html#a93a234966374687e62e0a8d2f4a087f2" title=" " alt="" coords="499,332,673,373"/>
+<area shape="rect" id="node11" href="$d3/ded/namespacedata__io__to__textline.html#aba26d4a3693c37b924f3edac8a0d4ab8" title=" " alt="" coords="733,485,893,527"/>
+<area shape="rect" id="node16" href="$da/dcc/namespacezlib__convert__text.html#ad201e9a36ae061a12181a00923e44fba" title=" " alt="" coords="742,5,883,47"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="field_io_select::sel_read_alloc_step_sph_file" name="field_io_select::sel_read_alloc_step_sph_file">
+<area shape="rect" id="node1" title=" " alt="" coords="675,183,847,225"/>
+<area shape="rect" id="node2" href="$dc/de7/namespaceanalyzer__compare__sph__rst.html#ab8bbf95ba448081a0807eb9b39fbeb22" title=" " alt="" coords="213,5,369,61"/>
+<area shape="rect" id="node4" href="$da/d6d/namespacenew__sph__restart.html#ab0c03bcfce9eafbb686cf8b6bff98698" title=" " alt="" coords="455,86,605,127"/>
+<area shape="rect" id="node6" href="$d7/d35/namespacesph__mhd__rst__io__control.html#a57e281519a442b14a6a18bb7e7ab7bbc" title=" " alt="" coords="433,183,627,225"/>
+<area shape="rect" id="node9" href="$d7/d35/namespacesph__mhd__rst__io__control.html#ac8999cf2ea4e094a3832ee5b6cd29420" title=" " alt="" coords="436,266,624,307"/>
+<area shape="rect" id="node12" href="$d7/d35/namespacesph__mhd__rst__io__control.html#ad3cbfd7835982ed22c995469901b74dc" title=" " alt="" coords="450,331,610,373"/>
+<area shape="rect" id="node3" href="$d0/d8a/main__compare__sph__rst_8f90.html#a2d44f6da86b7b3a50ae118ef47aec673" title="Main program for assemble field data." alt="" coords="5,20,149,47"/>
+<area shape="rect" id="node5" href="$d1/deb/namespaceanalyzer__assemble__sph.html#a6d219bda5c57fca9d0218f3e096f4531" title=" " alt="" coords="208,86,375,127"/>
+<area shape="rect" id="node7" href="$db/dbb/namespacesph__analyzer__add__initial.html#a1b000bd07f1585f9b1fbc703526a8650" title=" " alt="" coords="209,151,373,193"/>
+<area shape="rect" id="node8" href="$d8/df8/namespaceset__initial__sph__dynamo.html#a87bb4e293e0e3e6064fd74a417e13e7c" title=" " alt="" coords="208,217,375,258"/>
+<area shape="rect" id="node10" href="$d0/de2/namespacesph__analyzer__d__bench.html#ad22f985cbc53780763f10fae2dae3c54" title=" " alt="" coords="214,282,369,323"/>
+<area shape="rect" id="node11" href="$d0/d7f/namespacesph__analyzer__snap__w__psf.html#a1c8dece734bf4fe4a48eff02bb2e8077" title=" " alt="" coords="197,347,385,389"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="cal_write_sph_monitor_data::output_sph_monitor_data" name="cal_write_sph_monitor_data::output_sph_monitor_data">
+<area shape="rect" id="node1" title=" " alt="" coords="5,625,213,666"/>
+<area shape="rect" id="node2" href="$d7/d1f/namespacempi__picked__sph__spectr__io.html#a9398f2048ec768bc744b649b69f1d3f7" title=" " alt="" coords="261,217,480,258"/>
+<area shape="rect" id="node9" href="$d2/d97/namespacempi__sph__gauss__coefs__io.html#aee9f2615a2abe2b7b0727b92a4f96ee3" title=" " alt="" coords="291,399,450,455"/>
+<area shape="rect" id="node12" href="$d2/d9f/namespacecal__write__sph__monitor__data.html#acbe8c3a43408570acc910d959e501550" title=" " alt="" coords="288,771,453,827"/>
+<area shape="rect" id="node18" href="$df/dd0/namespacet__no__heat__nusselt.html#a98a8d2c9bc88f5b5587c528d2c557293" title=" " alt="" coords="286,625,455,666"/>
+<area shape="rect" id="node20" href="$d2/d37/namespaceoutput__sph__m__square__file.html#a9879420889a875d8e32f61b009c60910" title=" " alt="" coords="291,851,450,907"/>
+<area shape="rect" id="node3" href="$d9/d85/namespaceset__parallel__file__name.html#a1afad5ab4067f9ca7b4e091526a2cbe6" title=" " alt="" coords="747,515,897,557"/>
+<area shape="rect" id="node4" href="$d2/d0d/namespacecalypso__mpi.html#aa89165f2095784395255016a873ecebb" title=" " alt="" coords="539,217,687,258"/>
+<area shape="rect" id="node5" href="$d4/d05/namespacempi__ascii__data__io.html#ad65bf248f5a2dcd24ab4696d0844201a" title=" " alt="" coords="546,282,681,323"/>
+<area shape="rect" id="node6" href="$d4/d05/namespacempi__ascii__data__io.html#a768509ffad915a30b1b16c42341bbe2e" title=" " alt="" coords="538,347,689,389"/>
+<area shape="rect" id="node7" href="$d7/d1f/namespacempi__picked__sph__spectr__io.html#a6953987b398287268212c70afe5ab5a6" title=" " alt="" coords="534,5,693,61"/>
+<area shape="rect" id="node8" href="$d7/d1f/namespacempi__picked__sph__spectr__io.html#a13a97a6adb6bfca8b560e0a0c38be490" title=" " alt="" coords="534,85,693,141"/>
+<area shape="rect" id="node10" href="$d2/d97/namespacempi__sph__gauss__coefs__io.html#af78b8790125f3d5b3c3df3d9f6344681" title=" " alt="" coords="537,464,689,520"/>
+<area shape="rect" id="node11" href="$d2/d97/namespacempi__sph__gauss__coefs__io.html#ac2f377166bcfe495ae9752dcdcbbb9d9" title=" " alt="" coords="537,544,689,600"/>
+<area shape="rect" id="node13" href="$d2/d37/namespaceoutput__sph__m__square__file.html#afe6bd52d5a48d80ff0772960177a609c" title=" " alt="" coords="538,771,689,827"/>
+<area shape="rect" id="node14" href="$d2/d37/namespaceoutput__sph__m__square__file.html#af948b76d4916e8da4246f043dbb4463a" title=" " alt="" coords="538,851,689,907"/>
+<area shape="rect" id="node15" href="$d2/d37/namespaceoutput__sph__m__square__file.html#aaf3b4d14cc34e093c6505b10aeb74079" title=" " alt="" coords="538,691,689,747"/>
+<area shape="rect" id="node16" href="$d2/d37/namespaceoutput__sph__m__square__file.html#a5747e24b3efbf6ab9b52c4199da4191d" title=" " alt="" coords="538,931,689,987"/>
+<area shape="rect" id="node17" href="$d2/d37/namespaceoutput__sph__m__square__file.html#a7784507ed3fc865debc0af001ef7d7b8" title=" " alt="" coords="538,1011,689,1067"/>
+<area shape="rect" id="node19" href="$df/dd0/namespacet__no__heat__nusselt.html#ac4b94fe77d2314b7784d3fd18ff029f7" title=" " alt="" coords="528,625,699,666"/>
+</map>

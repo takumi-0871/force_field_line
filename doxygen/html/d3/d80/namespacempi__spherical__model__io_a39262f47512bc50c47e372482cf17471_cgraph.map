@@ -1,0 +1,16 @@
+<map id="mpi_spherical_model_io::mpi_read_gl_reso_sph" name="mpi_spherical_model_io::mpi_read_gl_reso_sph">
+<area shape="rect" id="node1" title=" " alt="" coords="5,235,183,276"/>
+<area shape="rect" id="node2" href="$d3/dd4/namespacem__sph__modes__grid__labels.html#a82154a7969ba06dafc12cf82c85b6f03" title=" " alt="" coords="231,84,407,125"/>
+<area shape="rect" id="node3" href="$d4/d05/namespacempi__ascii__data__io.html#a9107186ecbeffdcce035c4bc7836b8d4" title=" " alt="" coords="471,71,613,112"/>
+<area shape="rect" id="node7" href="$d6/d21/namespacempi__domain__data__io.html#a36406bcae8a6b6b6c45461895aa8828b" title=" " alt="" coords="238,267,399,308"/>
+<area shape="rect" id="node10" href="$d4/d05/namespacempi__ascii__data__io.html#abe14c16c161632094cea4eaeadc0c371" title=" " alt="" coords="475,332,609,373"/>
+<area shape="rect" id="node12" href="$d4/d05/namespacempi__ascii__data__io.html#ab30ed961360572b6aa7d94175dcd6c05" title=" " alt="" coords="240,201,397,243"/>
+<area shape="rect" id="node14" href="$d3/ded/namespacedata__io__to__textline.html#ad458614e5874ed9a5900334bc0f6c3b3" title=" " alt="" coords="243,391,394,432"/>
+<area shape="rect" id="node4" href="$db/d98/namespacecalypso__mpi__char.html#a9d943f5ad61bbb403d8ab9640fd87efd" title=" " alt="" coords="679,5,859,47"/>
+<area shape="rect" id="node5" href="$de/d27/namespacem__calypso__mpi__io.html#a7ee3273e7a68c27cf898e89e32716c4c" title=" " alt="" coords="677,71,860,112"/>
+<area shape="rect" id="node6" href="$db/dda/namespacetransfer__to__long__integers.html#af30c9701b0017688a3c03a4d73a04a94" title=" " alt="" coords="685,136,853,177"/>
+<area shape="rect" id="node8" href="$d3/ded/namespacedata__io__to__textline.html#aacd2cdbb31bda7b6f2c55c79c1013762" title=" " alt="" coords="459,201,625,243"/>
+<area shape="rect" id="node9" href="$d3/ded/namespacedata__io__to__textline.html#a78d4cd91d02aafe9a3b8bd9e72fcd7d4" title=" " alt="" coords="466,267,618,308"/>
+<area shape="rect" id="node11" href="$d3/ded/namespacedata__io__to__textline.html#aba26d4a3693c37b924f3edac8a0d4ab8" title=" " alt="" coords="462,397,622,439"/>
+<area shape="rect" id="node13" href="$d3/ded/namespacedata__io__to__textline.html#a93a234966374687e62e0a8d2f4a087f2" title=" " alt="" coords="455,136,629,177"/>
+</map>

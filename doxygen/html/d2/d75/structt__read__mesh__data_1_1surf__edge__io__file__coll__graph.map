@@ -1,0 +1,7 @@
+<map id="t_read_mesh_data::surf_edge_io_file" name="t_read_mesh_data::surf_edge_io_file">
+<area shape="rect" id="node1" title=" " alt="" coords="300,78,459,119"/>
+<area shape="rect" id="node2" href="$d4/d97/structt__geometry__data_1_1element__data.html" title="structure for element data (position and connectivity)" alt="" coords="5,5,211,32"/>
+<area shape="rect" id="node3" href="$d0/da4/structt__geometry__data_1_1node__data.html" title="structure for node data (position)" alt="" coords="15,56,201,83"/>
+<area shape="rect" id="node4" href="$d2/d62/structt__comm__table_1_1communication__table.html" title="data structure for communication table" alt="" coords="8,107,208,149"/>
+<area shape="rect" id="node5" href="$d6/d6f/structt__surf__edge__io_1_1surf__edge__io__data.html" title=" " alt="" coords="39,173,177,214"/>
+</map>

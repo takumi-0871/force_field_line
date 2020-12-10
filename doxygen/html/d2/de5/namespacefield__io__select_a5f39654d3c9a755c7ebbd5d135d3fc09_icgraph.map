@@ -1,0 +1,13 @@
+<map id="field_io_select::sel_write_step_sph_field_file" name="field_io_select::sel_write_step_sph_field_file">
+<area shape="rect" id="node1" title=" " alt="" coords="497,104,668,145"/>
+<area shape="rect" id="node2" href="$d1/deb/namespaceanalyzer__assemble__sph.html#a6d219bda5c57fca9d0218f3e096f4531" title=" " alt="" coords="262,5,429,47"/>
+<area shape="rect" id="node4" href="$d9/d14/namespaceanalyzer__rayleigh__cvt__sph.html#a3c933df7eadd9f5189e4ac74733795e8" title=" " alt="" coords="241,71,449,112"/>
+<area shape="rect" id="node6" href="$d7/d35/namespacesph__mhd__rst__io__control.html#aa0a17df041818ee26db31557736f90a8" title=" " alt="" coords="265,136,425,177"/>
+<area shape="rect" id="node8" href="$d7/d35/namespacesph__mhd__rst__io__control.html#ac0aeb39d5a3cdee813feb42273d219f1" title=" " alt="" coords="253,231,437,272"/>
+<area shape="rect" id="node3" href="$d8/da9/main__assemble__sph_8f90.html#a5cdabd8670afdcb9e44f687ef3fbae68" title="Main program for assemble spectr data." alt="" coords="46,13,153,39"/>
+<area shape="rect" id="node5" href="$df/df3/main__cvt__from__rayleigh__sph_8f90.html#a205eddb8d23c81e30dbb17f3663077a3" title="Main program for assemble spectr data." alt="" coords="28,78,171,105"/>
+<area shape="rect" id="node7" href="$d0/d7f/namespacesph__analyzer__snap__w__psf.html#a1c8dece734bf4fe4a48eff02bb2e8077" title=" " alt="" coords="5,132,193,173"/>
+<area shape="rect" id="node9" href="$d6/deb/namespacesph__analyzer__mhd.html#ab483bc81e40cd6d24860924bce52e9c8" title=" " alt="" coords="19,197,179,239"/>
+<area shape="rect" id="node10" href="$d8/df8/namespaceset__initial__sph__dynamo.html#a87bb4e293e0e3e6064fd74a417e13e7c" title=" " alt="" coords="16,263,183,304"/>
+<area shape="rect" id="node11" href="$de/d7b/namespaceconst__sph__initial__spectr.html#a8cfa6416c7ec95695876b3bb6296c3c9" title=" " alt="" coords="18,328,181,369"/>
+</map>
