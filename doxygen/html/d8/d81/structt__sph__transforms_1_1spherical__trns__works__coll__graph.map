@@ -1,0 +1,14 @@
+<map id="t_sph_transforms::spherical_trns_works" name="t_sph_transforms::spherical_trns_works">
+<area shape="rect" id="node1" title="Work structures for various spherical harmonics trasform." alt="" coords="631,330,813,371"/>
+<area shape="rect" id="node2" href="$d7/d66/structt__legendre__trans__select_1_1legendre__trns__works.html" title="Work structures for various Legendre trasform." alt="" coords="376,199,536,241"/>
+<area shape="rect" id="node3" href="$d4/dbf/structt__legendre__work__sym__matmul_1_1leg__trns__sym__mul__work.html" title="Work structure for Legendre trasform by matmul with symmetry." alt="" coords="27,5,185,61"/>
+<area shape="rect" id="node4" href="$d3/d25/structt__legendre__work__sym__mat__jt_1_1leg__trns__theta__omp__work.html" title="Work structure for Legendre trasform by large matmul." alt="" coords="29,85,183,141"/>
+<area shape="rect" id="node5" href="$dd/dad/structt__legendre__work__testlooop_1_1leg__trns__testloop__work.html" title="Work structure for Legendre trasform by large matmul." alt="" coords="18,166,194,207"/>
+<area shape="rect" id="node6" href="$dd/dd0/structt__work__4__sph__trans__spin_1_1leg__trns__spin__work.html" title="Work structure for Legendre trasform." alt="" coords="20,231,192,273"/>
+<area shape="rect" id="node7" href="$d7/d22/structt__leg__trans__sym__matmul__big_1_1leg__trns__bsym__mul__work.html" title="Work structure for Legendre trasform by large matmul." alt="" coords="5,297,207,338"/>
+<area shape="rect" id="node8" href="$d6/dd3/structt__sph__fft__selector_1_1work__for__ffts.html" title="Structure for work area of FFTs." alt="" coords="393,427,519,469"/>
+<area shape="rect" id="node9" href="$d8/d48/structt__sph__component__fftpack5_1_1work__for__comp__fftpack.html" title="Structure to use ISPACK." alt="" coords="17,362,195,403"/>
+<area shape="rect" id="node10" href="$dc/d8e/structt__sph__domain__fftpack5_1_1work__for__domain__fftpack.html" title="Structure to use ISPACK." alt="" coords="19,427,193,469"/>
+<area shape="rect" id="node11" href="$d2/da2/structt__sph__fftpack5_1_1work__for__fftpack.html" title="Structure to use ISPACK." alt="" coords="35,493,177,534"/>
+<area shape="rect" id="node12" href="$d3/d45/structt__sph__single__fftpack5_1_1work__for__sgl__fftpack.html" title="Structure to use ISPACK." alt="" coords="31,558,181,599"/>
+</map>

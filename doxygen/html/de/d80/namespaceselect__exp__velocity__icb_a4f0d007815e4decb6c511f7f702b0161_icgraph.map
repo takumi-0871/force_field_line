@@ -1,0 +1,7 @@
+<map id="select_exp_velocity_icb::sel_icb_grad_poloidal_moment" name="select_exp_velocity_icb::sel_icb_grad_poloidal_moment">
+<area shape="rect" id="node1" title=" " alt="" coords="447,45,625,101"/>
+<area shape="rect" id="node2" href="$d4/d5d/namespacecal__sol__sph__fluid__crank.html#a53eb6eb033080b61f79511bdb26cfe1a" title=" " alt="" coords="237,5,399,61"/>
+<area shape="rect" id="node4" href="$d3/dac/namespaceconst__sph__radial__grad.html#abdc6d50b9cea8cab5a4d68c4c98b54e0" title=" " alt="" coords="242,85,394,141"/>
+<area shape="rect" id="node3" href="$de/d70/namespacecal__sol__sph__mhd__crank.html#a37dfbe3a885ceafca7da235b08da77f1" title=" " alt="" coords="5,13,189,54"/>
+<area shape="rect" id="node5" href="$d2/dde/namespacecal__energy__flux__rj.html#a7ac1253434f436ca2a0d52a16d8ac5bf" title=" " alt="" coords="23,93,172,134"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="t_sph_fft_selector::work_for_ffts" name="t_sph_fft_selector::work_for_ffts">
+<area shape="rect" id="node1" title="Structure for work area of FFTs." alt="" coords="683,108,809,149"/>
+<area shape="rect" id="node2" href="$d8/d48/structt__sph__component__fftpack5_1_1work__for__comp__fftpack.html" title="Structure to use ISPACK." alt="" coords="335,5,513,47"/>
+<area shape="rect" id="node3" href="$dc/d8e/structt__sph__domain__fftpack5_1_1work__for__domain__fftpack.html" title="Structure to use ISPACK." alt="" coords="337,71,511,112"/>
+<area shape="rect" id="node4" href="$df/db0/structt__sph__comm__table__from__fft_1_1comm__tbl__from__fft.html" title="Structure of communication table from FFT to send buffer." alt="" coords="5,104,171,145"/>
+<area shape="rect" id="node5" href="$d2/da2/structt__sph__fftpack5_1_1work__for__fftpack.html" title="Structure to use ISPACK." alt="" coords="353,136,495,177"/>
+<area shape="rect" id="node6" href="$d3/d45/structt__sph__single__fftpack5_1_1work__for__sgl__fftpack.html" title="Structure to use ISPACK." alt="" coords="349,201,499,243"/>
+</map>

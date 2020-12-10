@@ -1,0 +1,14 @@
+<map id="comm_table_io::read_send_recv_item" name="comm_table_io::read_send_recv_item">
+<area shape="rect" id="node1" title=" " alt="" coords="417,203,560,244"/>
+<area shape="rect" id="node2" href="$d5/d12/namespacedomain__data__io.html#aae99ee7171b1076609215c74a7eaf229" title=" " alt="" coords="223,153,369,195"/>
+<area shape="rect" id="node8" href="$d5/d12/namespacedomain__data__io.html#ac6f53b02648d386e18a9467a9245e1e5" title=" " alt="" coords="223,235,369,276"/>
+<area shape="rect" id="node3" href="$d9/d5a/namespaceedge__data__io.html#a8ee0c5e3d4c72009bbcd4d5d537d2da6" title=" " alt="" coords="24,201,156,243"/>
+<area shape="rect" id="node4" href="$df/d02/namespaceelement__data__io.html#a423052e6e0dca7a8f8722b6df7e36ac7" title=" " alt="" coords="13,267,167,308"/>
+<area shape="rect" id="node5" href="$d2/d2e/namespacemesh__data__io.html#ad567877a55b5742df61e75352decd562" title=" " alt="" coords="22,5,158,47"/>
+<area shape="rect" id="node6" href="$d2/d2e/namespacemesh__data__io.html#a65c32ae97014bddf7cad220864ee9bc0" title=" " alt="" coords="22,71,158,112"/>
+<area shape="rect" id="node7" href="$dc/d6d/namespacesurface__data__io.html#a7f53cb67cb26df324fcdb6367340bf24" title=" " alt="" coords="17,136,163,177"/>
+<area shape="rect" id="node9" href="$db/d2b/namespacesph__modes__grids__data__io.html#a0b57d395500794d2d25ea3eea733a55c" title=" " alt="" coords="5,559,175,600"/>
+<area shape="rect" id="node10" href="$db/d2b/namespacesph__modes__grids__data__io.html#ad49d14443e6ffc8e3e7d1f6fd22af444" title=" " alt="" coords="7,332,173,373"/>
+<area shape="rect" id="node11" href="$db/d2b/namespacesph__modes__grids__data__io.html#ac4f5f8159aade5b0a88392eaa9ae2860" title=" " alt="" coords="9,398,171,454"/>
+<area shape="rect" id="node12" href="$db/d2b/namespacesph__modes__grids__data__io.html#af1dbc24659c1d9c0fd9efb4d8dae08ce" title=" " alt="" coords="9,478,171,534"/>
+</map>

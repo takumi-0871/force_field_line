@@ -1,0 +1,7 @@
+<map id="select_exp_scalar_icb::sel_icb_radial_grad_scalar" name="select_exp_scalar_icb::sel_icb_radial_grad_scalar">
+<area shape="rect" id="node1" title=" " alt="" coords="467,63,617,119"/>
+<area shape="rect" id="node2" href="$d3/dac/namespaceconst__sph__radial__grad.html#ac1e7d0cdc34da924756309e1ec13e6ca" title=" " alt="" coords="244,71,419,112"/>
+<area shape="rect" id="node3" href="$d3/d4f/namespacecal__grad__of__sph__vectors.html#a8aa4abd77f6cf6764ebadd64b239db02" title=" " alt="" coords="13,5,188,47"/>
+<area shape="rect" id="node4" href="$de/d70/namespacecal__sol__sph__mhd__crank.html#a6d4f1b380780ddd1d88555c18b04f345" title=" " alt="" coords="5,71,196,112"/>
+<area shape="rect" id="node5" href="$de/d70/namespacecal__sol__sph__mhd__crank.html#aab6db625b4fd676f64d88a32ea885cd0" title=" " alt="" coords="19,136,182,177"/>
+</map>

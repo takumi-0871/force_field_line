@@ -1,0 +1,4 @@
+<map id="t_sph_domain_fftpack5::work_for_domain_fftpack" name="t_sph_domain_fftpack5::work_for_domain_fftpack">
+<area shape="rect" id="node1" title="Structure to use ISPACK." alt="" coords="5,109,180,151"/>
+<area shape="rect" id="node2" href="$df/db0/structt__sph__comm__table__from__fft_1_1comm__tbl__from__fft.html" title="Structure of communication table from FFT to send buffer." alt="" coords="10,5,175,47"/>
+</map>

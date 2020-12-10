@@ -1,0 +1,27 @@
+var structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control =
+[
+    [ "coef_imp_b_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#ae6a3cff7e4c84b27b287daee0129c83f", null ],
+    [ "coef_imp_c_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a728c7e6a4bd94d95b013e01b95b1cda1", null ],
+    [ "coef_imp_t_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#afebb9182104666c55343722393c58de3", null ],
+    [ "coef_imp_v_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a396d3b47e3ec51d406d1b1c67edcd558", null ],
+    [ "diffuse_correct", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#aaa1284f23ba2561a0add4cfcbb948b61", null ],
+    [ "eps_4_magne_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a4ae68b03fe720264c85cb144852ec862", null ],
+    [ "eps_4_velo_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a784086adca765aa42d42989c425c6e10", null ],
+    [ "eps_b_crank_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#aef0e2b0043806627184a2a204f8f85c6", null ],
+    [ "eps_crank_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#aa409b05e55b1495c1a876b78f2cee8a2", null ],
+    [ "fft_library", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a055415a3cac4bff850e6d5aab96a178e", null ],
+    [ "i_time_loop", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a6d0890940c6fdf3b6fa4c2d839e3e48d", null ],
+    [ "iflag_supg_b_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a90ec837f6249619ba51973e0f3f346f0", null ],
+    [ "iflag_supg_c_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a8f21db74cdbaa3ccceb596c9ca52cffc", null ],
+    [ "iflag_supg_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#ae79e452bd163611de6dd57314f6f05d5", null ],
+    [ "iflag_supg_t_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a34c71413745f95cc4b7754e511491c52", null ],
+    [ "iflag_supg_v_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a22a5b21afa382b65ea3910c90c469a88", null ],
+    [ "import_mode", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a9707c902bdd451a5c59e4cc2ca45698e", null ],
+    [ "leg_vector_len", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#ac9dc053116759a74c9c03ba57844dbc2", null ],
+    [ "legendre_trans_type", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a16aa0b29170f123360b0346acf27cfcf", null ],
+    [ "maxiter_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#add433e57e095dc8008947fead0a2f3e6", null ],
+    [ "method_4_cn", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a12efff052e52c53efaa4466ea451311c", null ],
+    [ "num_multi_pass_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#aa4ca62014664b1a25686ea170816ecc3", null ],
+    [ "precond_4_cn", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a1761a1db5e30ddd8db44b9adfa254f6b", null ],
+    [ "scheme_ctl", "d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html#a2ca715212220bc7113314dc47fdc08c4", null ]
+];

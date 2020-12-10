@@ -1,0 +1,12 @@
+<map id="t_spectr_data_4_assemble::spectr_data_4_assemble" name="t_spectr_data_4_assemble::spectr_data_4_assemble">
+<area shape="rect" id="node1" title=" " alt="" coords="597,153,776,194"/>
+<area shape="rect" id="node2" href="$d2/d98/structt__time__data_1_1time__data.html" title="Structure for time data." alt="" coords="292,5,447,32"/>
+<area shape="rect" id="node3" href="$db/dd6/structparallel__assemble__sph_1_1rj__assemble__tbl.html" title=" " alt="" coords="292,57,447,98"/>
+<area shape="rect" id="node4" href="$d3/d47/structr__interpolate__marged__sph_1_1sph__radial__itp__data.html" title=" " alt="" coords="284,122,455,163"/>
+<area shape="rect" id="node5" href="$d6/d11/structt__sph__mesh__field__data_1_1sph__mesh__data.html" title="Structure of spherical transform mesh information." alt="" coords="291,187,447,229"/>
+<area shape="rect" id="node6" href="$dc/d4f/structt__spheric__group_1_1sph__group__data.html" title="Structure of group data for spherical transform." alt="" coords="11,122,154,163"/>
+<area shape="rect" id="node7" href="$d4/d25/structt__spheric__parameter_1_1sph__grids.html" title="Structure of grid and spectr data for spherical spectr method." alt="" coords="13,187,153,229"/>
+<area shape="rect" id="node8" href="$df/d07/structt__sph__trans__comm__tbl_1_1sph__comm__tables.html" title="Structure for communication table for spherical transform." alt="" coords="5,253,160,294"/>
+<area shape="rect" id="node9" href="$d5/ddc/structt__phys__data_1_1phys__data.html" title="Structure for field data." alt="" coords="289,253,450,280"/>
+<area shape="rect" id="node10" href="$d0/d4f/structt__field__data__io_1_1field__io.html" title="Structure for field data IO." alt="" coords="292,304,447,331"/>
+</map>

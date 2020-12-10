@@ -1,0 +1,6 @@
+<map id="t_ctl_data_pick_sph_spectr::pick_spectr_control" name="t_ctl_data_pick_sph_spectr::pick_spectr_control">
+<area shape="rect" id="node1" title="Structure for spectr data pickup." alt="" coords="360,65,500,121"/>
+<area shape="rect" id="node2" href="$d5/d14/structt__control__array__integer_1_1ctl__array__int.html" title="Structure for integer control array." alt="" coords="13,7,167,49"/>
+<area shape="rect" id="node3" href="$d9/d30/structt__control__array__character_1_1read__character__item.html" title="structure of control character item" alt="" coords="5,73,175,114"/>
+<area shape="rect" id="node4" href="$dc/da4/structt__control__array__integer2_1_1ctl__array__i2.html" title="Structure for 2 integers control array." alt="" coords="9,138,171,179"/>
+</map>

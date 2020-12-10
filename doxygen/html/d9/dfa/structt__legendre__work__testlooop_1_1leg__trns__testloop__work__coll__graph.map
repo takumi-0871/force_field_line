@@ -1,0 +1,8 @@
+<map id="t_legendre_work_testlooop::leg_trns_testloop_work" name="t_legendre_work_testlooop::leg_trns_testloop_work">
+<area shape="rect" id="node1" title="Work structure for Legendre trasform by large matmul." alt="" coords="300,136,476,177"/>
+<area shape="rect" id="node2" href="$d1/d70/structt__field__matrices__4__legendre_1_1field__matrix__omp.html" title=" " alt="" coords="11,5,197,47"/>
+<area shape="rect" id="node3" href="$d5/da3/structt__field__matrices__4__legendre_1_1spectr__matrix__omp.html" title=" " alt="" coords="5,71,203,112"/>
+<area shape="rect" id="node4" href="$d2/de2/structt__legendre__matrix__4__trns_1_1leg__tj__omp__matrix.html" title="Structure of Legendre polynomial P(\theta, l)" alt="" coords="21,136,187,177"/>
+<area shape="rect" id="node5" href="$da/d6d/structt__legendre__matrix__4__trns_1_1leg__jt__omp__matrix.html" title="Structure of Legendre polynomial P(l, \theta)" alt="" coords="21,201,187,243"/>
+<area shape="rect" id="node6" href="$d9/d50/structt__set__legendre__4__sph__trans_1_1work__make__legendre.html" title=" " alt="" coords="10,267,198,308"/>
+</map>

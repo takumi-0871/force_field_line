@@ -1,0 +1,4 @@
+<map id="t_sph_field_fftw::work_for_field_fftw" name="t_sph_field_fftw::work_for_field_fftw">
+<area shape="rect" id="node1" title="Structure to use SNGLE FFTW." alt="" coords="19,109,167,151"/>
+<area shape="rect" id="node2" href="$d5/d0e/structt__sph__comm__table__from__fftw_1_1comm__tbl__from__fftw.html" title="Structure of communication table from FFT to send buffer." alt="" coords="5,5,181,47"/>
+</map>

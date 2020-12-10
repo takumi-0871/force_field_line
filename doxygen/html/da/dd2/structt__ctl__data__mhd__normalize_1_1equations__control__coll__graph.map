@@ -1,0 +1,7 @@
+<map id="t_ctl_data_mhd_normalize::equations_control" name="t_ctl_data_mhd_normalize::equations_control">
+<area shape="rect" id="node1" title="Structure for coefficients of governing equations." alt="" coords="645,165,820,206"/>
+<area shape="rect" id="node2" href="$de/dc0/structt__ctl__data__induct__norm_1_1induction__equation__control.html" title="Structure for coefficients of magnetic induction equation." alt="" coords="351,62,535,103"/>
+<area shape="rect" id="node3" href="$df/de4/structt__control__array__charareal_1_1ctl__array__cr.html" title="Structure for charactor and real control array." alt="" coords="5,165,173,206"/>
+<area shape="rect" id="node4" href="$d4/d02/structt__ctl__data__momentum__norm_1_1momentum__equation__control.html" title="Structure for coefficients of momentum equation." alt="" coords="349,157,536,213"/>
+<area shape="rect" id="node5" href="$d1/de1/structt__ctl__data__termal__norm_1_1heat__equation__control.html" title="Structure for coefficients of heat and composition equation." alt="" coords="363,238,522,279"/>
+</map>

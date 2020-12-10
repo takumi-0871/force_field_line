@@ -1,0 +1,14 @@
+<map id="t_sph_trans_arrays_mhd::address_4_sph_trans" name="t_sph_trans_arrays_mhd::address_4_sph_trans">
+<area shape="rect" id="node1" title="strucutre of spherical transform data addresses" alt="" coords="580,244,767,285"/>
+<area shape="rect" id="node2" href="$dc/dd3/structt__addresses__sph__transform_1_1spherical__transform__data.html" title="strucutre of spherical transform data addresses" alt="" coords="289,211,472,252"/>
+<area shape="rect" id="node3" href="$d8/dbd/structt__phys__address_1_1phys__address.html" title="Structure for start address for fields." alt="" coords="305,276,456,317"/>
+<area shape="rect" id="node4" href="$d9/d4a/structt__energy__flux__labels_1_1energy__flux__address.html" title="Structure of start address of base forces." alt="" coords="14,5,165,47"/>
+<area shape="rect" id="node5" href="$df/da6/structt__diff__vector__labels_1_1diff__vector__address.html" title=" " alt="" coords="17,71,161,112"/>
+<area shape="rect" id="node6" href="$d0/d8e/structt__grad__field__labels_1_1gradient__field__address.html" title=" " alt="" coords="9,136,169,177"/>
+<area shape="rect" id="node7" href="$d1/dea/structt__diffusion__term__labels_1_1diffusivity__adress.html" title=" " alt="" coords="11,201,167,243"/>
+<area shape="rect" id="node8" href="$d0/d5a/structt__base__force__labels_1_1base__force__address.html" title="Structure for start address for base forces." alt="" coords="16,267,163,308"/>
+<area shape="rect" id="node9" href="$d2/da2/structt__field__product__labels_1_1phys__products__address.html" title="Structure for start address for fields." alt="" coords="5,332,173,373"/>
+<area shape="rect" id="node10" href="$d4/d9a/structt__diffusion__term__labels_1_1diffusion__address.html" title=" " alt="" coords="11,397,167,439"/>
+<area shape="rect" id="node11" href="$dd/dfa/structt__base__field__labels_1_1base__field__address.html" title="Structure for start address for base fields." alt="" coords="18,463,161,504"/>
+<area shape="rect" id="node12" href="$d3/dd6/structt__explicit__term__labels_1_1explicit__term__address.html" title="Work area for explicit terms." alt="" coords="11,532,168,573"/>
+</map>

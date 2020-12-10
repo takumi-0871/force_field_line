@@ -1,0 +1,11 @@
+<map id="t_mesh_data::mesh_groups" name="t_mesh_data::mesh_groups">
+<area shape="rect" id="node1" title="Structure for group data (node, element, surface, and infinity)" alt="" coords="569,195,752,222"/>
+<area shape="rect" id="node2" href="$de/d41/structt__group__data_1_1surface__group__data.html" title="Structure for surfacet group." alt="" coords="267,5,415,47"/>
+<area shape="rect" id="node3" href="$de/d01/structt__group__data_1_1group__data.html" title="Structure for node and element group." alt="" coords="257,71,426,98"/>
+<area shape="rect" id="node4" href="$d8/d6c/structt__surface__group__connect_1_1surface__node__grp__data.html" title="Structure of connectivity data for surface group items." alt="" coords="257,123,425,164"/>
+<area shape="rect" id="node5" href="$db/dd5/structt__group__connects_1_1element__group__table.html" title="Structure of connectivities for element group." alt="" coords="252,188,431,229"/>
+<area shape="rect" id="node6" href="$d9/dc0/structt__group__connects_1_1group__connect__data.html" title="Structure of connectivities for groups." alt="" coords="5,221,171,263"/>
+<area shape="rect" id="node7" href="$dc/d72/structt__group__connects_1_1surface__group__table.html" title="Structure of connectivities for surface group." alt="" coords="253,253,429,295"/>
+<area shape="rect" id="node8" href="$db/d6f/structt__surface__group__geometry_1_1surface__group__geometry.html" title="Structure of geometry data for surface group." alt="" coords="253,319,429,360"/>
+<area shape="rect" id="node9" href="$de/d05/structt__surface__boundary_1_1scalar__surf__bc__list.html" title="Structure for scalar&#39;s boundary condition on surface." alt="" coords="272,384,411,425"/>
+</map>

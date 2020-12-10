@@ -1,0 +1,9 @@
+<map id="spherical_srs_n::send_recv_sph_trans_int" name="spherical_srs_n::send_recv_sph_trans_int">
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,155,177"/>
+<area shape="rect" id="node2" href="$da/d09/namespacecalypso__sr__int.html#aa107ce8083263b849226d8218a3e7fbe" title=" " alt="" coords="203,136,361,177"/>
+<area shape="rect" id="node3" href="$d1/de7/namespacet__solver__sr.html#a39a4ace23f395ac401094422d619ba85" title=" " alt="" coords="419,5,557,47"/>
+<area shape="rect" id="node4" href="$d0/d31/namespacesolver__sr__int.html#a77c126aca7a827bc8235480f37054dca" title=" " alt="" coords="413,71,563,112"/>
+<area shape="rect" id="node5" href="$d5/d1f/namespacet__solver__sr__int.html#a2afddb6f00d8d972efe96efcb4c413e5" title=" " alt="" coords="413,136,563,177"/>
+<area shape="rect" id="node6" href="$df/d44/namespaceselect__copy__from__recv.html#a63909116d51452dea30bdf3f3c7a0a56" title=" " alt="" coords="409,202,567,258"/>
+<area shape="rect" id="node7" href="$dc/db2/namespaceset__to__send__buffer.html#a6d83fc54bc08547fc3bec956af7eb7fd" title=" " alt="" coords="415,283,561,324"/>
+</map>

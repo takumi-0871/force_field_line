@@ -1,0 +1,10 @@
+<map id="t_sph_mhd_monitor_data_io::sph_mhd_monitor_data" name="t_sph_mhd_monitor_data_io::sph_mhd_monitor_data">
+<area shape="rect" id="node1" title=" " alt="" coords="609,169,792,211"/>
+<area shape="rect" id="node2" href="$dd/df2/structt__no__heat__nusselt_1_1nusselt__number__data.html" title="Structure for Nusselt number data." alt="" coords="319,5,466,47"/>
+<area shape="rect" id="node3" href="$d4/d48/structt__pickup__sph__spectr__data_1_1pickup__mode__list.html" title="Structure for pickup list." alt="" coords="311,71,474,112"/>
+<area shape="rect" id="node4" href="$d0/d5b/structt__rms__4__sph__spectr_1_1sph__mean__squares.html" title="Structure of mean square data." alt="" coords="321,136,464,177"/>
+<area shape="rect" id="node5" href="$d0/dbc/structt__sph__volume__mean__square_1_1sph__vol__mean__squares.html" title="Structure of mean square data over volume." alt="" coords="5,136,193,177"/>
+<area shape="rect" id="node6" href="$dd/d48/structt__energy__label__parameters_1_1energy__label__param.html" title="Structure of label for energies." alt="" coords="303,201,482,243"/>
+<area shape="rect" id="node7" href="$db/d89/structt__sum__sph__rms__data_1_1sph__mean__square__work.html" title="Structure of work area for mean square data." alt="" coords="307,267,478,308"/>
+<area shape="rect" id="node8" href="$d2/dfb/structt__pickup__sph__spectr__data_1_1picked__spectrum__data.html" title="Structure for picked spectr data." alt="" coords="296,332,489,373"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="t_read_mesh_data::mul_mesh_geometry" name="t_read_mesh_data::mul_mesh_geometry">
+<area shape="rect" id="node1" title="Structure for grid data (position, connectivity, and communication)" alt="" coords="328,49,487,90"/>
+<area shape="rect" id="node2" href="$d4/d97/structt__geometry__data_1_1element__data.html" title="structure for element data (position and connectivity)" alt="" coords="5,5,211,32"/>
+<area shape="rect" id="node3" href="$d0/da4/structt__geometry__data_1_1node__data.html" title="structure for node data (position)" alt="" coords="15,56,201,83"/>
+<area shape="rect" id="node4" href="$d2/d62/structt__comm__table_1_1communication__table.html" title="data structure for communication table" alt="" coords="8,107,208,149"/>
+</map>

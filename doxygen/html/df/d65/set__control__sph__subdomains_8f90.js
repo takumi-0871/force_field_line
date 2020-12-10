@@ -1,0 +1,26 @@
+var set__control__sph__subdomains_8f90 =
+[
+    [ "full_subdomains_4_sph_shell", "df/d65/set__control__sph__subdomains_8f90.html#ababa79337950c0b72185b1817885b40a", null ],
+    [ "set_inner_loop_4_sph_shell", "df/d65/set__control__sph__subdomains_8f90.html#a25308daae55a7bd7f077a2eac763f396", null ],
+    [ "set_subdomains_4_sph_shell", "df/d65/set__control__sph__subdomains_8f90.html#a768e05314c3f29a4d23caed7ca21afec", null ],
+    [ "simple_subdomains_4_sph_shell", "df/d65/set__control__sph__subdomains_8f90.html#a7ceeac6b1e773135f1cdf34ddf870fe0", null ],
+    [ "cyclic_mode", "df/d65/set__control__sph__subdomains_8f90.html#ac6a5735d7d0586361b7f1629055464e6", null ],
+    [ "cyclic_neib_mode", "df/d65/set__control__sph__subdomains_8f90.html#aa3e3d96113b4e043eca0ff927911120f", null ],
+    [ "cyclic_neib_trns", "df/d65/set__control__sph__subdomains_8f90.html#ad11ee82549c739d495c59cf4e56d6eb8", null ],
+    [ "cyclic_trns", "df/d65/set__control__sph__subdomains_8f90.html#ac29290b4c73eaef3135ce2fd19ce25bc", null ],
+    [ "hd_ver_1", "df/d65/set__control__sph__subdomains_8f90.html#a83b6e667c2289756176355bf5eebde30", null ],
+    [ "hd_ver_2", "df/d65/set__control__sph__subdomains_8f90.html#a88a76df3d43c4db51c0bf557edbaa745", null ],
+    [ "horiz1", "df/d65/set__control__sph__subdomains_8f90.html#a56c42f7be0519e25da854c61c84f6564", null ],
+    [ "mode1", "df/d65/set__control__sph__subdomains_8f90.html#a5f1866f80fb273bd5929fcd41a2ee27c", null ],
+    [ "mode2", "df/d65/set__control__sph__subdomains_8f90.html#acd685cf5477cc71a9f2c989349711656", null ],
+    [ "original", "df/d65/set__control__sph__subdomains_8f90.html#aef0badaf35b1bac0a20c74a494dff28f", null ],
+    [ "phi1", "df/d65/set__control__sph__subdomains_8f90.html#a316a6557263017c06c299f5b83450aab", null ],
+    [ "phi2", "df/d65/set__control__sph__subdomains_8f90.html#adf207a3f957ff48dcd80a5c8e79cc60f", null ],
+    [ "radius1", "df/d65/set__control__sph__subdomains_8f90.html#a3c58b4e24047482a0519d3d6727f3580", null ],
+    [ "radius2", "df/d65/set__control__sph__subdomains_8f90.html#ab54b3f9c9670f4e60491557b597d13df", null ],
+    [ "radius3", "df/d65/set__control__sph__subdomains_8f90.html#aa5c790ad4705c6d93dad9a75528f735b", null ],
+    [ "simple", "df/d65/set__control__sph__subdomains_8f90.html#aba88b1dca4b19af8014a3199cd8ac9b5", null ],
+    [ "test_ditribution", "df/d65/set__control__sph__subdomains_8f90.html#af7dfecbeef7e4cd9e2f7833b3369ecc7", null ],
+    [ "theta1", "df/d65/set__control__sph__subdomains_8f90.html#ac4453b5bf4d39183904979104da7a072", null ],
+    [ "theta2", "df/d65/set__control__sph__subdomains_8f90.html#a4ef4c19bd10e155286732526eed82db7", null ]
+];

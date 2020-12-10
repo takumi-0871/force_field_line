@@ -1,0 +1,32 @@
+<map id="m_tave_sph_ene_spectr::sph_spectr_average" name="m_tave_sph_ene_spectr::sph_spectr_average">
+<area shape="rect" id="node1" title=" " alt="" coords="5,316,169,357"/>
+<area shape="rect" id="node2" href="$d6/d9a/namespacem__tave__sph__ene__spectr.html#abc7eb6e7781723ffb5686578c2942810" title=" " alt="" coords="228,47,395,88"/>
+<area shape="rect" id="node3" href="$db/d9a/namespacecal__tave__sph__ene__spectr.html#a726680e0cfc32956bcbfb68083870527" title=" " alt="" coords="226,112,397,153"/>
+<area shape="rect" id="node4" href="$d2/d14/namespacet__read__sph__spectra.html#a40250f354353580fc0b82eb79d331e49" title=" " alt="" coords="225,177,398,219"/>
+<area shape="rect" id="node5" href="$db/d9a/namespacecal__tave__sph__ene__spectr.html#ac7fb085bc1115d66199bc3f218ebb630" title=" " alt="" coords="217,243,405,284"/>
+<area shape="rect" id="node6" href="$d2/d56/namespacesph__mean__square__io__select.html#a6f44aa9c47cf759c3b2e49b9598f8c28" title=" " alt="" coords="239,309,384,365"/>
+<area shape="rect" id="node13" href="$d2/d56/namespacesph__mean__square__io__select.html#a7d3017f8b2de17d900da77ca5115bff8" title=" " alt="" coords="239,626,384,682"/>
+<area shape="rect" id="node22" href="$d2/d56/namespacesph__mean__square__io__select.html#a2f10327b51a26069c73b1114cc0259a9" title=" " alt="" coords="236,1085,387,1141"/>
+<area shape="rect" id="node27" href="$d2/d56/namespacesph__mean__square__io__select.html#a29c167a09094ca377fb3b62a30364a5f" title=" " alt="" coords="236,1222,387,1278"/>
+<area shape="rect" id="node30" href="$db/d9a/namespacecal__tave__sph__ene__spectr.html#a854076947c1bddb3286a21cb3fe9d66f" title=" " alt="" coords="222,1303,401,1344"/>
+<area shape="rect" id="node7" href="$da/def/namespacesimple__sph__spectr__data__io.html#ad75585af3186c9aff55903e338b1db49" title=" " alt="" coords="472,5,635,47"/>
+<area shape="rect" id="node8" href="$da/def/namespacesimple__sph__spectr__data__io.html#a9c7be19bbf218c5eb0a69a56d0106361" title=" " alt="" coords="460,71,647,112"/>
+<area shape="rect" id="node9" href="$da/def/namespacesimple__sph__spectr__data__io.html#a3f7f0828c2a7a74eadb9fea81b5e1d6e" title=" " alt="" coords="464,136,643,177"/>
+<area shape="rect" id="node10" href="$da/def/namespacesimple__sph__spectr__data__io.html#ab870a68a82d37c949b5ce16ad8def1e0" title=" " alt="" coords="472,202,635,258"/>
+<area shape="rect" id="node11" href="$da/def/namespacesimple__sph__spectr__data__io.html#a3c639fb94e265005a8a203f5170a19fe" title=" " alt="" coords="465,283,641,324"/>
+<area shape="rect" id="node12" href="$da/def/namespacesimple__sph__spectr__data__io.html#ac1982a42c978547e026ac0c04410ddf9" title=" " alt="" coords="457,348,649,389"/>
+<area shape="rect" id="node14" href="$d6/d7b/namespacesimple__sph__spectr__head__io.html#a74c9c1e2a6255d2810773199908f262b" title=" " alt="" coords="453,413,653,455"/>
+<area shape="rect" id="node15" href="$d6/d7b/namespacesimple__sph__spectr__head__io.html#aca8a7524cc5db5b6a9fde50807c651c1" title=" " alt="" coords="470,479,637,535"/>
+<area shape="rect" id="node16" href="$d6/d7b/namespacesimple__sph__spectr__head__io.html#a48b6a93116137b0d6871d40224156b4b" title=" " alt="" coords="459,560,648,601"/>
+<area shape="rect" id="node17" href="$d6/d7b/namespacesimple__sph__spectr__head__io.html#aa1503623339c1125e74838664276688c" title=" " alt="" coords="470,626,637,682"/>
+<area shape="rect" id="node18" href="$d6/d7b/namespacesimple__sph__spectr__head__io.html#a71cc021ef40304aef2f014b17e5a4bc1" title=" " alt="" coords="470,706,637,762"/>
+<area shape="rect" id="node19" href="$d6/d7b/namespacesimple__sph__spectr__head__io.html#af06bec85b18251c0c44268c1649b2a51" title=" " alt="" coords="470,786,637,842"/>
+<area shape="rect" id="node20" href="$d6/d7b/namespacesimple__sph__spectr__head__io.html#aefb0ed3b531ce566eb2a055bf878bccf" title=" " alt="" coords="470,866,637,922"/>
+<area shape="rect" id="node21" href="$d6/d7b/namespacesimple__sph__spectr__head__io.html#a905888a94b6bfe6a953d795da59a29c1" title=" " alt="" coords="470,946,637,1002"/>
+<area shape="rect" id="node23" href="$da/def/namespacesimple__sph__spectr__data__io.html#a0b53074053ca7fe6033ae3fe5de71caa" title=" " alt="" coords="461,1027,645,1068"/>
+<area shape="rect" id="node24" href="$da/def/namespacesimple__sph__spectr__data__io.html#a2e96501e6ab2eb9648e6e0f628951ef4" title=" " alt="" coords="469,1092,638,1133"/>
+<area shape="rect" id="node25" href="$da/def/namespacesimple__sph__spectr__data__io.html#a3027e5372ffec558dd34b572a95702dd" title=" " alt="" coords="467,1157,640,1199"/>
+<area shape="rect" id="node26" href="$da/def/namespacesimple__sph__spectr__data__io.html#a663066847123b0b2070096f816a10b30" title=" " alt="" coords="472,1223,635,1264"/>
+<area shape="rect" id="node28" href="$d6/d7b/namespacesimple__sph__spectr__head__io.html#af5b104bf2a789d8c14205966c9e93c2b" title=" " alt="" coords="454,1288,653,1329"/>
+<area shape="rect" id="node29" href="$d6/d7b/namespacesimple__sph__spectr__head__io.html#affbe7f7d8ec41cfad557350eae640071" title=" " alt="" coords="459,1353,647,1395"/>
+</map>

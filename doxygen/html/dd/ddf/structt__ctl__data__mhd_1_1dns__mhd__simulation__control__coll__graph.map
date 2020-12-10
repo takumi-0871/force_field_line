@@ -1,0 +1,43 @@
+<map id="t_ctl_data_mhd::dns_mhd_simulation_control" name="t_ctl_data_mhd::dns_mhd_simulation_control">
+<area shape="rect" id="node1" title=" " alt="" coords="1007,2791,1173,2832"/>
+<area shape="rect" id="node2" href="$d9/d6b/structt__ctl__data__mhd__model_1_1mhd__dns__model__control.html" title=" " alt="" coords="710,397,881,439"/>
+<area shape="rect" id="node3" href="$df/d44/structt__ctl__data__mhd__normalize_1_1dimless__control.html" title="Structure for list of dimensionless numbers." alt="" coords="391,675,566,716"/>
+<area shape="rect" id="node4" href="$d3/d85/structt__ctl__data__mhd__normalize_1_1equations__control.html" title="Structure for coefficients of governing equations." alt="" coords="391,740,566,781"/>
+<area shape="rect" id="node5" href="$d4/d5f/structt__ctl__data__mhd__forces_1_1coriolis__control.html" title="Structure for Coriolis force." alt="" coords="401,397,556,439"/>
+<area shape="rect" id="node6" href="$d9/d30/structt__control__array__character_1_1read__character__item.html" title="structure of control character item" alt="" coords="10,1076,179,1117"/>
+<area shape="rect" id="node7" href="$d9/d3e/structt__ctl__data__mhd__forces_1_1gravity__control.html" title="Structure for gravity definistion." alt="" coords="401,463,556,504"/>
+<area shape="rect" id="node12" href="$dc/d1a/structt__ctl__data__mhd__forces_1_1magneto__convection__control.html" title="Structure for Coriolis force." alt="" coords="401,529,556,585"/>
+<area shape="rect" id="node15" href="$dc/dc3/structt__ctl__data__temp__model_1_1reference__temperature__ctl.html" title=" " alt="" coords="388,609,569,651"/>
+<area shape="rect" id="node17" href="$d3/dcb/structt__control__data__surfacings_1_1surfacing__controls.html" title="Structures of surfacing controls." alt="" coords="393,3376,564,3417"/>
+<area shape="rect" id="node25" href="$da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html" title="Structure of parallel and file information." alt="" coords="401,2731,556,2772"/>
+<area shape="rect" id="node26" href="$d6/d64/structt__ctl__data__4__sph__monitor_1_1sph__monitor__control.html" title=" " alt="" coords="710,1145,881,1187"/>
+<area shape="rect" id="node27" href="$da/dc0/structt__mid__equator__control_1_1mid__equator__control.html" title=" " alt="" coords="403,1944,554,1985"/>
+<area shape="rect" id="node28" href="$d1/da6/structt__ctl__data__pick__sph__spectr_1_1gauss__spectr__control.html" title=" " alt="" coords="403,1218,554,1274"/>
+<area shape="rect" id="node29" href="$d4/d4f/structt__ctl__data__sph__vol__spectr_1_1layerd__spectr__control.html" title=" " alt="" coords="403,806,554,862"/>
+<area shape="rect" id="node30" href="$d1/da9/structt__ctl__data__pick__sph__spectr_1_1pick__spectr__control.html" title="Structure for spectr data pickup." alt="" coords="409,1138,549,1194"/>
+<area shape="rect" id="node31" href="$df/d06/structt__ctl__data__sph__vol__spectr_1_1volume__spectr__control.html" title=" " alt="" coords="399,1058,558,1114"/>
+<area shape="rect" id="node33" href="$dc/d01/structt__ctl__data__mhd__evo__scheme_1_1mhd__restart__control.html" title="control flage for restart data" alt="" coords="403,978,555,1034"/>
+<area shape="rect" id="node34" href="$d4/dfe/structt__ctl__data__mhd__evo__scheme_1_1mhd__evo__scheme__control.html" title=" " alt="" coords="384,2437,573,2493"/>
+<area shape="rect" id="node35" href="$d7/d54/structt__ctl__data__4__time__steps_1_1time__data__control.html" title="Structure of time stepping controls." alt="" coords="397,2587,561,2628"/>
+<area shape="rect" id="node39" href="$da/d55/structt__ctl__data__4__divide__sphere_1_1sphere__domain__control.html" title="control data structure for spherical shell parallelization" alt="" coords="397,2862,561,2918"/>
+<area shape="rect" id="node40" href="$de/d9a/structt__ctl__data__4__fem__mesh_1_1fem__mesh__control.html" title="Structure of mesh IO controls and sleeve informations." alt="" coords="398,2796,559,2837"/>
+<area shape="rect" id="node41" href="$db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html" title="control data structure for spherical shell" alt="" coords="407,2942,550,2998"/>
+<area shape="rect" id="node8" href="$dd/d4e/structt__ctl__data__surf__boundary_1_1surf__bc__control.html" title=" " alt="" coords="395,71,563,112"/>
+<area shape="rect" id="node9" href="$d9/d33/structt__ctl__data__mhd__evolution_1_1mhd__evo__area__control.html" title=" " alt="" coords="393,201,564,243"/>
+<area shape="rect" id="node10" href="$d5/df6/structt__control__array__character_1_1ctl__array__chara.html" title="Structure for character control array." alt="" coords="10,201,179,243"/>
+<area shape="rect" id="node11" href="$d8/dd5/structt__ctl__data__4__fields_1_1field__control.html" title="Structure of field information control." alt="" coords="413,267,544,308"/>
+<area shape="rect" id="node14" href="$dc/d8c/structt__ctl__data__mhd__evolution_1_1mhd__evolution__control.html" title=" " alt="" coords="393,5,564,47"/>
+<area shape="rect" id="node16" href="$de/d01/structt__ctl__data__mhd__forces_1_1forces__control.html" title="Structure for force list." alt="" coords="401,136,556,177"/>
+<area shape="rect" id="node22" href="$d7/d63/structt__ctl__data__node__monitor_1_1node__monitor__control.html" title=" " alt="" coords="397,3127,561,3168"/>
+<area shape="rect" id="node13" href="$dd/dbf/structt__ctl__data__node__boundary_1_1node__bc__control.html" title=" " alt="" coords="391,332,566,373"/>
+<area shape="rect" id="node18" href="$de/d48/structt__control__data__isosurfaces_1_1isosurf__controls.html" title=" " alt="" coords="5,3644,184,3685"/>
+<area shape="rect" id="node19" href="$dd/d45/structt__control__array__real_1_1read__real__item.html" title="structure of control real item" alt="" coords="27,2408,163,2449"/>
+<area shape="rect" id="node20" href="$d4/d3d/structt__control__array__integer_1_1read__integer__item.html" title="structure of control integer item" alt="" coords="17,3271,172,3312"/>
+<area shape="rect" id="node37" href="$de/d85/structt__ctl__data__crust__filter_1_1clust__filtering__ctl.html" title="Structure of crustal filtering of mangeitc field." alt="" coords="405,3704,552,3745"/>
+<area shape="rect" id="node21" href="$d7/d81/structt__control__data__sections_1_1section__controls.html" title=" " alt="" coords="15,3744,175,3785"/>
+<area shape="rect" id="node36" href="$d7/ddf/structt__control__data__dynamo__vizs_1_1sph__dynamo__viz__controls.html" title="Structures of zonal mean controls." alt="" coords="716,3697,875,3753"/>
+<area shape="rect" id="node23" href="$da/dc6/structt__control__array__real3_1_1ctl__array__r3.html" title="Structure for three reals control array." alt="" coords="23,3524,166,3565"/>
+<area shape="rect" id="node24" href="$dc/da4/structt__control__array__integer2_1_1ctl__array__i2.html" title="Structure for 2 integers control array." alt="" coords="14,2796,175,2837"/>
+<area shape="rect" id="node32" href="$d1/d88/structt__ctl__data__sph__mhd__control_1_1sph__mhd__control__control.html" title=" " alt="" coords="708,2465,883,2521"/>
+<area shape="rect" id="node38" href="$dc/d4a/structt__ctl__data__gen__sph__shell_1_1parallel__sph__shell__control.html" title="structure of parallel spherical shell data" alt="" coords="728,2853,863,2909"/>
+</map>

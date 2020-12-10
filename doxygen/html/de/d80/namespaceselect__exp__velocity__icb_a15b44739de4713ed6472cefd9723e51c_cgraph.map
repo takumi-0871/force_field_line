@@ -1,0 +1,9 @@
+<map id="select_exp_velocity_icb::sel_icb_sph_vort_diffusion" name="select_exp_velocity_icb::sel_icb_sph_vort_diffusion">
+<area shape="rect" id="node1" title=" " alt="" coords="5,145,157,201"/>
+<area shape="rect" id="node2" href="$d6/d30/namespaceset__sph__exp__nod__center.html#a3c878712aef017576b1f1a01bf5fdc2f" title=" " alt="" coords="221,5,388,47"/>
+<area shape="rect" id="node3" href="$da/db1/namespacecal__inner__core__rotation.html#a54657d0f9c529729b7bcda6195aa8eca" title=" " alt="" coords="221,71,388,127"/>
+<area shape="rect" id="node5" href="$d6/d30/namespaceset__sph__exp__nod__center.html#aa4ee0f92194f19203bc26386353a46a5" title=" " alt="" coords="205,152,404,193"/>
+<area shape="rect" id="node6" href="$dc/d89/namespaceset__sph__exp__fix__vector__icb.html#a6e1f2258c9a4fbda470e04131caaf857" title=" " alt="" coords="225,218,385,274"/>
+<area shape="rect" id="node7" href="$df/df4/namespaceset__sph__exp__free__icb.html#aa8c5daa24ac569454eb8998f3ec49bbc" title=" " alt="" coords="227,298,383,354"/>
+<area shape="rect" id="node4" href="$da/db1/namespacecal__inner__core__rotation.html#a5a6691c38a4bea882c32c630f3be115b" title=" " alt="" coords="452,79,635,120"/>
+</map>

@@ -1,0 +1,25 @@
+<map id="init_sph_trans::initialize_sph_trans" name="init_sph_trans::initialize_sph_trans">
+<area shape="rect" id="node1" title=" " alt="" coords="5,692,164,733"/>
+<area shape="rect" id="node2" href="$d3/d79/namespaceinit__fft__4__sph.html#a616af0777200e20cac2643751a351e5b" title=" " alt="" coords="215,104,384,145"/>
+<area shape="rect" id="node6" href="$d9/dfe/namespaceinit__sph__trans.html#a93c2ee0270e70e7b318c6774a9946946" title=" " alt="" coords="220,496,379,537"/>
+<area shape="rect" id="node16" href="$dc/dfe/namespacet__legendre__trans__select.html#ac89e03fdeed59fa3b677b7fb22d9b461" title=" " alt="" coords="218,892,381,933"/>
+<area shape="rect" id="node23" href="$d2/d36/namespacet__work__4__sph__trans.html#a9a4f170f0488bd978b4ce3bf78d010f2" title=" " alt="" coords="212,957,387,999"/>
+<area shape="rect" id="node3" href="$d7/d1d/namespacem__fft__selector.html#a60bf65b712bd0080f6eff93b9ff8b626" title=" " alt="" coords="458,5,613,47"/>
+<area shape="rect" id="node4" href="$d3/d04/namespacet__sph__fft__selector.html#a3dd82e2d11bd044ee8bb80d5c9b5f55a" title=" " alt="" coords="467,71,603,112"/>
+<area shape="rect" id="node5" href="$d3/d79/namespaceinit__fft__4__sph.html#abc8db3fc1eb0d7ce55e86e7a608d0256" title=" " alt="" coords="457,136,614,177"/>
+<area shape="rect" id="node7" href="$d2/d36/namespacet__work__4__sph__trans.html#a05cbd187551237aaa2315eec871c2e9f" title=" " alt="" coords="451,201,620,243"/>
+<area shape="rect" id="node8" href="$df/db6/namespaceset__params__sph__trans.html#afd3567410e910bf0b5f09848fafbc291" title=" " alt="" coords="458,267,613,308"/>
+<area shape="rect" id="node9" href="$df/db6/namespaceset__params__sph__trans.html#a45ddbc1a10266dc475647094d52aa2b2" title=" " alt="" coords="458,332,613,373"/>
+<area shape="rect" id="node10" href="$df/db6/namespaceset__params__sph__trans.html#aa4e726809bee512c208f858c02cb8dba" title=" " alt="" coords="446,397,625,439"/>
+<area shape="rect" id="node11" href="$d9/dfe/namespaceinit__sph__trans.html#a6ea2309f58a0086c95feeb9a7ba53bf8" title=" " alt="" coords="471,463,599,504"/>
+<area shape="rect" id="node12" href="$df/db6/namespaceset__params__sph__trans.html#a1d2b0b183299332103239192972d70dd" title=" " alt="" coords="458,528,613,569"/>
+<area shape="rect" id="node13" href="$d9/dfe/namespaceinit__sph__trans.html#add28334b699349d0816f931f785077cc" title=" " alt="" coords="465,593,606,635"/>
+<area shape="rect" id="node14" href="$df/db6/namespaceset__params__sph__trans.html#ad37538a9170069a2d0a9f19438e8d9fb" title=" " alt="" coords="458,659,613,700"/>
+<area shape="rect" id="node15" href="$da/dd7/namespaceset__legendre__matrices.html#a36552af31ec0fa4e75a5839d3413e785" title=" " alt="" coords="448,724,623,765"/>
+<area shape="rect" id="node17" href="$d0/d39/namespacet__leg__trans__sym__matmul__big.html#abb21f502deec87a45da4eb8418f307ae" title=" " alt="" coords="435,789,636,831"/>
+<area shape="rect" id="node18" href="$dd/da6/namespacet__legendre__work__testlooop.html#adeaf83d00e21aaf33203b5e0be57d965" title=" " alt="" coords="437,855,633,896"/>
+<area shape="rect" id="node19" href="$d0/d7c/namespacet__legendre__work__sym__mat__jt.html#afa0ba04ab1599a55beb58b3b07d788b1" title=" " alt="" coords="461,921,609,977"/>
+<area shape="rect" id="node20" href="$d0/d7c/namespacet__legendre__work__sym__mat__jt.html#a1c1bb7361e7a77d70df1c198298cf686" title=" " alt="" coords="461,1001,609,1057"/>
+<area shape="rect" id="node21" href="$dd/d93/namespacet__legendre__work__sym__matmul.html#a619aad9878a32f5d1e77acfc477c5f4b" title=" " alt="" coords="459,1081,612,1137"/>
+<area shape="rect" id="node22" href="$dd/d93/namespacet__legendre__work__sym__matmul.html#a5fef069c1f4d8b4e0250a023cccf0444" title=" " alt="" coords="459,1161,612,1217"/>
+</map>

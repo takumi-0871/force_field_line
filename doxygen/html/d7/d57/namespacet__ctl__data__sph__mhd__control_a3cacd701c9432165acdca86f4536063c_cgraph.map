@@ -1,0 +1,10 @@
+<map id="t_ctl_data_sph_mhd_control::bcast_sph_mhd_control" name="t_ctl_data_sph_mhd_control::bcast_sph_mhd_control">
+<area shape="rect" id="node1" title=" " alt="" coords="5,106,144,162"/>
+<area shape="rect" id="node2" href="$d8/dae/namespacebcast__4__time__step__ctl.html#a6920a0c6569a8114fd590df023a1cdfb" title=" " alt="" coords="192,76,385,118"/>
+<area shape="rect" id="node4" href="$df/d8a/namespacecalypso__mpi__int.html#aa1d7e59ec70622b426815536a7e6115c" title=" " alt="" coords="624,142,793,183"/>
+<area shape="rect" id="node7" href="$d1/db8/namespacet__ctl__data__mhd__evo__scheme.html#a0efa4657a63f4f42a867b7821006760c" title=" " alt="" coords="199,223,379,264"/>
+<area shape="rect" id="node8" href="$d1/db8/namespacet__ctl__data__mhd__evo__scheme.html#a3fa654126db46cfd8d25f43827437d26" title=" " alt="" coords="215,142,362,198"/>
+<area shape="rect" id="node3" href="$d0/d1a/namespacebcast__control__arrays.html#a6dfa8acfafc510ddfd9cfb4f18c35aeb" title=" " alt="" coords="433,207,576,248"/>
+<area shape="rect" id="node5" href="$d0/d1a/namespacebcast__control__arrays.html#a86b3e5e701825337443a734167b22ee1" title=" " alt="" coords="433,76,576,118"/>
+<area shape="rect" id="node6" href="$d0/d1a/namespacebcast__control__arrays.html#abf2a0249153b88d1e7157467ddbabbe8" title=" " alt="" coords="433,142,576,183"/>
+</map>

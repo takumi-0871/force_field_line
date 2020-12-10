@@ -1,0 +1,5 @@
+<map id="t_read_mesh_data::mul_mesh_groups" name="t_read_mesh_data::mul_mesh_groups">
+<area shape="rect" id="node1" title="Structure for group data (node, element, surface, and infinity)" alt="" coords="91,124,249,165"/>
+<area shape="rect" id="node2" href="$de/d41/structt__group__data_1_1surface__group__data.html" title="Structure for surfacet group." alt="" coords="5,5,153,47"/>
+<area shape="rect" id="node3" href="$de/d01/structt__group__data_1_1group__data.html" title="Structure for node and element group." alt="" coords="177,13,347,39"/>
+</map>

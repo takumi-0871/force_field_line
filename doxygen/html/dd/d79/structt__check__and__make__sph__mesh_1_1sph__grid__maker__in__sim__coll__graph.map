@@ -1,0 +1,17 @@
+<map id="t_check_and_make_sph_mesh::sph_grid_maker_in_sim" name="t_check_and_make_sph_mesh::sph_grid_maker_in_sim">
+<area shape="rect" id="node1" title="Structure to check and construct spherical shell mesh." alt="" coords="599,437,761,493"/>
+<area shape="rect" id="node2" href="$de/d7b/structt__const__spherical__grid_1_1construct__spherical__grid.html" title="Structure of spherical shell parameters." alt="" coords="325,250,496,291"/>
+<area shape="rect" id="node3" href="$de/d01/structt__group__data_1_1group__data.html" title="Structure for node and element group." alt="" coords="5,27,175,53"/>
+<area shape="rect" id="node4" href="$d7/d8b/structt__control__1d__layering_1_1layering__group__list.html" title="Structure for layering information." alt="" coords="17,86,163,127"/>
+<area shape="rect" id="node5" href="$da/dc8/structt__sph__1d__global__index_1_1sph__1d__global__index.html" title=" " alt="" coords="13,151,167,193"/>
+<area shape="rect" id="node6" href="$df/d61/structt__spheric__global__ranks_1_1spheric__global__rank.html" title=" " alt="" coords="13,217,167,258"/>
+<area shape="rect" id="node7" href="$d5/d99/structt__sph__1d__global__index_1_1sph__1d__index__stack.html" title=" " alt="" coords="13,282,167,323"/>
+<area shape="rect" id="node8" href="$dc/da9/structt__spheric__global__ranks_1_1spheric__global__radius.html" title=" " alt="" coords="13,347,167,389"/>
+<area shape="rect" id="node9" href="$d2/d3b/structt__sph__local__parameter_1_1sph__local__parameters.html" title=" " alt="" coords="11,413,169,454"/>
+<area shape="rect" id="node10" href="$d4/d25/structt__spheric__parameter_1_1sph__grids.html" title="Structure of grid and spectr data for spherical spectr method." alt="" coords="341,575,481,617"/>
+<area shape="rect" id="node11" href="$d9/df8/structt__spheric__rtm__data_1_1sph__rtm__grid.html" title="structure of index table for" alt="" coords="23,478,157,519"/>
+<area shape="rect" id="node12" href="$db/dce/structt__spheric__rlm__data_1_1sph__rlm__grid.html" title="structure of index table for" alt="" coords="24,543,156,585"/>
+<area shape="rect" id="node13" href="$dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html" title="structure of index table for" alt="" coords="25,609,155,650"/>
+<area shape="rect" id="node14" href="$da/d0c/structt__spheric__rj__data_1_1sph__rj__grid.html" title="structure of index table for" alt="" coords="25,674,155,715"/>
+<area shape="rect" id="node15" href="$d4/dc6/structt__spheric__parameter_1_1sph__shell__parameters.html" title="Structure for spherical shell paramteres." alt="" coords="11,739,169,781"/>
+</map>

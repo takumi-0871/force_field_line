@@ -1,0 +1,32 @@
+<map id="init_sphrical_transform_mhd::init_sph_transform_mhd" name="init_sphrical_transform_mhd::init_sph_transform_mhd">
+<area shape="rect" id="node1" title=" " alt="" coords="5,785,207,827"/>
+<area shape="rect" id="node2" href="$df/d89/namespacet__sph__trans__arrays__mhd.html#afde8dd77036f0a07852a12916bd91887" title=" " alt="" coords="279,63,432,119"/>
+<area shape="rect" id="node5" href="$dc/daa/namespaceinit__sphrical__transform__mhd.html#ab73a21faa2883db587366f05edc8be9c" title=" " alt="" coords="279,279,432,335"/>
+<area shape="rect" id="node11" href="$dc/daa/namespaceinit__sphrical__transform__mhd.html#a71f30272f588208de6ea13eaa7356222" title=" " alt="" coords="268,531,443,572"/>
+<area shape="rect" id="node14" href="$dc/daa/namespaceinit__sphrical__transform__mhd.html#aa2f950918e3df48cadcbbb383a80017c" title=" " alt="" coords="255,727,456,768"/>
+<area shape="rect" id="node19" href="$de/d17/namespaceset__address__sph__trans__snap.html#a7d1bc78d28cb31cef5b709d95162d264" title=" " alt="" coords="277,837,434,893"/>
+<area shape="rect" id="node22" href="$de/d17/namespaceset__address__sph__trans__snap.html#a94655c60d6c1f80660512064d0594694" title=" " alt="" coords="277,967,434,1023"/>
+<area shape="rect" id="node25" href="$de/d17/namespaceset__address__sph__trans__snap.html#ad8cc58cd529a3bb5f93593760321e89f" title=" " alt="" coords="277,1098,434,1154"/>
+<area shape="rect" id="node28" href="$d7/db3/namespaceset__address__sph__trans__mhd.html#af18b8426952da26fa80ebab8f77ff44c" title=" " alt="" coords="264,1229,447,1285"/>
+<area shape="rect" id="node3" href="$df/d89/namespacet__sph__trans__arrays__mhd.html#a460603758fb5f6fe9844338f0371480c" title=" " alt="" coords="513,5,693,47"/>
+<area shape="rect" id="node4" href="$df/d89/namespacet__sph__trans__arrays__mhd.html#a79a41db79c8977c8355c7b733ee3fd71" title=" " alt="" coords="514,71,693,112"/>
+<area shape="rect" id="node6" href="$d5/d46/namespaceinit__fft__4__mhd.html#a9c25fa3b617de002cef375482e4b59d5" title=" " alt="" coords="517,136,690,177"/>
+<area shape="rect" id="node7" href="$d3/d04/namespacet__sph__fft__selector.html#a3dd82e2d11bd044ee8bb80d5c9b5f55a" title=" " alt="" coords="764,165,900,207"/>
+<area shape="rect" id="node8" href="$d9/dfe/namespaceinit__sph__trans.html#a93c2ee0270e70e7b318c6774a9946946" title=" " alt="" coords="524,253,683,295"/>
+<area shape="rect" id="node9" href="$d5/d46/namespaceinit__fft__4__mhd.html#a1ef5d3f9108f6e5b40f0c76d5fa76127" title=" " alt="" coords="526,319,681,360"/>
+<area shape="rect" id="node10" href="$d2/d36/namespacet__work__4__sph__trans.html#a9a4f170f0488bd978b4ce3bf78d010f2" title=" " alt="" coords="516,384,691,425"/>
+<area shape="rect" id="node12" href="$d0/d09/namespacet__const__wz__coriolis__rtp.html#abb3720e636ae53902167c1bf14506ae7" title=" " alt="" coords="527,450,680,506"/>
+<area shape="rect" id="node13" href="$dd/d17/namespacet__coriolis__terms__rlm.html#aad2f2f4f471d0d98077b7aa90c52ca16" title=" " alt="" coords="527,531,679,572"/>
+<area shape="rect" id="node15" href="$d5/da2/namespaceskip__comment__f.html#a72c35f5e76fb32a0dc310c65ff25d424" title=" " alt="" coords="519,596,687,637"/>
+<area shape="rect" id="node16" href="$d7/d44/namespacem__legendre__transform__list.html#ae829ade9c28f084985ea5a78e5b4e92d" title=" " alt="" coords="508,661,699,703"/>
+<area shape="rect" id="node17" href="$d8/d16/namespacetest__legendre__transforms.html#a6777f1eae651194387aa574b1238caa0" title=" " alt="" coords="508,727,699,768"/>
+<area shape="rect" id="node18" href="$dc/dfe/namespacet__legendre__trans__select.html#ac89e03fdeed59fa3b677b7fb22d9b461" title=" " alt="" coords="751,756,913,797"/>
+<area shape="rect" id="node20" href="$d8/d27/namespaceaddress__sph__trans__snap.html#a0725fe0c25b43981a37d3749ecddcf0b" title=" " alt="" coords="504,844,703,885"/>
+<area shape="rect" id="node21" href="$d8/d27/namespaceaddress__sph__trans__snap.html#a6dfc65000d3f7b9468bff100e6285ff0" title=" " alt="" coords="505,909,701,951"/>
+<area shape="rect" id="node23" href="$d8/d27/namespaceaddress__sph__trans__snap.html#a9e0cef2685216409a6c9a67f68a40ddb" title=" " alt="" coords="504,975,703,1016"/>
+<area shape="rect" id="node24" href="$d8/d27/namespaceaddress__sph__trans__snap.html#a1e4491fc06d77a3d37599db1319c42e6" title=" " alt="" coords="506,1040,701,1081"/>
+<area shape="rect" id="node26" href="$d8/d27/namespaceaddress__sph__trans__snap.html#a6627671247f2cdea03ac1c4ffd6ec947" title=" " alt="" coords="515,1105,692,1147"/>
+<area shape="rect" id="node27" href="$d8/d27/namespaceaddress__sph__trans__snap.html#af4f4feb8b3b90709fde6f3644c624899" title=" " alt="" coords="516,1171,691,1212"/>
+<area shape="rect" id="node29" href="$d0/d94/namespaceaddress__sph__trans__mhd.html#a894d8563de9562f022d9fda69c749e87" title=" " alt="" coords="516,1236,691,1277"/>
+<area shape="rect" id="node30" href="$d0/d94/namespaceaddress__sph__trans__mhd.html#a082e43a7425a52a42128bd7c7f593ef8" title=" " alt="" coords="518,1301,689,1343"/>
+</map>

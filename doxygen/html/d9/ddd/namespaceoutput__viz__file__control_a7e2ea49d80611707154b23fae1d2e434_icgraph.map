@@ -1,0 +1,13 @@
+<map id="output_viz_file_control::lead_field_data_flag" name="output_viz_file_control::lead_field_data_flag">
+<area shape="rect" id="node1" title=" " alt="" coords="680,163,832,204"/>
+<area shape="rect" id="node2" href="$d1/d47/namespaceanalyzer__sph__dynamobench.html#aab08e46b33986ce723bb236e8f6c0d3a" title=" " alt="" coords="197,16,396,58"/>
+<area shape="rect" id="node4" href="$d0/d9b/namespaceanalyzer__sph__mhd__w__psf.html#aadde7e96d09f18b9102b942e9af5c009" title=" " alt="" coords="223,156,370,212"/>
+<area shape="rect" id="node6" href="$da/d4b/namespaceanalyzer__sph__snap__w__psf.html#a63e780190a80c3525b0f9ab52d55082e" title=" " alt="" coords="221,280,372,336"/>
+<area shape="rect" id="node8" href="$dd/dd4/namespacefem__analyzer__sph__mhd.html#af3d0eee8507f4fb976763de0cece3f43" title=" " alt="" coords="456,228,620,270"/>
+<area shape="rect" id="node9" href="$d0/de2/namespacesph__analyzer__d__bench.html#ad22f985cbc53780763f10fae2dae3c54" title=" " alt="" coords="461,46,615,87"/>
+<area shape="rect" id="node10" href="$d6/deb/namespacesph__analyzer__mhd.html#ab483bc81e40cd6d24860924bce52e9c8" title=" " alt="" coords="458,163,618,204"/>
+<area shape="rect" id="node11" href="$d0/d7f/namespacesph__analyzer__snap__w__psf.html#a1c8dece734bf4fe4a48eff02bb2e8077" title=" " alt="" coords="444,346,632,387"/>
+<area shape="rect" id="node3" href="$dd/dc6/main__sph__dynamobench_8f90.html#ae6fe35a6bef2958f0250ad972ac4b963" title="Main program for dynamo benchmark check." alt="" coords="12,24,143,50"/>
+<area shape="rect" id="node5" href="$d6/d6d/main__sph___m_h_d__w__psf_8f90.html#a3206379918036cef446eada6d3cddb13" title="Main program for MHD dynamo simulation." alt="" coords="13,170,141,197"/>
+<area shape="rect" id="node7" href="$d3/dfc/main__sph__snapshot__w__psf_8f90.html#a59409503fefd18925f4344901f06f27e" title="Main program to evaluate snapshots from spectr data." alt="" coords="5,294,149,321"/>
+</map>

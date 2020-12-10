@@ -1,0 +1,26 @@
+<map id="t_control_array_integer::read_integer_ctl_type" name="t_control_array_integer::read_integer_ctl_type">
+<area shape="rect" id="node1" title=" " alt="" coords="971,303,1125,344"/>
+<area shape="rect" id="node2" href="$de/d32/namespacet__control__array__integer.html#affbedc31729cae9e9a95535c90a0c9e6" title=" " alt="" coords="749,481,904,523"/>
+<area shape="rect" id="node9" href="$d0/d78/namespacet__ctl__data__4__platforms.html#a8b2c0cc2c863dc4866262dd442964220" title=" " alt="" coords="271,123,433,164"/>
+<area shape="rect" id="node13" href="$d3/d0f/namespacet__ctl__data__4__sphere__model.html#af926c6a8252cc140a53cfd9e265860d5" title=" " alt="" coords="755,255,898,311"/>
+<area shape="rect" id="node15" href="$d2/da2/namespacet__ctl__data__4__divide__sphere.html#a202587cfd4a27749daca6be8cd54687f" title=" " alt="" coords="753,335,900,391"/>
+<area shape="rect" id="node16" href="$d2/d6f/namespacet__ctl__data__4__time__steps.html#afb9549ee20fb7c17bc653f1e03757cd0" title=" " alt="" coords="485,21,683,63"/>
+<area shape="rect" id="node19" href="$d8/d08/namespacet__ctl__data__crust__filter.html#a305487553b9db2be502a26a1a4174bee" title=" " alt="" coords="499,611,669,652"/>
+<area shape="rect" id="node21" href="$d3/d8d/namespacet__ctl__data__4__fem__mesh.html#a636abdb904d09cbdc44defef3cb8a059" title=" " alt="" coords="742,189,911,231"/>
+<area shape="rect" id="node22" href="$d7/d25/namespacet__mid__equator__control.html#a334ee7e8cc65167e652a332b4e131461" title=" " alt="" coords="739,548,914,589"/>
+<area shape="rect" id="node23" href="$db/dd8/namespacet__control__data__surfacings.html#ab73c387e7a821cc847d42fd80047f808" title=" " alt="" coords="267,188,437,229"/>
+<area shape="rect" id="node24" href="$d1/db8/namespacet__ctl__data__mhd__evo__scheme.html#ac822b6615a111cdf077da6f84f8f964e" title=" " alt="" coords="731,416,923,457"/>
+<area shape="rect" id="node3" href="$d4/d1e/namespacet__ctl__data__pick__sph__spectr.html#a73df0b63c5fc42a5b45547cc92963ff5" title=" " alt="" coords="514,479,654,535"/>
+<area shape="rect" id="node7" href="$da/df1/namespacet__ctl__data__sph__vol__spectr.html#ac33b1286dadbadf2e454ab15dd144eec" title=" " alt="" coords="514,319,654,375"/>
+<area shape="rect" id="node8" href="$d4/d1e/namespacet__ctl__data__pick__sph__spectr.html#a8aa0403513d89e956eaaabe0299626fa" title=" " alt="" coords="513,399,655,455"/>
+<area shape="rect" id="node4" href="$d8/dd9/namespacet__ctl__data__4__sph__monitor.html#acbf5768da383917b556828646dde2dad" title=" " alt="" coords="267,371,437,412"/>
+<area shape="rect" id="node5" href="$d6/d03/namespacet__ctl__data__mhd.html#a01ffb54d3d59630d356b8f5037b82410" title=" " alt="" coords="40,256,184,297"/>
+<area shape="rect" id="node6" href="$d6/d03/namespacet__ctl__data__mhd.html#a47ee61827e1db29c8bb77e75986877ae" title=" " alt="" coords="40,321,184,363"/>
+<area shape="rect" id="node10" href="$de/d21/namespacet__control__data__4__merge.html#a046df0e437b18be80310726d50c9b7f9" title=" " alt="" coords="24,12,200,53"/>
+<area shape="rect" id="node11" href="$d9/d99/namespacet__control__data__section__only.html#abc9c58ca46a8a7f2ea376cf95520da59" title=" " alt="" coords="5,88,219,129"/>
+<area shape="rect" id="node12" href="$d7/d08/namespacet__ctl__data__const__sph__mesh.html#a7fa80ca0639d31b63f6fd57c6ff415c2" title=" " alt="" coords="34,154,190,210"/>
+<area shape="rect" id="node14" href="$da/dc3/namespacet__ctl__data__gen__sph__shell.html#adb170f98f0e185204db73f4beeb2fe89" title=" " alt="" coords="515,189,653,245"/>
+<area shape="rect" id="node17" href="$de/d21/namespacet__control__data__4__merge.html#a13c449e14f0ec2b6c28910089b746b56" title=" " alt="" coords="271,5,433,47"/>
+<area shape="rect" id="node18" href="$d7/d57/namespacet__ctl__data__sph__mhd__control.html#a27e999aba972164734f083542c6e3ef7" title=" " alt="" coords="271,254,433,310"/>
+<area shape="rect" id="node20" href="$d3/dcf/namespacet__control__data__dynamo__vizs.html#a8556557476e4b295a3f8f8717848a483" title=" " alt="" coords="271,502,433,558"/>
+</map>

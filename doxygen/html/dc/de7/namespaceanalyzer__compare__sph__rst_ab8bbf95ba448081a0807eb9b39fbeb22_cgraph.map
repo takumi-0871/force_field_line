@@ -1,0 +1,28 @@
+<map id="analyzer_compare_sph_rst::analyze_compare_sph_restart" name="analyzer_compare_sph_rst::analyze_compare_sph_restart">
+<area shape="rect" id="node1" title=" " alt="" coords="5,348,161,404"/>
+<area shape="rect" id="node2" href="$d2/d0d/namespacecalypso__mpi.html#a0f7f6f7b3772f9c3824d1f27652ae341" title=" " alt="" coords="225,6,373,47"/>
+<area shape="rect" id="node3" href="$df/d8a/namespacecalypso__mpi__int.html#ad3e6215e37a70900a4e0916a982a6165" title=" " alt="" coords="214,71,383,113"/>
+<area shape="rect" id="node4" href="$d2/d0d/namespacecalypso__mpi.html#aa89165f2095784395255016a873ecebb" title=" " alt="" coords="225,137,373,178"/>
+<area shape="rect" id="node5" href="$d5/d34/namespacecompare__by__assemble__sph.html#a920a10bf134ed22b7fae854fbd078c57" title=" " alt="" coords="209,203,388,259"/>
+<area shape="rect" id="node9" href="$d6/d73/namespacet__field__data__io.html#ac6cec7d532ecea878577c737e61fe96b" title=" " alt="" coords="447,246,601,287"/>
+<area shape="rect" id="node10" href="$d6/d73/namespacet__field__data__io.html#a86848dea426259f74c4196655280b6b6" title=" " alt="" coords="447,311,601,353"/>
+<area shape="rect" id="node11" href="$d7/def/namespacet__spectr__data__4__assemble.html#a887b8b911a89e67b0613560effed9a6c" title=" " alt="" coords="209,567,388,623"/>
+<area shape="rect" id="node13" href="$da/d6d/namespacenew__sph__restart.html#ab0c03bcfce9eafbb686cf8b6bff98698" title=" " alt="" coords="224,385,373,426"/>
+<area shape="rect" id="node16" href="$d2/de5/namespacefield__io__select.html#aa6bc724a705c45514572a7d6a76e0c79" title=" " alt="" coords="438,523,610,565"/>
+<area shape="rect" id="node17" href="$da/d6d/namespacenew__sph__restart.html#a97099789a064d6185b898d2558176789" title=" " alt="" coords="223,717,375,758"/>
+<area shape="rect" id="node21" href="$df/d1a/namespaceshare__field__data.html#a7d7854dd37dabe5f45d4544c274e7926" title=" " alt="" coords="220,943,377,985"/>
+<area shape="rect" id="node25" href="$df/d1a/namespaceshare__field__data.html#a36dedfb025578713eb08f9c2cc802fca" title=" " alt="" coords="220,1041,377,1082"/>
+<area shape="rect" id="node6" href="$d5/d34/namespacecompare__by__assemble__sph.html#a6121ca0029b668538858d2b9029340cd" title=" " alt="" coords="445,5,603,61"/>
+<area shape="rect" id="node7" href="$d5/d34/namespacecompare__by__assemble__sph.html#a7d2c820590f2b11a1bd32aea6850774a" title=" " alt="" coords="445,85,603,141"/>
+<area shape="rect" id="node8" href="$d5/d34/namespacecompare__by__assemble__sph.html#a42d947f5801cda144106802c00dd7900" title=" " alt="" coords="438,165,610,221"/>
+<area shape="rect" id="node12" href="$da/dc4/namespaceparallel__assemble__sph.html#ac654bc5ce7291da2721f729d3e71304c" title=" " alt="" coords="447,589,601,645"/>
+<area shape="rect" id="node14" href="$d4/d3e/namespacecopy__rj__phys__data__4__io.html#a9e8d36b40747515f06b4a65fd287c658" title=" " alt="" coords="446,377,602,433"/>
+<area shape="rect" id="node15" href="$d7/d29/namespacet__time__data.html#a6b6ddb8689c607d95539a008ff515c09" title=" " alt="" coords="445,458,603,499"/>
+<area shape="rect" id="node18" href="$da/dc4/namespaceparallel__assemble__sph.html#a0d0c27275321eb1e31f894fec33807e4" title=" " alt="" coords="447,669,601,725"/>
+<area shape="rect" id="node19" href="$da/dc4/namespaceparallel__assemble__sph.html#a6fba60faebb9d33168da863d0c4d20d0" title=" " alt="" coords="447,749,601,805"/>
+<area shape="rect" id="node20" href="$da/dc4/namespaceparallel__assemble__sph.html#ab8fd31304f7f9b2be43bb9561f24b919" title=" " alt="" coords="447,829,601,885"/>
+<area shape="rect" id="node22" href="$da/ddb/namespacet__phys__data.html#a303c839643c6fb3c0279eaac177e1078" title=" " alt="" coords="460,910,588,951"/>
+<area shape="rect" id="node23" href="$df/d8a/namespacecalypso__mpi__int.html#aa1d7e59ec70622b426815536a7e6115c" title=" " alt="" coords="439,1041,609,1082"/>
+<area shape="rect" id="node24" href="$d1/d7d/namespacecalypso__mpi__real.html#a638a0d780ac073171276ce04e095f103" title=" " alt="" coords="436,975,612,1017"/>
+<area shape="rect" id="node26" href="$d1/d7d/namespacecalypso__mpi__real.html#a91e729baef3d5955589bb1d315ceb787" title=" " alt="" coords="436,1106,612,1147"/>
+</map>

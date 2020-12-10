@@ -1,0 +1,26 @@
+<map id="t_sph_mhd_monitor_data_io::open_sph_vol_rms_file_mhd" name="t_sph_mhd_monitor_data_io::open_sph_vol_rms_file_mhd">
+<area shape="rect" id="node1" title=" " alt="" coords="5,231,173,287"/>
+<area shape="rect" id="node2" href="$d2/d0d/namespacecalypso__mpi.html#a0f7f6f7b3772f9c3824d1f27652ae341" title=" " alt="" coords="259,5,407,47"/>
+<area shape="rect" id="node3" href="$d2/d0d/namespacecalypso__mpi.html#aa89165f2095784395255016a873ecebb" title=" " alt="" coords="259,71,407,112"/>
+<area shape="rect" id="node4" href="$df/d8a/namespacecalypso__mpi__int.html#aa1d7e59ec70622b426815536a7e6115c" title=" " alt="" coords="249,136,418,177"/>
+<area shape="rect" id="node5" href="$d2/d97/namespacempi__sph__gauss__coefs__io.html#ab88489649a27f3423370e6ebb731ae37" title=" " alt="" coords="236,201,431,243"/>
+<area shape="rect" id="node8" href="$d2/d37/namespaceoutput__sph__m__square__file.html#a6a34881e8e592201dd7f04d2daf17019" title=" " alt="" coords="258,267,409,323"/>
+<area shape="rect" id="node10" href="$d7/d37/namespacepickup__gauss__coefficients.html#a8adbca1e7946732bbcbc54cadbb44c9e" title=" " alt="" coords="237,715,429,756"/>
+<area shape="rect" id="node17" href="$dc/dff/namespacet__sph__mhd__monitor__data__io.html#ad37c338c56717a058a7c86e7930e141b" title=" " alt="" coords="221,956,445,997"/>
+<area shape="rect" id="node20" href="$d2/dde/namespacepickup__sph__spectr__data.html#a7dc74fd4d540e3092135d709448a18b8" title=" " alt="" coords="246,413,421,455"/>
+<area shape="rect" id="node6" href="$d9/d85/namespaceset__parallel__file__name.html#a1afad5ab4067f9ca7b4e091526a2cbe6" title=" " alt="" coords="508,88,659,129"/>
+<area shape="rect" id="node7" href="$d2/d97/namespacempi__sph__gauss__coefs__io.html#a264e715cf50b8e444cd732cdf8f803f4" title=" " alt="" coords="502,154,665,210"/>
+<area shape="rect" id="node9" href="$d3/d55/namespacesph__mean__spectr__io.html#aa4b8420ca0c068993b6bfab8b78b1419" title=" " alt="" coords="505,234,661,290"/>
+<area shape="rect" id="node11" href="$d8/da9/namespacet__pickup__sph__spectr__data.html#a52e2215305dfe174885ab697f5007c3e" title=" " alt="" coords="502,642,665,698"/>
+<area shape="rect" id="node12" href="$d8/da9/namespacet__pickup__sph__spectr__data.html#a398a44b4b1be05256e48f8261379bde2" title=" " alt="" coords="504,576,663,617"/>
+<area shape="rect" id="node13" href="$d8/da9/namespacet__pickup__sph__spectr__data.html#aa5460b10396e10879444e69479ed42a2" title=" " alt="" coords="721,717,869,773"/>
+<area shape="rect" id="node14" href="$d1/d0f/namespacepickup__sph__spectr.html#aa05933fcf567840697de99dff76b78f8" title=" " alt="" coords="493,773,673,815"/>
+<area shape="rect" id="node15" href="$d8/da9/namespacet__pickup__sph__spectr__data.html#a19919993f943b9998d62dbc3c9dcf8d2" title=" " alt="" coords="724,806,867,862"/>
+<area shape="rect" id="node16" href="$d7/d37/namespacepickup__gauss__coefficients.html#ac56b7fb4a9d40f9ab4a9bd3980ccc736" title=" " alt="" coords="495,891,671,932"/>
+<area shape="rect" id="node18" href="$d9/d79/namespacet__energy__label__parameters.html#a02288cc17dd252d9b2ba648470415d4c" title=" " alt="" coords="494,956,673,997"/>
+<area shape="rect" id="node19" href="$d4/d16/namespacecal__rms__fields__by__sph.html#a80f2ad44cb82537b5975473c7a0a8fbc" title=" " alt="" coords="503,1021,664,1063"/>
+<area shape="rect" id="node21" href="$d3/d2b/namespacepickup__sph__coefs.html#a5d836e14f9c44805f1d4fa8ece5809be" title=" " alt="" coords="500,315,667,356"/>
+<area shape="rect" id="node22" href="$d3/d2b/namespacepickup__sph__coefs.html#a79f15f4283db3b6610e6f60fb152e359" title=" " alt="" coords="502,380,665,421"/>
+<area shape="rect" id="node23" href="$d3/d2b/namespacepickup__sph__coefs.html#a6467a5bcbcb209b04300af0fb0bd5a83" title=" " alt="" coords="507,445,660,487"/>
+<area shape="rect" id="node24" href="$d3/d2b/namespacepickup__sph__coefs.html#a66a3c2fe9b753068587bac5e4744e2ef" title=" " alt="" coords="506,511,661,552"/>
+</map>

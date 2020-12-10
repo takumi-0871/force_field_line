@@ -1,0 +1,29 @@
+<map id="t_ctl_data_mhd::dealloc_sph_mhd_ctl_data" name="t_ctl_data_mhd::dealloc_sph_mhd_ctl_data">
+<area shape="rect" id="node1" title=" " alt="" coords="5,631,165,672"/>
+<area shape="rect" id="node2" href="$d0/dcf/namespacet__ctl__data__node__monitor.html#a671920c364f53f6dd02e493a56234f4f" title=" " alt="" coords="452,5,627,47"/>
+<area shape="rect" id="node6" href="$da/dc3/namespacet__ctl__data__gen__sph__shell.html#a75e7a12ea7bae633834eb5bc17926f72" title=" " alt="" coords="230,790,383,846"/>
+<area shape="rect" id="node9" href="$da/d21/namespacet__ctl__data__mhd__model.html#a41c70c0477a057745738a05007e97a88" title=" " alt="" coords="220,431,393,472"/>
+<area shape="rect" id="node21" href="$d8/dd9/namespacet__ctl__data__4__sph__monitor.html#a8d72301e2e128a1e4f2466b3daec9e6f" title=" " alt="" coords="213,1104,400,1145"/>
+<area shape="rect" id="node3" href="$d1/dfc/namespacet__control__array__character.html#a8bc76ead4f12d5a56ae626deaba230b5" title=" " alt="" coords="679,463,871,504"/>
+<area shape="rect" id="node4" href="$da/d4d/namespacet__control__array__integer2.html#a53d8244a6ba7b2474378705d602ca60a" title=" " alt="" coords="689,917,860,959"/>
+<area shape="rect" id="node5" href="$dd/d15/namespacet__control__array__real3.html#add10360a84bfda9b3d83d7d115bf01f0" title=" " alt="" coords="689,5,860,47"/>
+<area shape="rect" id="node7" href="$d3/d0f/namespacet__ctl__data__4__sphere__model.html#a4be5df75655b80e23ccc6f5d9b1895d8" title=" " alt="" coords="460,870,619,926"/>
+<area shape="rect" id="node8" href="$d2/da2/namespacet__ctl__data__4__divide__sphere.html#ac6667f4ed114004d21c1dc709a86add5" title=" " alt="" coords="453,790,626,846"/>
+<area shape="rect" id="node10" href="$d7/d80/namespacet__ctl__data__node__boundary.html#ac3248fed05602e0be8a42b3f25deceb4" title=" " alt="" coords="452,659,627,700"/>
+<area shape="rect" id="node11" href="$de/d9a/namespacet__ctl__data__surf__boundary.html#a1a2f9689e9becc7ed9736a33b5bf1392" title=" " alt="" coords="455,724,623,765"/>
+<area shape="rect" id="node12" href="$d6/d34/namespacet__ctl__data__mhd__normalize.html#ab510de22ef3f71d36b3654086e0712de" title=" " alt="" coords="452,71,627,112"/>
+<area shape="rect" id="node13" href="$de/df6/namespacet__ctl__data__mhd__forces.html#aab136cac2e0e90c5f8d4e55b437f1012" title=" " alt="" coords="462,136,617,177"/>
+<area shape="rect" id="node14" href="$d6/d34/namespacet__ctl__data__mhd__normalize.html#a34532b348173f7b75095b1725d20a4f9" title=" " alt="" coords="452,201,627,243"/>
+<area shape="rect" id="node15" href="$d1/d4c/namespacet__ctl__data__mhd__evolution.html#a740b846f940be7a6f3eca9b8d94f2cf6" title=" " alt="" coords="453,397,626,439"/>
+<area shape="rect" id="node16" href="$de/df6/namespacet__ctl__data__mhd__forces.html#a4f75b5db394ce952222115f782a250d9" title=" " alt="" coords="462,267,617,308"/>
+<area shape="rect" id="node17" href="$de/df6/namespacet__ctl__data__mhd__forces.html#a8c9bf43ac98c50c5edfe7d50ae2bcaa4" title=" " alt="" coords="462,332,617,373"/>
+<area shape="rect" id="node18" href="$de/df6/namespacet__ctl__data__mhd__forces.html#abefa3533d114aa2a2faa305ba74b8360" title=" " alt="" coords="456,463,623,504"/>
+<area shape="rect" id="node19" href="$dd/dcf/namespacet__ctl__data__4__fields.html#ad779cd13e17c033befa101585d1c3ed8" title=" " alt="" coords="463,528,615,569"/>
+<area shape="rect" id="node20" href="$d1/d4c/namespacet__ctl__data__mhd__evolution.html#aa6c685fdb418b3fde4a25be26ad7fede" title=" " alt="" coords="454,593,625,635"/>
+<area shape="rect" id="node22" href="$d4/d1e/namespacet__ctl__data__pick__sph__spectr.html#a0944f1915c518972fdcb0e66adc1dc8a" title=" " alt="" coords="461,950,617,1006"/>
+<area shape="rect" id="node23" href="$da/df1/namespacet__ctl__data__sph__vol__spectr.html#adf22b47892b7cd5c1d95129173732915" title=" " alt="" coords="466,1257,613,1313"/>
+<area shape="rect" id="node24" href="$d4/d1e/namespacet__ctl__data__pick__sph__spectr.html#af7dc75d6cd031eb2194b8d208ac994b3" title=" " alt="" coords="467,1177,612,1233"/>
+<area shape="rect" id="node25" href="$d8/dd9/namespacet__ctl__data__4__sph__monitor.html#a64d2fe76be70d0b0caa4099a7d50b5f5" title=" " alt="" coords="454,1337,625,1393"/>
+<area shape="rect" id="node26" href="$d7/d25/namespacet__mid__equator__control.html#a61e1009b8e2482b739bb77440752b3b4" title=" " alt="" coords="448,1031,631,1072"/>
+<area shape="rect" id="node27" href="$da/df1/namespacet__ctl__data__sph__vol__spectr.html#a078e820430008ad4fab95d35a5305d73" title=" " alt="" coords="464,1097,615,1153"/>
+</map>

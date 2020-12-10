@@ -1,0 +1,16 @@
+<map id="gz_mpi_element_connect_io_b::gz_mpi_read_ele_info_b" name="gz_mpi_element_connect_io_b::gz_mpi_read_ele_info_b">
+<area shape="rect" id="node1" title=" " alt="" coords="5,166,176,222"/>
+<area shape="rect" id="node2" href="$dd/d2d/namespacet__geometry__data.html#ab25b1b17f1cf2b10dd2778e4e664094a" title=" " alt="" coords="241,49,395,91"/>
+<area shape="rect" id="node3" href="$dd/d2d/namespacet__geometry__data.html#a172982fdc3261622ff5411205c5e04d3" title=" " alt="" coords="241,115,395,156"/>
+<area shape="rect" id="node4" href="$d5/d62/namespacegz__mpi__binary__data__io.html#ac22af3e7353c67368730ae564741eee6" title=" " alt="" coords="469,162,619,218"/>
+<area shape="rect" id="node11" href="$d5/d62/namespacegz__mpi__binary__data__io.html#aefc0b836253f0b345e8d02c8e54b763b" title=" " alt="" coords="247,231,389,287"/>
+<area shape="rect" id="node14" href="$d6/d2a/namespaceset__nnod__4__ele__by__type.html#a0915575e134a78c9d3228b9c1d92d08d" title=" " alt="" coords="224,312,412,353"/>
+<area shape="rect" id="node5" href="$d7/dcf/namespacet__buffer__4__gzip.html#a60abab7c9eba50fe51f9a2ba9b9863bf" title=" " alt="" coords="694,5,841,47"/>
+<area shape="rect" id="node6" href="$dc/d05/namespacebyte__swap__f.html#a1e2d47798dcc04c3d883010f9630c7c0" title=" " alt="" coords="685,71,850,112"/>
+<area shape="rect" id="node7" href="$de/d27/namespacem__calypso__mpi__io.html#aa261e2f6e7df06b34f5fdd8ca461fd57" title=" " alt="" coords="676,136,859,177"/>
+<area shape="rect" id="node8" href="$d7/dcf/namespacet__buffer__4__gzip.html#a681d0ad12d4e122b9727df8c903cbc5c" title=" " alt="" coords="687,201,847,243"/>
+<area shape="rect" id="node9" href="$dd/d66/namespacegz__mpi__binary__head__io.html#abf1bf2a6f2571a9caf4dfe27b573c686" title=" " alt="" coords="682,267,853,323"/>
+<area shape="rect" id="node10" href="$d5/d29/namespacedata__convert__by__zlib.html#a9a4d1c02b10b5002ec15ac07e8a3aa90" title=" " alt="" coords="689,348,846,389"/>
+<area shape="rect" id="node12" href="$db/dda/namespacetransfer__to__long__integers.html#ace4301504e69e59ce6c96fa0c77da63a" title=" " alt="" coords="460,243,628,284"/>
+<area shape="rect" id="node13" href="$db/dda/namespacetransfer__to__long__integers.html#a3f457a081e1b40ebff4cdcc491375a8d" title=" " alt="" coords="460,308,628,349"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="init_sphrical_transform_mhd::init_work_4_coriolis" name="init_sphrical_transform_mhd::init_work_4_coriolis">
+<area shape="rect" id="node1" title=" " alt="" coords="5,181,180,222"/>
+<area shape="rect" id="node2" href="$d0/d09/namespacet__const__wz__coriolis__rtp.html#abb3720e636ae53902167c1bf14506ae7" title=" " alt="" coords="228,136,381,192"/>
+<area shape="rect" id="node3" href="$dd/d17/namespacet__coriolis__terms__rlm.html#aad2f2f4f471d0d98077b7aa90c52ca16" title=" " alt="" coords="229,217,381,258"/>
+<area shape="rect" id="node4" href="$de/d33/namespacet__gaunt__coriolis__rlm.html#ae37ac7fa9bbfc0b92e138a75cf8aa6d1" title=" " alt="" coords="445,5,583,61"/>
+<area shape="rect" id="node5" href="$dd/d17/namespacet__coriolis__terms__rlm.html#a0f1921006b40c3dad071526cafee4d41" title=" " alt="" coords="442,86,586,127"/>
+<area shape="rect" id="node6" href="$de/d33/namespacet__gaunt__coriolis__rlm.html#a242e7a680b66691ecf39d71e7b26db98" title=" " alt="" coords="429,151,599,193"/>
+<area shape="rect" id="node7" href="$d4/da1/namespaceinteract__coriolis__rlm.html#af633e16cfb651ddf72ad11179dce7984" title=" " alt="" coords="435,217,593,258"/>
+<area shape="rect" id="node8" href="$de/d33/namespacet__gaunt__coriolis__rlm.html#ad931c52ee9255f7b0200850a20cf7d0a" title=" " alt="" coords="647,239,785,295"/>
+<area shape="rect" id="node9" href="$de/d33/namespacet__gaunt__coriolis__rlm.html#a3c3225fd1333c0938d9b07ff65e1f5c9" title=" " alt="" coords="438,333,590,389"/>
+<area shape="rect" id="node10" href="$d4/da1/namespaceinteract__coriolis__rlm.html#a84697a0bb767fb85c2ce3ccfaf5ee67d" title=" " alt="" coords="430,414,598,455"/>
+</map>

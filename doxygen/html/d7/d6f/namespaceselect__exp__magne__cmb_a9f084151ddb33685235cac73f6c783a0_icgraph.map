@@ -1,0 +1,6 @@
+<map id="select_exp_magne_cmb::sel_cmb_grad_poloidal_magne" name="select_exp_magne_cmb::sel_cmb_grad_poloidal_magne">
+<area shape="rect" id="node1" title=" " alt="" coords="476,39,684,80"/>
+<area shape="rect" id="node2" href="$d4/d5d/namespacecal__sol__sph__fluid__crank.html#ab6c35911374479bc7daa8960a754c7a9" title=" " alt="" coords="241,5,425,47"/>
+<area shape="rect" id="node4" href="$d3/dac/namespaceconst__sph__radial__grad.html#acf2b1864e0c9e0db57f6fedb808bf828" title=" " alt="" coords="237,71,428,112"/>
+<area shape="rect" id="node3" href="$de/d70/namespacecal__sol__sph__mhd__crank.html#a37dfbe3a885ceafca7da235b08da77f1" title=" " alt="" coords="5,5,189,47"/>
+</map>

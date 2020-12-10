@@ -1,0 +1,8 @@
+<map id="select_exp_velocity_icb::sel_icb_grad_poloidal_moment" name="select_exp_velocity_icb::sel_icb_grad_poloidal_moment">
+<area shape="rect" id="node1" title=" " alt="" coords="5,137,184,193"/>
+<area shape="rect" id="node2" href="$d6/d30/namespaceset__sph__exp__nod__center.html#a3c878712aef017576b1f1a01bf5fdc2f" title=" " alt="" coords="251,5,418,47"/>
+<area shape="rect" id="node3" href="$df/df4/namespaceset__sph__exp__free__icb.html#a0a90c91aed2924c5be11b11988580343" title=" " alt="" coords="237,71,432,112"/>
+<area shape="rect" id="node4" href="$dc/d89/namespaceset__sph__exp__fix__vector__icb.html#acd1961e1a5c32b1edbd2170781bbf6d5" title=" " alt="" coords="255,137,415,193"/>
+<area shape="rect" id="node5" href="$dd/def/namespaceset__sph__exp__rigid__icb.html#aec6e73c3f22f9e324bd362fee675acbc" title=" " alt="" coords="237,217,433,259"/>
+<area shape="rect" id="node6" href="$dd/def/namespaceset__sph__exp__rigid__icb.html#a636af84fb0865a4f54951083734b9783" title=" " alt="" coords="232,283,437,324"/>
+</map>

@@ -1,0 +1,28 @@
+var t__ctl__data__4__sphere__model_8f90 =
+[
+    [ "sphere_data_control", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control" ],
+    [ "dealloc_control_shell_define", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#a4be5df75655b80e23ccc6f5d9b1895d8", null ],
+    [ "read_control_shell_define", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#af926c6a8252cc140a53cfd9e265860d5", null ],
+    [ "reset_control_shell_define", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#a95669283462d55c5aa525b278a8d6480", null ],
+    [ "hd_bc_sph", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#adf5de645f054cbd93a25f562e618adeb", null ],
+    [ "hd_cheby_increment", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#a90ebf41ba12ce78d4736caa33d3fd001", null ],
+    [ "hd_cmb_radius", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#ad41a2738a238739d494d31473edc04be", null ],
+    [ "hd_icb_radius", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#af814c530bdbb4c1ce84c7912db66661b", null ],
+    [ "hd_list_med_grp", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#a1b645229d8645bc450e2dbe60097e08b", null ],
+    [ "hd_list_radial_grp", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#a61a6436dbf02ccc319778f51ef7e22de", null ],
+    [ "hd_max_radius", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#aeaede3c9a86fa863c207c1491e1db569", null ],
+    [ "hd_min_radius", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#a272c5c1092181d8aea975fd024a8a1f2", null ],
+    [ "hd_n_fluid_grid", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#a628d5b11ae2cd8c73785d95725ed938e", null ],
+    [ "hd_nphi_shell", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#a2789d90d8d82599cb3155c806b0838f2", null ],
+    [ "hd_ntheta_shell", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#a391cabf6dd1a691d434498f749245bb3", null ],
+    [ "hd_num_med_grp", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#ac74ab55aed7e334e04c67d410fb421e0", null ],
+    [ "hd_num_radial_grp", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#aa41b1f3d5d183337461e53a97b52487d", null ],
+    [ "hd_numlayer_shell", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#ae0a0cd0e08a3e77cc9dac32f47936da7", null ],
+    [ "hd_phi_symmetry", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#a111eb8c6a3e40feebf0dec5b7608bf6f", null ],
+    [ "hd_r_grid_type", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#ad63202c47abf57e57190cca4f069b230", null ],
+    [ "hd_shell_ratio", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#a764d24724fd045ab217371b3e7c80ab7", null ],
+    [ "hd_shell_size", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#abef1401f0584125fcedcef74ea1a2837", null ],
+    [ "hd_sph_c_type", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#a4c2eb436a8cec9c5e2943b4a7accc60d", null ],
+    [ "hd_sph_g_type", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#ada3a415aa55e0f8dee41c2f3761c645a", null ],
+    [ "hd_sph_truncate", "d7/dfd/t__ctl__data__4__sphere__model_8f90.html#aba2dcbede13cbd4d7c74902b14952364", null ]
+];

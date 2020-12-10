@@ -1,0 +1,5 @@
+<map id="t_boundary_sph_spectr::sph_scalar_boundary_data" name="t_boundary_sph_spectr::sph_scalar_boundary_data">
+<area shape="rect" id="node1" title="Structure for scalar spectr boundaries." alt="" coords="283,39,468,80"/>
+<area shape="rect" id="node2" href="$dd/dc7/structt__boundary__sph__spectr_1_1sph__scalar__bc__coef.html" title="Structure for boundary scalar spectr." alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node3" href="$d2/def/structt__boundary__sph__spectr_1_1sph__scalar__bc__evo.html" title="Structure for boundary scalar spectr." alt="" coords="5,71,163,112"/>
+</map>

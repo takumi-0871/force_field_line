@@ -1,0 +1,26 @@
+var structt__ctl__data__4__platforms_1_1platform__data__control =
+[
+    [ "bc_data_file_name_ctl", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a411f1ba4ef27fe8aff6d7f9966fecc05", null ],
+    [ "coriolis_file_fmt_ctl", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a662a40082e659b197292d528252ef33b", null ],
+    [ "coriolis_int_file_name", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#af703bc7d1a2874fafff775821d34490b", null ],
+    [ "debug_flag_ctl", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#ac4d9ce8180ff6a317535c24e42b314aa", null ],
+    [ "del_org_data_ctl", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a37e0e9b990a7f6f174768f3355f5d905", null ],
+    [ "field_file_fmt_ctl", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a6d9f3d0bec8c67c264e0cb7453a7c159", null ],
+    [ "field_file_prefix", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a3fe729f62f36e94c28bb740f676108d9", null ],
+    [ "i_platform", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a43e923ce5f1b7873f632dd2d0a44cf30", null ],
+    [ "interpolate_fem_to_sph_ctl", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#aaab6cc9f0882c71246dc0172038623b6", null ],
+    [ "interpolate_sph_to_fem_ctl", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a7831fe69e3c381bc926b377b6fcf4c46", null ],
+    [ "itp_file_fmt_ctl", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a8347d7417a142ccee67798439783e12e", null ],
+    [ "mesh_file_fmt_ctl", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a80d9a63409f791f08c6c87de4501a3fa", null ],
+    [ "mesh_file_prefix", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a9e8f6bc6472b35bc360d6be05605bdbc", null ],
+    [ "ndomain_ctl", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#ae70b2d3e7681124097914664fcfe1ab4", null ],
+    [ "num_smp_ctl", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#adf6569d4a6aebe27066921eb09db0e5e", null ],
+    [ "rayleigh_field_dir", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a996081c4a0bc48cf3f8d4f493fe475c4", null ],
+    [ "rayleigh_spectr_dir", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a16374a5eaeddb8560cbda0909bc0baed", null ],
+    [ "restart_file_fmt_ctl", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#aa54f0a9a520bdb8f108e90379e40d50d", null ],
+    [ "restart_file_prefix", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a55daef0e0375a97bb81ca0b367d86f3a", null ],
+    [ "spectr_field_file_prefix", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a9d6f61a22a29edfa4d8160c3a04ad628", null ],
+    [ "spectr_field_fmt_ctl", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#ade9b67006a1bf53d10b6b85a6d51848e", null ],
+    [ "sph_file_fmt_ctl", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a88325a4465404bb712676f80b1e706f8", null ],
+    [ "sph_file_prefix", "da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html#a6ea20cef2421b1c2e80a0b2daaf0d950", null ]
+];

@@ -1,0 +1,24 @@
+<map id="sph_modes_grids_data_io::read_spectr_modes_rj_data" name="sph_modes_grids_data_io::read_spectr_modes_rj_data">
+<area shape="rect" id="node1" title=" " alt="" coords="5,399,167,455"/>
+<area shape="rect" id="node2" href="$d5/d12/namespacedomain__data__io.html#abb6700fa97df9579364215c111acd15e" title=" " alt="" coords="233,64,379,105"/>
+<area shape="rect" id="node5" href="$df/d5a/namespacespherical__model__io.html#a1fceb11691f1e493baacdf92c4baac49" title=" " alt="" coords="235,173,377,215"/>
+<area shape="rect" id="node7" href="$df/d5a/namespacespherical__model__io.html#a794f8053ee0ab922c128968920ebb3e7" title=" " alt="" coords="668,224,831,265"/>
+<area shape="rect" id="node8" href="$db/d15/namespacegroups__io.html#a89209b18710413b7fcea1cf1f5606b25" title=" " alt="" coords="215,414,397,441"/>
+<area shape="rect" id="node14" href="$d5/d12/namespacedomain__data__io.html#ac6f53b02648d386e18a9467a9245e1e5" title=" " alt="" coords="459,589,606,631"/>
+<area shape="rect" id="node18" href="$df/d5a/namespacespherical__model__io.html#a514ca0a1a0e42cdd2b02b2c1b1af69ce" title=" " alt="" coords="239,589,373,631"/>
+<area shape="rect" id="node19" href="$d5/df6/namespacesph__global__1d__idx__io.html#a5fdc1f70b307e5a4098790687363818b" title=" " alt="" coords="233,771,379,812"/>
+<area shape="rect" id="node3" href="$d3/d67/namespacet__comm__table.html#aed1933167739f0b3a538827873f9c226" title=" " alt="" coords="463,5,602,47"/>
+<area shape="rect" id="node4" href="$d5/da2/namespaceskip__comment__f.html#a6e76055961b5cfbdaf812faae7f724d0" title=" " alt="" coords="879,341,1029,383"/>
+<area shape="rect" id="node6" href="$d1/d00/namespacet__node__id__spherical__io.html#ab16fedd5d9a69cb8105f4d08506a8eec" title=" " alt="" coords="451,173,615,215"/>
+<area shape="rect" id="node9" href="$de/db8/namespacet__group__data.html#ab44ede633b334e6c003224fba021e59f" title=" " alt="" coords="467,341,599,383"/>
+<area shape="rect" id="node10" href="$de/db8/namespacet__group__data.html#a9bcdc963dc63b8b184fe4349ff2968c2" title=" " alt="" coords="467,407,599,448"/>
+<area shape="rect" id="node11" href="$df/d73/namespacegroup__data__io.html#a8ceb21fe06eadb044812659c98ace555" title=" " alt="" coords="681,341,817,383"/>
+<area shape="rect" id="node12" href="$df/d73/namespacegroup__data__io.html#a131f5004a36bc3261bd680486162153c" title=" " alt="" coords="465,524,601,565"/>
+<area shape="rect" id="node13" href="$dd/dc2/namespacefield__data__io.html#aa356af274e534a7f83ac970a674b59b8" title=" " alt="" coords="683,407,816,448"/>
+<area shape="rect" id="node15" href="$d3/d67/namespacet__comm__table.html#a5019eec65101f90cf23b9644296f15b6" title=" " alt="" coords="680,472,819,513"/>
+<area shape="rect" id="node16" href="$d3/d67/namespacet__comm__table.html#aa688d0706c6f6b8bed28f2cfc3697184" title=" " alt="" coords="680,537,819,579"/>
+<area shape="rect" id="node17" href="$da/d0c/namespacecomm__table__io.html#a60491e6d9aed1b690c9ce46f8379a363" title=" " alt="" coords="678,603,821,644"/>
+<area shape="rect" id="node20" href="$d1/d00/namespacet__node__id__spherical__io.html#afbde460eea210607ebf789aeaf0544c1" title=" " alt="" coords="447,771,618,812"/>
+<area shape="rect" id="node21" href="$d1/d00/namespacet__node__id__spherical__io.html#a651e9bc89279f04cdd9bed19648d21c1" title=" " alt="" coords="447,836,618,877"/>
+<area shape="rect" id="node22" href="$d1/d00/namespacet__node__id__spherical__io.html#a9e75ef249e79ec055373752b922e6013" title=" " alt="" coords="445,901,620,943"/>
+</map>

@@ -1,0 +1,26 @@
+var gzip__file__access_8f90 =
+[
+    [ "open_wt_gzfile", "d1/de5/interfacegzip__file__access_1_1open__wt__gzfile.html", "d1/de5/interfacegzip__file__access_1_1open__wt__gzfile" ],
+    [ "open_ad_gzfile", "d8/d70/interfacegzip__file__access_1_1open__ad__gzfile.html", "d8/d70/interfacegzip__file__access_1_1open__ad__gzfile" ],
+    [ "open_rd_gzfile", "d4/d54/interfacegzip__file__access_1_1open__rd__gzfile.html", "d4/d54/interfacegzip__file__access_1_1open__rd__gzfile" ],
+    [ "close_gzfile", "d3/d4e/interfacegzip__file__access_1_1close__gzfile.html", "d3/d4e/interfacegzip__file__access_1_1close__gzfile" ],
+    [ "get_one_line_from_gz", "d0/d56/interfacegzip__file__access_1_1get__one__line__from__gz.html", "d0/d56/interfacegzip__file__access_1_1get__one__line__from__gz" ],
+    [ "write_compress_txt_nolf", "d9/d8e/interfacegzip__file__access_1_1write__compress__txt__nolf.html", "d9/d8e/interfacegzip__file__access_1_1write__compress__txt__nolf" ],
+    [ "gzread_32bit_f", "d0/d4c/interfacegzip__file__access_1_1gzread__32bit__f.html", "d0/d4c/interfacegzip__file__access_1_1gzread__32bit__f" ],
+    [ "gzread_64bit_f", "df/df2/interfacegzip__file__access_1_1gzread__64bit__f.html", "df/df2/interfacegzip__file__access_1_1gzread__64bit__f" ],
+    [ "gzwrite_f", "d0/d44/interfacegzip__file__access_1_1gzwrite__f.html", "d0/d44/interfacegzip__file__access_1_1gzwrite__f" ],
+    [ "close_gzfile_b", "da/d75/gzip__file__access_8f90.html#aec62e27604a89d486b1ccf31cf8ea474", null ],
+    [ "get_one_line_text_from_gz", "da/d75/gzip__file__access_8f90.html#a808a4936f82b190055019afc8c6ce0f5", null ],
+    [ "gz_write_textbuf_no_lf", "da/d75/gzip__file__access_8f90.html#a761e487f9e73325cd2faa2ea307003ba", null ],
+    [ "gzread_chara_f", "da/d75/gzip__file__access_8f90.html#a49bc8f88adcf16f3b95ce26aa63fa97f", null ],
+    [ "gzread_int4_f", "da/d75/gzip__file__access_8f90.html#a5d33be0f202191cb2be8db363dd129f0", null ],
+    [ "gzread_int8_f", "da/d75/gzip__file__access_8f90.html#ab2b8ae8f5b855e1864833915764424ef", null ],
+    [ "gzread_real_f", "da/d75/gzip__file__access_8f90.html#a8114c32fde4350c8dd1e027c19ff9231", null ],
+    [ "gzwrite_chara_f", "da/d75/gzip__file__access_8f90.html#ac3d24496d91b431ee568fbf89e3f1e80", null ],
+    [ "gzwrite_int4_f", "da/d75/gzip__file__access_8f90.html#a6ea592527093feb58a58a55c6ad6e113", null ],
+    [ "gzwrite_int8_f", "da/d75/gzip__file__access_8f90.html#a5a048e7067b3d52657c1aac5e620b27a", null ],
+    [ "gzwrite_real_f", "da/d75/gzip__file__access_8f90.html#af02116d2689369895a8e49fe4528b426", null ],
+    [ "open_ad_gzfile_f", "da/d75/gzip__file__access_8f90.html#ae0e9c3d0a0d22ab8c1a598a283a8408b", null ],
+    [ "open_rd_gzfile_f", "da/d75/gzip__file__access_8f90.html#ab9e01ec1954e191e03a7d2223ce9eb2d", null ],
+    [ "open_wt_gzfile_f", "da/d75/gzip__file__access_8f90.html#a90d44995b1617378c64b30725a3a570f", null ]
+];

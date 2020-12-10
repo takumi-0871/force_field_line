@@ -1,0 +1,31 @@
+<map id="assemble_sph" name="assemble_sph">
+<area shape="rect" id="node1" title="Main program for assemble spectr data." alt="" coords="5,1237,112,1263"/>
+<area shape="rect" id="node2" href="$d1/deb/namespaceanalyzer__assemble__sph.html#a6d219bda5c57fca9d0218f3e096f4531" title=" " alt="" coords="160,1196,327,1237"/>
+<area shape="rect" id="node14" href="$d2/d0d/namespacecalypso__mpi.html#a79efc03e79d02aaa352d01154c536301" title=" " alt="" coords="169,1261,317,1303"/>
+<area shape="rect" id="node15" href="$d2/d0d/namespacecalypso__mpi.html#a005c0c2263d069f4ca311cd0c02137d5" title=" " alt="" coords="169,1327,317,1368"/>
+<area shape="rect" id="node16" href="$d1/deb/namespaceanalyzer__assemble__sph.html#a8cdb8dd695aedbb89edf5fd8f42b5476" title=" " alt="" coords="162,451,325,492"/>
+<area shape="rect" id="node3" href="$d2/d0d/namespacecalypso__mpi.html#aa89165f2095784395255016a873ecebb" title=" " alt="" coords="638,699,786,740"/>
+<area shape="rect" id="node4" href="$da/d6d/namespacenew__sph__restart.html#a66cc1d0249c464cfaeb10d7f50cfd73b" title=" " alt="" coords="402,955,559,996"/>
+<area shape="rect" id="node5" href="$d6/d73/namespacet__field__data__io.html#ac6cec7d532ecea878577c737e61fe96b" title=" " alt="" coords="635,1509,789,1551"/>
+<area shape="rect" id="node6" href="$d6/d73/namespacet__field__data__io.html#a86848dea426259f74c4196655280b6b6" title=" " alt="" coords="635,1225,789,1267"/>
+<area shape="rect" id="node7" href="$d7/def/namespacet__spectr__data__4__assemble.html#a887b8b911a89e67b0613560effed9a6c" title=" " alt="" coords="391,1021,570,1077"/>
+<area shape="rect" id="node8" href="$db/d9b/namespaceset__field__file__names.html#a04400655fc0d7ca5bcf6597f2542ec68" title=" " alt="" coords="410,1101,551,1143"/>
+<area shape="rect" id="node9" href="$da/d6d/namespacenew__sph__restart.html#ab0c03bcfce9eafbb686cf8b6bff98698" title=" " alt="" coords="406,1480,555,1521"/>
+<area shape="rect" id="node10" href="$d2/de5/namespacefield__io__select.html#a5f39654d3c9a755c7ebbd5d135d3fc09" title=" " alt="" coords="395,1167,566,1208"/>
+<area shape="rect" id="node11" href="$da/d6d/namespacenew__sph__restart.html#a97099789a064d6185b898d2558176789" title=" " alt="" coords="405,1284,557,1325"/>
+<area shape="rect" id="node12" href="$df/d1a/namespaceshare__field__data.html#a7d7854dd37dabe5f45d4544c274e7926" title=" " alt="" coords="402,1349,559,1391"/>
+<area shape="rect" id="node13" href="$df/d1a/namespaceshare__field__data.html#a36dedfb025578713eb08f9c2cc802fca" title=" " alt="" coords="402,1415,559,1456"/>
+<area shape="rect" id="node17" href="$d7/def/namespacet__spectr__data__4__assemble.html#adf5b0c834dc352a01ff8712514778aeb" title=" " alt="" coords="376,560,585,601"/>
+<area shape="rect" id="node18" href="$de/db7/namespacebcast__4__assemble__sph__ctl.html#ad93aca217bbca7a0b28b14c6cedc01a0" title=" " alt="" coords="379,625,583,667"/>
+<area shape="rect" id="node19" href="$d0/dea/namespaceparallel__gen__sph__grids.html#a1631aaa386661e76d2deace9d37b441d" title=" " alt="" coords="399,691,563,747"/>
+<area shape="rect" id="node20" href="$d9/d7e/namespacet__check__and__make__sph__mesh.html#aea79abf32908c28dfb293965b3dbd22f" title=" " alt="" coords="395,479,566,535"/>
+<area shape="rect" id="node21" href="$dd/d98/namespacer__interpolate__marged__sph.html#ac66d22eeba664597798190fedebc04cf" title=" " alt="" coords="379,772,582,813"/>
+<area shape="rect" id="node22" href="$da/d6d/namespacenew__sph__restart.html#ad456ce834a27197dda05b14fa6acde80" title=" " alt="" coords="389,837,572,879"/>
+<area shape="rect" id="node23" href="$d1/d5c/namespaceassemble__sph__fields.html#a729d5725675c62cb6c019feddde8d029" title=" " alt="" coords="394,5,567,47"/>
+<area shape="rect" id="node24" href="$de/d21/namespacet__control__data__4__merge.html#a376e0a6dc059695f75539892fb6b6cad" title=" " alt="" coords="385,71,577,112"/>
+<area shape="rect" id="node25" href="$da/d43/namespacecount__nnod__4__asseble__sph.html#a89f723ca65b4a97e2be06456757fcdc9" title=" " alt="" coords="403,137,558,193"/>
+<area shape="rect" id="node26" href="$d0/d0b/namespaceset__control__newsph.html#af585b3b0e60dbe1eb18d6be5ffaffcab" title=" " alt="" coords="401,217,560,259"/>
+<area shape="rect" id="node27" href="$d1/d5c/namespaceassemble__sph__fields.html#afa5f1a89677cd93912d97fd020fc1a2f" title=" " alt="" coords="375,283,587,324"/>
+<area shape="rect" id="node28" href="$d1/d5c/namespaceassemble__sph__fields.html#ad1d060920452ee81630d128810c85eae" title=" " alt="" coords="377,348,584,389"/>
+<area shape="rect" id="node29" href="$d1/d5c/namespaceassemble__sph__fields.html#aa37a84e74c53b8c5130a015c3a60befc" title=" " alt="" coords="400,413,561,455"/>
+</map>

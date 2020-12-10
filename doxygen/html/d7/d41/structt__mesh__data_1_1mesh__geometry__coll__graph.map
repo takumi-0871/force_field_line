@@ -1,0 +1,8 @@
+<map id="t_mesh_data::mesh_geometry" name="t_mesh_data::mesh_geometry">
+<area shape="rect" id="node1" title="Structure for grid data (position, connectivity, and communication)" alt="" coords="328,107,527,133"/>
+<area shape="rect" id="node2" href="$d2/dfa/structt__surface__data_1_1surface__data.html" title="structure of surface data (geometry and connectivity)" alt="" coords="13,5,203,32"/>
+<area shape="rect" id="node3" href="$d4/d97/structt__geometry__data_1_1element__data.html" title="structure for element data (position and connectivity)" alt="" coords="5,56,211,83"/>
+<area shape="rect" id="node4" href="$d0/da4/structt__geometry__data_1_1node__data.html" title="structure for node data (position)" alt="" coords="15,107,201,133"/>
+<area shape="rect" id="node5" href="$d2/d62/structt__comm__table_1_1communication__table.html" title="data structure for communication table" alt="" coords="8,158,208,199"/>
+<area shape="rect" id="node6" href="$de/d74/structt__edge__data_1_1edge__data.html" title="Structure for edge data." alt="" coords="27,224,189,251"/>
+</map>

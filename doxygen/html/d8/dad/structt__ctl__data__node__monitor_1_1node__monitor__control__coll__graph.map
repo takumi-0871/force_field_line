@@ -1,0 +1,6 @@
+<map id="t_ctl_data_node_monitor::node_monitor_control" name="t_ctl_data_node_monitor::node_monitor_control">
+<area shape="rect" id="node1" title=" " alt="" coords="344,71,508,112"/>
+<area shape="rect" id="node2" href="$da/dc6/structt__control__array__real3_1_1ctl__array__r3.html" title="Structure for three reals control array." alt="" coords="19,5,161,47"/>
+<area shape="rect" id="node3" href="$d5/df6/structt__control__array__character_1_1ctl__array__chara.html" title="Structure for character control array." alt="" coords="5,71,175,112"/>
+<area shape="rect" id="node4" href="$dc/da4/structt__control__array__integer2_1_1ctl__array__i2.html" title="Structure for 2 integers control array." alt="" coords="9,136,171,177"/>
+</map>

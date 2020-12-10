@@ -1,0 +1,18 @@
+<map id="element_mesh_mpi_io_select::sel_mpi_read_edge_mesh" name="element_mesh_mpi_io_select::sel_mpi_read_edge_mesh">
+<area shape="rect" id="node1" title=" " alt="" coords="5,210,157,266"/>
+<area shape="rect" id="node2" href="$d2/d0d/namespacecalypso__mpi.html#a0f7f6f7b3772f9c3824d1f27652ae341" title=" " alt="" coords="223,5,371,47"/>
+<area shape="rect" id="node3" href="$dd/df6/namespacegz__mpi__element__file__io.html#aba1fb972386a4099200e9d82e7404c7c" title=" " alt="" coords="205,71,388,112"/>
+<area shape="rect" id="node5" href="$d4/d9d/namespacegz__mpi__element__file__io__b.html#aac8ff220d5dcd5cd3e64cbbd8c7de9ed" title=" " alt="" coords="226,137,367,193"/>
+<area shape="rect" id="node7" href="$d7/d55/namespacempi__element__file__io.html#a0f3abeb63f9488dbe418b8b75134611b" title=" " alt="" coords="224,217,369,259"/>
+<area shape="rect" id="node9" href="$d7/d3d/namespacempi__element__file__io__b.html#a93c85317c3b7e6d94a6b0fe51a1f6ed5" title=" " alt="" coords="210,283,383,324"/>
+<area shape="rect" id="node11" href="$de/d8b/namespaceelement__mesh__io__select.html#a5c54e1386c0105fba3c30404ac4dbc11" title=" " alt="" coords="213,447,380,488"/>
+<area shape="rect" id="node16" href="$d6/d2d/namespaceset__mesh__file__names.html#a0fbc47faf2e1f68704445bb2f7b9c476" title=" " alt="" coords="445,609,630,651"/>
+<area shape="rect" id="node4" href="$d8/d7f/namespacegz__mpi__edge__data__io.html#a25f09b3173240b7eaefe34a3a7904b84" title=" " alt="" coords="441,71,633,112"/>
+<area shape="rect" id="node6" href="$d8/d2e/namespacegz__mpi__edge__data__io__b.html#ac5b7ad51cc75aea103b89635173b424c" title=" " alt="" coords="461,137,614,193"/>
+<area shape="rect" id="node8" href="$df/d9c/namespacempi__edge__data__io.html#ad8be7ec0a7544820b09cc9d29936ba10" title=" " alt="" coords="458,217,617,259"/>
+<area shape="rect" id="node10" href="$d9/dfd/namespacempi__edge__data__io__b.html#a93d0ca1cbe2260e4295e13a207f69bd8" title=" " alt="" coords="436,283,639,324"/>
+<area shape="rect" id="node12" href="$d7/d4f/namespacegz__element__file__io.html#aa5f4d0f018665e98c98c5e9a68f66a09" title=" " alt="" coords="468,348,607,389"/>
+<area shape="rect" id="node13" href="$d9/d86/namespacegz__element__file__io__b.html#a03d16c72dd895449c58b4615d10da954" title=" " alt="" coords="454,413,621,455"/>
+<area shape="rect" id="node14" href="$d6/d2d/namespaceelement__file__io.html#a616ab1fdd386d755d4ef13fe5589616f" title=" " alt="" coords="465,479,610,520"/>
+<area shape="rect" id="node15" href="$dc/d61/namespaceelement__file__io__b.html#abd01374aada205405a9b24f7528ca8bf" title=" " alt="" coords="472,544,603,585"/>
+</map>

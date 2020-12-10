@@ -1,0 +1,22 @@
+<map id="t_field_data_io::dealloc_phys_data_io" name="t_field_data_io::dealloc_phys_data_io">
+<area shape="rect" id="node1" title=" " alt="" coords="689,404,844,445"/>
+<area shape="rect" id="node2" href="$d1/deb/namespaceanalyzer__assemble__sph.html#a6d219bda5c57fca9d0218f3e096f4531" title=" " alt="" coords="208,93,375,135"/>
+<area shape="rect" id="node4" href="$dc/de7/namespaceanalyzer__compare__sph__rst.html#ab8bbf95ba448081a0807eb9b39fbeb22" title=" " alt="" coords="213,185,369,241"/>
+<area shape="rect" id="node6" href="$d9/d14/namespaceanalyzer__rayleigh__cvt__sph.html#a3c933df7eadd9f5189e4ac74733795e8" title=" " alt="" coords="433,5,641,47"/>
+<area shape="rect" id="node8" href="$d6/d73/namespacet__field__data__io.html#a10f3182a7942eb551edab266fdc4a736" title=" " alt="" coords="460,188,615,229"/>
+<area shape="rect" id="node9" href="$d5/dda/namespacegz__field__file__mpi__io__b.html#a3c651698ac8b8de3cd7e9246984824f1" title=" " alt="" coords="463,874,612,930"/>
+<area shape="rect" id="node11" href="$da/d6d/namespacenew__sph__restart.html#a26233b9745127959522dc6f86c2d1302" title=" " alt="" coords="463,305,612,347"/>
+<area shape="rect" id="node12" href="$da/d6d/namespacenew__sph__restart.html#ab0c03bcfce9eafbb686cf8b6bff98698" title=" " alt="" coords="463,123,612,164"/>
+<area shape="rect" id="node13" href="$d7/d35/namespacesph__mhd__rst__io__control.html#aa0a17df041818ee26db31557736f90a8" title=" " alt="" coords="457,371,617,412"/>
+<area shape="rect" id="node15" href="$d7/d35/namespacesph__mhd__rst__io__control.html#a57e281519a442b14a6a18bb7e7ab7bbc" title=" " alt="" coords="441,501,634,543"/>
+<area shape="rect" id="node16" href="$d7/d35/namespacesph__mhd__rst__io__control.html#ac8999cf2ea4e094a3832ee5b6cd29420" title=" " alt="" coords="443,436,631,477"/>
+<area shape="rect" id="node17" href="$d7/d35/namespacesph__mhd__rst__io__control.html#ad3cbfd7835982ed22c995469901b74dc" title=" " alt="" coords="457,648,617,689"/>
+<area shape="rect" id="node18" href="$db/df5/namespacefield__file__mpi__io.html#a30c0f4939506c95bcab67f568c372922" title=" " alt="" coords="470,567,605,623"/>
+<area shape="rect" id="node19" href="$d1/d4c/namespacegz__field__file__mpi__io.html#aa9454e61c6aa13126c958420ae976179" title=" " alt="" coords="469,714,605,770"/>
+<area shape="rect" id="node20" href="$de/d8c/namespacefield__file__mpi__io__b.html#a949157eb81d3f1fe75a1b4b9367da43a" title=" " alt="" coords="470,794,605,850"/>
+<area shape="rect" id="node3" href="$d8/da9/main__assemble__sph_8f90.html#a5cdabd8670afdcb9e44f687ef3fbae68" title="Main program for assemble spectr data." alt="" coords="24,101,131,127"/>
+<area shape="rect" id="node5" href="$d0/d8a/main__compare__sph__rst_8f90.html#a2d44f6da86b7b3a50ae118ef47aec673" title="Main program for assemble field data." alt="" coords="5,199,149,226"/>
+<area shape="rect" id="node7" href="$df/df3/main__cvt__from__rayleigh__sph_8f90.html#a205eddb8d23c81e30dbb17f3663077a3" title="Main program for assemble spectr data." alt="" coords="220,13,363,39"/>
+<area shape="rect" id="node10" href="$d2/de5/namespacefield__io__select.html#acc4eab4c39a502795dd829abdf2d822f" title=" " alt="" coords="204,761,379,803"/>
+<area shape="rect" id="node14" href="$d0/d7f/namespacesph__analyzer__snap__w__psf.html#a1c8dece734bf4fe4a48eff02bb2e8077" title=" " alt="" coords="197,404,385,445"/>
+</map>

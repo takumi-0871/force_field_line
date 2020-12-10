@@ -1,0 +1,28 @@
+var structt__spheric__rtp__data_1_1sph__rtp__grid =
+[
+    [ "a_r_1d_rtp_r", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#af95090937c836452e3012944fee378c3", null ],
+    [ "cos_theta_1d_rtp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a14ec8bf624722dc4b992024930aa9941", null ],
+    [ "cot_theta_1d_rtp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a6b32e53083d606c1a3b162cefe6019ec", null ],
+    [ "idx_gl_1d_rtp_p", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#ae5883478d8a4044a5662541f8d02aadd", null ],
+    [ "idx_gl_1d_rtp_r", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#af3c680b4525523fe8a8dd6164622673e", null ],
+    [ "idx_gl_1d_rtp_t", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#afe02775b845651371a74b6544c1bbf9f", null ],
+    [ "idx_global_rtp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a46c421cee2f973bc9e5b480c9d6e324c", null ],
+    [ "ied_rtp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a8b7314930203e86c9e4e8f34ae6f7916", null ],
+    [ "irank_sph_rtp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#aad268d7e8e63d1dd56bf935fc8cb92b2", null ],
+    [ "ist_rtp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a9acf9db47b7be84bfd94b5ce97148efe", null ],
+    [ "istack_inod_rtp_smp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a72fa9610b301f4195e3a535d12dc130f", null ],
+    [ "istack_npole_smp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#aa8889ac3a656668588042a75fa451059", null ],
+    [ "istack_rtp_kr_smp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a8c6a6243a73f575abcdb316508e67dda", null ],
+    [ "istack_rtp_lt_smp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#ae9f7bbc7636a972e34c768cd1fd88b5d", null ],
+    [ "istack_rtp_mp_smp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a79afa88c028d2be0dfc180fee2451b11", null ],
+    [ "istack_rtp_rt_smp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#aa9b3e817832c6e4acd642608245267f8", null ],
+    [ "istep_rtp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a342a03bcb59761c59cf91cf37a6682fd", null ],
+    [ "maxirt_rtp_smp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a093f3ec7060c849516aad3592409d7e1", null ],
+    [ "nidx_global_rtp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a86ea518eed7c97ebce82dd6dc775d38a", null ],
+    [ "nidx_rtp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a33e42bf24315bda4e34faab147966559", null ],
+    [ "nnod_med", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#ae01d165ca385c78ab3183db03f14ea2f", null ],
+    [ "nnod_pole", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a89a5c2cf6bc834c0eb7ddb678b0e1e32", null ],
+    [ "nnod_rtp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a5a68c07fff5fe44318a235588577723d", null ],
+    [ "radius_1d_rtp_r", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#a37a5e4145771b6b91a17126ee7628357", null ],
+    [ "sin_theta_1d_rtp", "dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html#ad581d3ff9f9251506e0239be359a823e", null ]
+];

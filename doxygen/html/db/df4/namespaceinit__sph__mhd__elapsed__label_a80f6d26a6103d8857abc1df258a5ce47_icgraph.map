@@ -1,0 +1,13 @@
+<map id="init_sph_mhd_elapsed_label::set_sph_mhd_elapsed_label" name="init_sph_mhd_elapsed_label::set_sph_mhd_elapsed_label">
+<area shape="rect" id="node1" title=" " alt="" coords="439,152,667,193"/>
+<area shape="rect" id="node2" href="$db/dbb/namespacesph__analyzer__add__initial.html#aeda1b0c9a2b2ca7e51867ad8e1d1fd35" title=" " alt="" coords="209,5,379,47"/>
+<area shape="rect" id="node4" href="$d1/d75/namespacesph__analyzer__const__initial.html#ad878326fb67cfe7dca0b08f28f78663e" title=" " alt="" coords="225,71,363,127"/>
+<area shape="rect" id="node6" href="$d1/d47/namespaceanalyzer__sph__dynamobench.html#aad02c986e9a2f09c4abdf52ec249f054" title=" " alt="" coords="197,152,391,193"/>
+<area shape="rect" id="node8" href="$d0/d9b/namespaceanalyzer__sph__mhd__w__psf.html#a22e262813bff06df11549d21cde03b11" title=" " alt="" coords="221,218,367,274"/>
+<area shape="rect" id="node10" href="$da/d4b/namespaceanalyzer__sph__snap__w__psf.html#a34ef31f3d485338a474c20bc0d7a4e4c" title=" " alt="" coords="219,298,369,354"/>
+<area shape="rect" id="node3" href="$de/de0/main__sph__add__initial__fld_8f90.html#a96b0faac42c8438cdb8b01367e3ec607" title="Main program to add initial field to existing initial field &#160;&#160;Define initial field at const_sph_initi..." alt="" coords="23,13,131,39"/>
+<area shape="rect" id="node5" href="$d7/d58/main__sph__initial__fld_8f90.html#aca7bde40a894557c9616f47b288c5436" title="Main program to generate initial field &#160;&#160;Define initial field at const_sph_initial_spectr...." alt="" coords="18,86,137,113"/>
+<area shape="rect" id="node7" href="$dd/dc6/main__sph__dynamobench_8f90.html#ae6fe35a6bef2958f0250ad972ac4b963" title="Main program for dynamo benchmark check." alt="" coords="12,159,143,186"/>
+<area shape="rect" id="node9" href="$d6/d6d/main__sph___m_h_d__w__psf_8f90.html#a3206379918036cef446eada6d3cddb13" title="Main program for MHD dynamo simulation." alt="" coords="13,233,141,259"/>
+<area shape="rect" id="node11" href="$d3/dfc/main__sph__snapshot__w__psf_8f90.html#a59409503fefd18925f4344901f06f27e" title="Main program to evaluate snapshots from spectr data." alt="" coords="5,313,149,339"/>
+</map>

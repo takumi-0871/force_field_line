@@ -1,0 +1,25 @@
+<map id="t_work_sph_mhd::work_sph_mhd" name="t_work_sph_mhd::work_sph_mhd">
+<area shape="rect" id="node1" title="Structures of work area for spherical shell dynamo." alt="" coords="680,533,835,575"/>
+<area shape="rect" id="node2" href="$da/d89/structt__sph__mhd__monitor__data__io_1_1sph__mhd__monitor__data.html" title=" " alt="" coords="372,201,555,243"/>
+<area shape="rect" id="node3" href="$dd/df2/structt__no__heat__nusselt_1_1nusselt__number__data.html" title="Structure for Nusselt number data." alt="" coords="29,5,175,47"/>
+<area shape="rect" id="node4" href="$d4/d48/structt__pickup__sph__spectr__data_1_1pickup__mode__list.html" title="Structure for pickup list." alt="" coords="21,71,183,112"/>
+<area shape="rect" id="node5" href="$d0/d5b/structt__rms__4__sph__spectr_1_1sph__mean__squares.html" title="Structure of mean square data." alt="" coords="31,136,173,177"/>
+<area shape="rect" id="node6" href="$dd/d48/structt__energy__label__parameters_1_1energy__label__param.html" title="Structure of label for energies." alt="" coords="13,201,191,243"/>
+<area shape="rect" id="node7" href="$db/d89/structt__sum__sph__rms__data_1_1sph__mean__square__work.html" title="Structure of work area for mean square data." alt="" coords="17,267,187,308"/>
+<area shape="rect" id="node8" href="$d2/dfb/structt__pickup__sph__spectr__data_1_1picked__spectrum__data.html" title="Structure for picked spectr data." alt="" coords="5,332,199,373"/>
+<area shape="rect" id="node9" href="$de/dd2/structt__work__4__sph__trans_1_1parameters__4__sph__trans.html" title="Structures of parameters for spherical transform." alt="" coords="377,459,550,500"/>
+<area shape="rect" id="node10" href="$d7/dfc/structt__schmidt__poly__on__rtm_1_1legendre__4__sph__trans.html" title="Structures for Legendre polynomials for spherical transform." alt="" coords="23,397,181,439"/>
+<area shape="rect" id="node11" href="$d9/d22/structt__work__4__sph__trans_1_1index__4__sph__trans.html" title="Structure of indices for spherical transforms." alt="" coords="33,463,171,504"/>
+<area shape="rect" id="node12" href="$d3/db8/structt__fdm__coefs_1_1fdm__matrices.html" title="Structure of FDM matrices." alt="" coords="373,533,554,559"/>
+<area shape="rect" id="node13" href="$df/d60/structt__fdm__coefs_1_1fdm__matrix.html" title="Structure of FDM matrix." alt="" coords="19,529,185,555"/>
+<area shape="rect" id="node14" href="$d0/df6/structt__sph__trans__arrays__mhd_1_1works__4__sph__trans__mhd.html" title="strucutres for spherical transform for MHD dynamo" alt="" coords="360,731,567,772"/>
+<area shape="rect" id="node15" href="$dd/dea/structt__gaunt__coriolis__rlm_1_1gaunt__coriolis__rlm.html" title="Gunat integrals of Coriolis term." alt="" coords="33,580,171,621"/>
+<area shape="rect" id="node16" href="$d7/d66/structt__legendre__trans__select_1_1legendre__trns__works.html" title="Work structures for various Legendre trasform." alt="" coords="22,645,182,687"/>
+<area shape="rect" id="node17" href="$db/d58/structt__sph__trans__arrays__mhd_1_1address__4__sph__trans.html" title="strucutre of spherical transform data addresses" alt="" coords="9,711,195,752"/>
+<area shape="rect" id="node18" href="$da/db1/structt__coriolis__terms__rlm_1_1coriolis__rlm__data.html" title="Structure of Coriolis terms in ." alt="" coords="33,776,171,817"/>
+<area shape="rect" id="node19" href="$d7/dd5/structt__const__wz__coriolis__rtp_1_1spher__average__coriolis.html" title="Structure of sphere average of radial coriolis force." alt="" coords="33,842,171,898"/>
+<area shape="rect" id="node20" href="$d6/dd3/structt__sph__fft__selector_1_1work__for__ffts.html" title="Structure for work area of FFTs." alt="" coords="39,923,165,964"/>
+<area shape="rect" id="node21" href="$d0/d03/structt__radial__matrices__sph__mhd_1_1mhd__radial__matrices.html" title="Structure of band matrices for dynamo simulation." alt="" coords="372,1108,555,1149"/>
+<area shape="rect" id="node22" href="$d7/de9/structt__sph__matrices_1_1band__matrices__type.html" title="Structure for band matrices." alt="" coords="29,1108,175,1149"/>
+<area shape="rect" id="node23" href="$d9/d78/structt__sph__matrix_1_1band__matrix__type.html" title="Structure for band matrices." alt="" coords="35,1183,169,1224"/>
+</map>

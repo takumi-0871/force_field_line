@@ -1,0 +1,11 @@
+<map id="t_control_data_section_only::control_data_section_only" name="t_control_data_section_only::control_data_section_only">
+<area shape="rect" id="node1" title="Structure of control data for sectioning only." alt="" coords="672,503,884,544"/>
+<area shape="rect" id="node2" href="$d3/dcb/structt__control__data__surfacings_1_1surfacing__controls.html" title="Structures of surfacing controls." alt="" coords="368,264,539,305"/>
+<area shape="rect" id="node3" href="$de/d48/structt__control__data__isosurfaces_1_1isosurf__controls.html" title=" " alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node4" href="$d9/d30/structt__control__array__character_1_1read__character__item.html" title="structure of control character item" alt="" coords="10,503,179,544"/>
+<area shape="rect" id="node8" href="$da/d26/structt__ctl__data__4__platforms_1_1platform__data__control.html" title="Structure of parallel and file information." alt="" coords="376,724,531,765"/>
+<area shape="rect" id="node9" href="$d7/d54/structt__ctl__data__4__time__steps_1_1time__data__control.html" title="Structure of time stepping controls." alt="" coords="371,503,535,544"/>
+<area shape="rect" id="node5" href="$dd/d45/structt__control__array__real_1_1read__real__item.html" title="structure of control real item" alt="" coords="27,241,163,283"/>
+<area shape="rect" id="node6" href="$d4/d3d/structt__control__array__integer_1_1read__integer__item.html" title="structure of control integer item" alt="" coords="17,916,172,957"/>
+<area shape="rect" id="node7" href="$d7/d81/structt__control__data__sections_1_1section__controls.html" title=" " alt="" coords="15,71,175,112"/>
+</map>

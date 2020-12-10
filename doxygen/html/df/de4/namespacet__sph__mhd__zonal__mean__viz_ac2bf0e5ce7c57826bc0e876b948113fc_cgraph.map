@@ -1,0 +1,12 @@
+<map id="t_sph_mhd_zonal_mean_viz::sph_mhd_zmean_sections" name="t_sph_mhd_zonal_mean_viz::sph_mhd_zmean_sections">
+<area shape="rect" id="node1" title=" " alt="" coords="5,176,215,217"/>
+<area shape="rect" id="node2" href="$df/de4/namespacet__sph__mhd__zonal__mean__viz.html#a32fd12d7d0719d1eed18169a1bee110d" title=" " alt="" coords="263,129,447,185"/>
+<area shape="rect" id="node8" href="$df/de4/namespacet__sph__mhd__zonal__mean__viz.html#a8ecdf3264ff7194d58d5510d80eb3df2" title=" " alt="" coords="267,209,442,265"/>
+<area shape="rect" id="node3" href="$d8/d09/namespacem__work__time.html#a80a14ec74cd7855fbc714ec7d6636a9b" title=" " alt="" coords="495,267,707,294"/>
+<area shape="rect" id="node4" href="$d1/d7e/namespacenod__phys__send__recv.html#ae8ec8d730172baadee7be2e012389b19" title=" " alt="" coords="523,71,679,112"/>
+<area shape="rect" id="node5" href="$d9/d55/namespacet__cross__section.html#a767ef5e1d0ad2c3ee55b60d56946b435" title=" " alt="" coords="510,136,691,177"/>
+<area shape="rect" id="node6" href="$d8/d09/namespacem__work__time.html#a91161cdde8de67ffefbd2c1863a14e7c" title=" " alt="" coords="534,201,667,243"/>
+<area shape="rect" id="node7" href="$d7/d55/namespacesph__rtp__zonal__rms__data.html#ae7b6c49ad1d00fc8808e8d56883feec0" title=" " alt="" coords="514,5,687,47"/>
+<area shape="rect" id="node9" href="$dd/dd4/namespacefem__analyzer__sph__mhd.html#ab35716712676c46bf958caed8fe005b9" title=" " alt="" coords="515,384,687,425"/>
+<area shape="rect" id="node10" href="$d7/d55/namespacesph__rtp__zonal__rms__data.html#a34c7983b5525a67f8755f5f3d06005b7" title=" " alt="" coords="519,319,683,360"/>
+</map>

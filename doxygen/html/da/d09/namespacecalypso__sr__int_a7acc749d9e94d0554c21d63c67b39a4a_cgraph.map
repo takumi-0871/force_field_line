@@ -1,0 +1,13 @@
+<map id="calypso_sr_int::calypso_send_recv_int8" name="calypso_sr_int::calypso_send_recv_int8">
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,164,177"/>
+<area shape="rect" id="node2" href="$d9/dea/namespacecalypso__sr__core.html#a86f5402f1f9f5b3ef5f40125e03fd7d5" title=" " alt="" coords="212,5,383,47"/>
+<area shape="rect" id="node3" href="$d9/dea/namespacecalypso__sr__core.html#a8abbd2c7876039e587344f03d0f04c5e" title=" " alt="" coords="212,71,383,112"/>
+<area shape="rect" id="node4" href="$df/da9/namespacem__solver__sr.html#a70818f7062a2abe7091838c8b360cab8" title=" " alt="" coords="229,136,365,177"/>
+<area shape="rect" id="node8" href="$df/d44/namespaceselect__copy__from__recv.html#aced0bfa39e8d3bc0ff12c3a7af3898c2" title=" " alt="" coords="219,202,376,258"/>
+<area shape="rect" id="node11" href="$dc/db2/namespaceset__to__send__buffer.html#a7cd799cb0f8cbed221f21e27cd03b533" title=" " alt="" coords="226,283,369,324"/>
+<area shape="rect" id="node5" href="$df/da9/namespacem__solver__sr.html#a35971d864aa675253f9a6bed7b21e0b6" title=" " alt="" coords="453,13,589,55"/>
+<area shape="rect" id="node6" href="$df/da9/namespacem__solver__sr.html#a63dd35b88c6154dbdae609397ba77cc8" title=" " alt="" coords="453,79,589,120"/>
+<area shape="rect" id="node7" href="$df/da9/namespacem__solver__sr.html#a604783ca5d5e6c7dda4220d5b5673058" title=" " alt="" coords="453,144,589,185"/>
+<area shape="rect" id="node9" href="$db/d1d/namespaceset__from__recv__buffer.html#a393b5dc9c4985e0ce6bb6d245ed5c778" title=" " alt="" coords="443,209,598,251"/>
+<area shape="rect" id="node10" href="$dd/dd1/namespaceset__from__recv__buf__rev.html#ac23a3890850610d5b1e7883582385b5a" title=" " alt="" coords="431,275,611,316"/>
+</map>

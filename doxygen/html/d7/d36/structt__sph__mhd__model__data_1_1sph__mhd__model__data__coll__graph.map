@@ -1,0 +1,24 @@
+<map id="t_sph_mhd_model_data::sph_mhd_model_data" name="t_sph_mhd_model_data::sph_mhd_model_data">
+<area shape="rect" id="node1" title="Parameters for spectr dynamo model." alt="" coords="701,370,861,411"/>
+<area shape="rect" id="node2" href="$d2/d07/structt__poloidal__rotation_1_1sph__rotation.html" title=" " alt="" coords="408,215,535,257"/>
+<area shape="rect" id="node3" href="$de/de4/structt__bc__data__list_1_1mhd__bc__lists.html" title="Structure for boundary condition lists for MHD." alt="" coords="403,281,539,322"/>
+<area shape="rect" id="node4" href="$d7/d51/structt__bc__data__list_1_1boundary__condition__lists.html" title="Structure for boundary group data list." alt="" coords="29,110,193,151"/>
+<area shape="rect" id="node5" href="$d7/daf/structt__radial__reference__temp_1_1reference__field.html" title="Structure of reference temperature." alt="" coords="396,346,547,387"/>
+<area shape="rect" id="node6" href="$d6/dbd/structt__boundary__data__sph__mhd_1_1sph__mhd__boundary__data.html" title="Structure for boundary conditions." alt="" coords="368,411,575,453"/>
+<area shape="rect" id="node7" href="$d4/df8/structt__coef__fdm4__mhd__boundaries_1_1fdm4__cmb__vpol.html" title=" " alt="" coords="13,175,209,217"/>
+<area shape="rect" id="node8" href="$d0/ddc/structt__coef__fdm2__mhd__boundaries_1_1fdm2__free__slip.html" title="Structure for FDM matrix of free slip boundary." alt="" coords="13,241,209,282"/>
+<area shape="rect" id="node9" href="$d8/de3/structt__boundary__sph__spectr_1_1sph__scalar__boundary__data.html" title="Structure for scalar spectr boundaries." alt="" coords="19,306,204,347"/>
+<area shape="rect" id="node10" href="$dd/de7/structt__boundary__sph__spectr_1_1sph__vector__boundary__data.html" title="Structure for vector spectr boundaries." alt="" coords="18,371,205,413"/>
+<area shape="rect" id="node11" href="$d0/dff/structt__boundary__params__sph__mhd_1_1sph__boundary__type.html" title="Structure for basic boundary condition parameters." alt="" coords="24,450,199,491"/>
+<area shape="rect" id="node12" href="$d8/dd5/structt__coef__fdm4__mhd__boundaries_1_1fdm4__icb__vpol.html" title=" " alt="" coords="13,515,209,557"/>
+<area shape="rect" id="node13" href="$dc/dfe/structt__coef__fdm2__mhd__boundaries_1_1fdm2__center__mat.html" title="Structure for FDM matrix of center." alt="" coords="13,581,209,622"/>
+<area shape="rect" id="node14" href="$d8/dd7/structt__control__parameter_1_1mhd__evolution__param.html" title="Structure for evolution parameter for valocity." alt="" coords="393,777,550,818"/>
+<area shape="rect" id="node15" href="$d1/d20/structt__physical__property_1_1fluid__property.html" title="Structure for fluid property." alt="" coords="44,646,179,687"/>
+<area shape="rect" id="node16" href="$df/d67/structt__reference__scalar__param_1_1takepiro__model__param.html" title=" " alt="" coords="9,711,213,753"/>
+<area shape="rect" id="node17" href="$dc/d8b/structt__reference__scalar__param_1_1reference__scalar__param.html" title=" " alt="" coords="5,777,217,818"/>
+<area shape="rect" id="node18" href="$d4/d44/structt__physical__property_1_1conductive__property.html" title="Structure for manetic property." alt="" coords="38,842,185,883"/>
+<area shape="rect" id="node19" href="$da/da0/structt__physical__property_1_1scalar__property.html" title="Structure for thermal property." alt="" coords="44,907,179,949"/>
+<area shape="rect" id="node20" href="$da/d60/structt__normalize__parameter_1_1coef__parameters__list.html" title="List of parameters to construct coefficients." alt="" coords="34,973,189,1014"/>
+<area shape="rect" id="node21" href="$d5/d34/structt__sph__boundary__input__data_1_1boundary__spectra.html" title=" " alt="" coords="389,943,554,985"/>
+<area shape="rect" id="node22" href="$df/d48/structt__each__sph__boundary__io__data_1_1each__boundary__spectr.html" title="Structure for each boundary condition." alt="" coords="28,1039,195,1095"/>
+</map>

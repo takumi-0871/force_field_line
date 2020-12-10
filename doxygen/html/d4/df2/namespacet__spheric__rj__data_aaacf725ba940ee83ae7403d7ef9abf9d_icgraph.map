@@ -1,0 +1,30 @@
+<map id="t_spheric_rj_data::find_local_sph_address" name="t_spheric_rj_data::find_local_sph_address">
+<area shape="rect" id="node1" title=" " alt="" coords="535,618,693,659"/>
+<area shape="rect" id="node2" href="$d6/d5d/namespacet__each__sph__boundary__io__data.html#acdd626270b23fe19c8d1bab449a35b36" title=" " alt="" coords="289,65,466,121"/>
+<area shape="rect" id="node5" href="$d6/d5d/namespacet__each__sph__boundary__io__data.html#a1eaeba7bd58259801f80dcb488f3ce43" title=" " alt="" coords="290,225,465,281"/>
+<area shape="rect" id="node7" href="$d6/d5d/namespacet__each__sph__boundary__io__data.html#a68a0655acb031cbbffb074fab2f13d47" title=" " alt="" coords="288,145,467,201"/>
+<area shape="rect" id="node8" href="$d5/d8c/namespacesolve__sph__fluid__crank.html#a3fe0989f42c02f3fa647b0c117f9fbd3" title=" " alt="" coords="302,357,453,398"/>
+<area shape="rect" id="node9" href="$d5/d8c/namespacesolve__sph__fluid__crank.html#a7d20a385a7e3e7bd1576c34f696860c5" title=" " alt="" coords="24,327,201,369"/>
+<area shape="rect" id="node10" href="$d1/d0f/namespacepickup__sph__spectr.html#aea5ad8b9bf4a1fe6a533fafb2c8564ee" title=" " alt="" coords="289,618,466,659"/>
+<area shape="rect" id="node12" href="$de/d9d/namespaceextend__potential__field.html#a942ddad3fec04f08ece3e375d7ea9204" title=" " alt="" coords="302,487,453,529"/>
+<area shape="rect" id="node14" href="$d6/df4/namespaceextend__potential__field__t.html#a56019043013276c061f27a95ea9fd0ca" title=" " alt="" coords="291,553,464,594"/>
+<area shape="rect" id="node15" href="$de/d9d/namespaceextend__potential__field.html#aa972cba50a93abeb9e15729a8568be53" title=" " alt="" coords="298,422,457,463"/>
+<area shape="rect" id="node16" href="$d6/df4/namespaceextend__potential__field__t.html#a3d2fc192c2e9f86b0c9f894c0372252f" title=" " alt="" coords="287,683,468,725"/>
+<area shape="rect" id="node17" href="$de/dde/namespaceinitial__magne__dynamobench.html#afb331174ca0afe0ebfe29111f6839c8b" title=" " alt="" coords="284,945,471,986"/>
+<area shape="rect" id="node19" href="$de/dde/namespaceinitial__magne__dynamobench.html#a1d490df5b7c53de6acffd39fd30d54a9" title=" " alt="" coords="284,814,471,855"/>
+<area shape="rect" id="node20" href="$d1/d9a/namespaceinitial__magne__dbench__qvc.html#a514440cbf35ed04a1d6f2ae043c81ca1" title=" " alt="" coords="268,879,487,921"/>
+<area shape="rect" id="node21" href="$d6/d5d/namespacet__each__sph__boundary__io__data.html#ac8429bff9e7ac59ab6cdb756fcc7acde" title=" " alt="" coords="297,1011,457,1067"/>
+<area shape="rect" id="node24" href="$d6/d5d/namespacet__each__sph__boundary__io__data.html#af78870042886c5f31aeb17d7c883b44b" title=" " alt="" coords="297,1091,457,1147"/>
+<area shape="rect" id="node26" href="$da/dc4/namespaceparallel__assemble__sph.html#a3b43c5df06afbc95341a99b3c1eca44d" title=" " alt="" coords="278,1171,477,1213"/>
+<area shape="rect" id="node28" href="$d1/d0f/namespacepickup__sph__spectr.html#ada6f72e624ec54cbcef8c32042047258" title=" " alt="" coords="294,749,461,790"/>
+<area shape="rect" id="node3" href="$d5/da9/namespaceset__sph__bc__data__by__file.html#a142860b6d423ba89819a58918ae88939" title=" " alt="" coords="35,85,191,141"/>
+<area shape="rect" id="node4" href="$d5/da9/namespaceset__sph__bc__data__by__file.html#a5e7f604e01902e01bef9fcda6dd78d43" title=" " alt="" coords="29,5,196,61"/>
+<area shape="rect" id="node6" href="$d5/da9/namespaceset__sph__bc__data__by__file.html#afa695d59eced45bb780bd5246aa8fa86" title=" " alt="" coords="29,205,196,261"/>
+<area shape="rect" id="node11" href="$d1/d0f/namespacepickup__sph__spectr.html#aa05933fcf567840697de99dff76b78f8" title=" " alt="" coords="23,683,203,725"/>
+<area shape="rect" id="node13" href="$db/dfc/namespacer__interpolate__sph__data.html#abd94af926e04a080816a3f26dac7250e" title=" " alt="" coords="5,455,220,497"/>
+<area shape="rect" id="node18" href="$d8/df8/namespaceset__initial__sph__dynamo.html#af8dbb7e820a98c7e9074052892ec3c34" title=" " alt="" coords="7,865,219,906"/>
+<area shape="rect" id="node22" href="$d5/da9/namespaceset__sph__bc__data__by__file.html#a58fe4f1cbf1dc5da49e385e8239b7490" title=" " alt="" coords="41,1011,184,1067"/>
+<area shape="rect" id="node23" href="$d5/da9/namespaceset__sph__bc__data__by__file.html#aa2e8d8355b10fad200116efc289b32f1" title=" " alt="" coords="38,931,187,987"/>
+<area shape="rect" id="node25" href="$d5/da9/namespaceset__sph__bc__data__by__file.html#a328d2d6ce85b077a89596cef7d0781bb" title=" " alt="" coords="37,1091,188,1147"/>
+<area shape="rect" id="node27" href="$d1/d5c/namespaceassemble__sph__fields.html#a729d5725675c62cb6c019feddde8d029" title=" " alt="" coords="26,1171,199,1213"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="t_boundary_sph_spectr::sph_vector_boundary_data" name="t_boundary_sph_spectr::sph_vector_boundary_data">
+<area shape="rect" id="node1" title="Structure for vector spectr boundaries." alt="" coords="283,39,469,80"/>
+<area shape="rect" id="node2" href="$d2/dc6/structt__boundary__sph__spectr_1_1sph__vector__bc__evo.html" title="Structure for boundary velocity spectr." alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node3" href="$d3/dc1/structt__boundary__sph__spectr_1_1sph__vector__bc__coef.html" title="Structure for boundary velocity spectr." alt="" coords="5,71,163,112"/>
+</map>

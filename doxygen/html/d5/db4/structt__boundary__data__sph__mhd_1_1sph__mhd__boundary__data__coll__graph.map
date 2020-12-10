@@ -1,0 +1,14 @@
+<map id="t_boundary_data_sph_mhd::sph_mhd_boundary_data" name="t_boundary_data_sph_mhd::sph_mhd_boundary_data">
+<area shape="rect" id="node1" title="Structure for boundary conditions." alt="" coords="629,193,836,235"/>
+<area shape="rect" id="node2" href="$d4/df8/structt__coef__fdm4__mhd__boundaries_1_1fdm4__cmb__vpol.html" title=" " alt="" coords="283,5,479,47"/>
+<area shape="rect" id="node3" href="$d0/ddc/structt__coef__fdm2__mhd__boundaries_1_1fdm2__free__slip.html" title="Structure for FDM matrix of free slip boundary." alt="" coords="283,71,479,112"/>
+<area shape="rect" id="node4" href="$d8/de3/structt__boundary__sph__spectr_1_1sph__scalar__boundary__data.html" title="Structure for scalar spectr boundaries." alt="" coords="288,136,473,177"/>
+<area shape="rect" id="node5" href="$dd/dc7/structt__boundary__sph__spectr_1_1sph__scalar__bc__coef.html" title="Structure for boundary scalar spectr." alt="" coords="5,71,163,112"/>
+<area shape="rect" id="node6" href="$d2/def/structt__boundary__sph__spectr_1_1sph__scalar__bc__evo.html" title="Structure for boundary scalar spectr." alt="" coords="5,136,163,177"/>
+<area shape="rect" id="node7" href="$dd/de7/structt__boundary__sph__spectr_1_1sph__vector__boundary__data.html" title="Structure for vector spectr boundaries." alt="" coords="287,201,474,243"/>
+<area shape="rect" id="node8" href="$d2/dc6/structt__boundary__sph__spectr_1_1sph__vector__bc__evo.html" title="Structure for boundary velocity spectr." alt="" coords="5,201,163,243"/>
+<area shape="rect" id="node9" href="$d3/dc1/structt__boundary__sph__spectr_1_1sph__vector__bc__coef.html" title="Structure for boundary velocity spectr." alt="" coords="5,267,163,308"/>
+<area shape="rect" id="node10" href="$d0/dff/structt__boundary__params__sph__mhd_1_1sph__boundary__type.html" title="Structure for basic boundary condition parameters." alt="" coords="293,280,468,321"/>
+<area shape="rect" id="node11" href="$d8/dd5/structt__coef__fdm4__mhd__boundaries_1_1fdm4__icb__vpol.html" title=" " alt="" coords="283,345,479,387"/>
+<area shape="rect" id="node12" href="$dc/dfe/structt__coef__fdm2__mhd__boundaries_1_1fdm2__center__mat.html" title="Structure for FDM matrix of center." alt="" coords="283,411,479,452"/>
+</map>

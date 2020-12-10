@@ -1,0 +1,15 @@
+<map id="sph_add_initial" name="sph_add_initial">
+<area shape="rect" id="node1" title="Main program to add initial field to existing initial field &#160;&#160;Define initial field at const_sph_initi..." alt="" coords="5,232,113,259"/>
+<area shape="rect" id="node2" href="$d2/d0d/namespacecalypso__mpi.html#a79efc03e79d02aaa352d01154c536301" title=" " alt="" coords="173,159,321,201"/>
+<area shape="rect" id="node3" href="$d2/d0d/namespacecalypso__mpi.html#a005c0c2263d069f4ca311cd0c02137d5" title=" " alt="" coords="173,225,321,266"/>
+<area shape="rect" id="node4" href="$db/dbb/namespacesph__analyzer__add__initial.html#aeda1b0c9a2b2ca7e51867ad8e1d1fd35" title=" " alt="" coords="161,290,332,331"/>
+<area shape="rect" id="node5" href="$d0/de6/namespacem__elapsed__labels__send__recv.html#a38b3c355ca2bcd162bc9ede24c8a7d85" title=" " alt="" coords="411,5,577,61"/>
+<area shape="rect" id="node6" href="$d8/d09/namespacem__work__time.html#a80a14ec74cd7855fbc714ec7d6636a9b" title=" " alt="" coords="656,301,868,328"/>
+<area shape="rect" id="node7" href="$d8/d09/namespacem__work__time.html#a97ac6dd39e8b9fc59f947624018003b8" title=" " alt="" coords="409,137,579,178"/>
+<area shape="rect" id="node8" href="$de/d83/namespaceinput__control__sph__mhd.html#aecc9302eb31fd919d30f721aa33c8573" title=" " alt="" coords="416,203,572,259"/>
+<area shape="rect" id="node9" href="$de/d18/namespacet__ctl__data__sph__mhd__psf.html#acf5d6f1cf884d3a7a7f15eb87ef16f8b" title=" " alt="" coords="424,283,564,339"/>
+<area shape="rect" id="node10" href="$db/df4/namespaceinit__sph__mhd__elapsed__label.html#a11a15bd56d928504abc29f51958b5617" title=" " alt="" coords="419,363,569,419"/>
+<area shape="rect" id="node11" href="$db/df4/namespaceinit__sph__mhd__elapsed__label.html#a80f6d26a6103d8857abc1df258a5ce47" title=" " alt="" coords="380,443,608,485"/>
+<area shape="rect" id="node12" href="$db/dbb/namespacesph__analyzer__add__initial.html#a1b000bd07f1585f9b1fbc703526a8650" title=" " alt="" coords="412,509,576,550"/>
+<area shape="rect" id="node13" href="$d8/d09/namespacem__work__time.html#a91161cdde8de67ffefbd2c1863a14e7c" title=" " alt="" coords="427,574,561,615"/>
+</map>

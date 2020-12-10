@@ -1,0 +1,14 @@
+<map id="t_sph_mhd_zonal_mean_viz::sph_zonal_mean_sectioning" name="t_sph_mhd_zonal_mean_viz::sph_zonal_mean_sectioning">
+<area shape="rect" id="node1" title="Structures of zonal mean controls." alt="" coords="577,279,740,335"/>
+<area shape="rect" id="node2" href="$da/d6c/structt__cross__section_1_1sectioning__module.html" title=" " alt="" coords="293,286,475,327"/>
+<area shape="rect" id="node3" href="$d2/d98/structt__time__data_1_1time__data.html" title="Structure for time data." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node4" href="$d5/d1d/structt__psf__geometry__list_1_1grp__section__list.html" title="Structure for cross sectioning by surface group list." alt="" coords="15,57,151,98"/>
+<area shape="rect" id="node5" href="$da/de9/structt__psf__patch__data_1_1psf__parameters.html" title=" " alt="" coords="9,122,157,163"/>
+<area shape="rect" id="node6" href="$de/df6/structt__psf__geometry__list_1_1sectioning__list.html" title="Structure for cross sectioning list." alt="" coords="15,187,151,229"/>
+<area shape="rect" id="node7" href="$d7/d1b/structt__file__io__parameter_1_1field__io__params.html" title="Structure for field data IO paramters." alt="" coords="17,253,149,294"/>
+<area shape="rect" id="node8" href="$d6/d4e/structt__psf__case__table_1_1psf__cases.html" title="Structure of triangle patch list for each section case." alt="" coords="9,318,156,359"/>
+<area shape="rect" id="node9" href="$df/dbc/structt__control__params__4__psf_1_1section__define.html" title=" " alt="" coords="13,383,152,425"/>
+<area shape="rect" id="node10" href="$de/dfb/structt__psf__geometry__list_1_1psf__search__lists.html" title="Structure for search list for sectioning." alt="" coords="15,449,151,490"/>
+<area shape="rect" id="node11" href="$da/d34/structt__ucd__data_1_1ucd__data.html" title="Structure for FEM field data IO." alt="" coords="9,515,156,541"/>
+<area shape="rect" id="node12" href="$d3/dbc/structt__psf__patch__data_1_1psf__local__data.html" title=" " alt="" coords="9,566,157,607"/>
+</map>

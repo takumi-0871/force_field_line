@@ -1,0 +1,10 @@
+<map id="t_read_mesh_data::mul_mesh_data" name="t_read_mesh_data::mul_mesh_data">
+<area shape="rect" id="node1" title="Structure for mesh data (position, connectivity, group, and communication)" alt="" coords="572,116,731,157"/>
+<area shape="rect" id="node2" href="$dc/dbd/structt__read__mesh__data_1_1mul__mesh__groups.html" title="Structure for group data (node, element, surface, and infinity)" alt="" coords="328,65,487,107"/>
+<area shape="rect" id="node3" href="$de/d41/structt__group__data_1_1surface__group__data.html" title="Structure for surfacet group." alt="" coords="34,5,182,47"/>
+<area shape="rect" id="node4" href="$de/d01/structt__group__data_1_1group__data.html" title="Structure for node and element group." alt="" coords="23,73,193,99"/>
+<area shape="rect" id="node5" href="$dc/d4d/structt__read__mesh__data_1_1mul__mesh__geometry.html" title="Structure for grid data (position, connectivity, and communication)" alt="" coords="328,148,487,189"/>
+<area shape="rect" id="node6" href="$d4/d97/structt__geometry__data_1_1element__data.html" title="structure for element data (position and connectivity)" alt="" coords="5,123,211,150"/>
+<area shape="rect" id="node7" href="$d0/da4/structt__geometry__data_1_1node__data.html" title="structure for node data (position)" alt="" coords="15,174,201,201"/>
+<area shape="rect" id="node8" href="$d2/d62/structt__comm__table_1_1communication__table.html" title="data structure for communication table" alt="" coords="8,225,208,267"/>
+</map>

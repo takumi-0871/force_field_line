@@ -1,0 +1,6 @@
+<map id="t_ctl_data_4_divide_sphere::sphere_domain_control" name="t_ctl_data_4_divide_sphere::sphere_domain_control">
+<area shape="rect" id="node1" title="control data structure for spherical shell parallelization" alt="" coords="357,156,521,212"/>
+<area shape="rect" id="node2" href="$d0/d40/structt__control__array__charaint_1_1ctl__array__ci.html" title="Structure for charactor and integer control array." alt="" coords="9,30,171,71"/>
+<area shape="rect" id="node3" href="$d9/d30/structt__control__array__character_1_1read__character__item.html" title="structure of control character item" alt="" coords="5,163,175,205"/>
+<area shape="rect" id="node4" href="$d4/d3d/structt__control__array__integer_1_1read__integer__item.html" title="structure of control integer item" alt="" coords="13,229,167,270"/>
+</map>

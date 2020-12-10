@@ -1,0 +1,24 @@
+<map id="sph_trans_w_coriols::sph_b_trans_w_coriolis" name="sph_trans_w_coriols::sph_b_trans_w_coriolis">
+<area shape="rect" id="node1" title=" " alt="" coords="5,327,171,369"/>
+<area shape="rect" id="node2" href="$d3/d04/namespacet__sph__fft__selector.html#aa1bf63aadd2a5c9e27520e7026e6f3d1" title=" " alt="" coords="227,119,411,161"/>
+<area shape="rect" id="node6" href="$de/d8a/namespacespherical__srs__n.html#aa57ca9c8bd8710121c8ce4019d0a874c" title=" " alt="" coords="236,269,403,310"/>
+<area shape="rect" id="node8" href="$d8/d09/namespacem__work__time.html#a80a14ec74cd7855fbc714ec7d6636a9b" title=" " alt="" coords="697,247,909,273"/>
+<area shape="rect" id="node9" href="$d8/d09/namespacem__work__time.html#a91161cdde8de67ffefbd2c1863a14e7c" title=" " alt="" coords="737,298,870,339"/>
+<area shape="rect" id="node10" href="$de/d8a/namespacespherical__srs__n.html#ac25f05dffd9b5834297b6aec8612f67e" title=" " alt="" coords="243,386,395,427"/>
+<area shape="rect" id="node12" href="$dc/dfe/namespacet__legendre__trans__select.html#abb3d0d99e62c103c48f0db1f05b47491" title=" " alt="" coords="219,659,420,701"/>
+<area shape="rect" id="node20" href="$dd/d17/namespacet__coriolis__terms__rlm.html#ada848ebf8176e249ab762e6264f4e07b" title=" " alt="" coords="250,1019,389,1061"/>
+<area shape="rect" id="node3" href="$d4/db4/namespacet__sph__field__fftw.html#a49103e9c7cb1caaf4d978a9e67984677" title=" " alt="" coords="468,86,649,127"/>
+<area shape="rect" id="node4" href="$d1/df8/namespacet__sph__fftpack5.html#adc8be0130eabd92645f93f8b6c7b403f" title=" " alt="" coords="490,151,627,193"/>
+<area shape="rect" id="node5" href="$d8/df7/namespacet__sph__single__fftw.html#a52998ddb1a83c769f0380c4f0bd5c020" title=" " alt="" coords="485,5,632,61"/>
+<area shape="rect" id="node7" href="$df/da5/namespacesel__spherical__srs.html#a924f6b4b80dd85b74807972426e561d3" title=" " alt="" coords="471,269,647,310"/>
+<area shape="rect" id="node11" href="$d1/de7/namespacet__solver__sr.html#a39a4ace23f395ac401094422d619ba85" title=" " alt="" coords="489,386,628,427"/>
+<area shape="rect" id="node13" href="$d7/daa/namespacelegendre__trans__matmul__big.html#ad781cc404ecb7ca75f65d54076450a85" title=" " alt="" coords="474,612,643,668"/>
+<area shape="rect" id="node14" href="$d4/dc0/namespacelegendre__transform__sym__tomp.html#a94003a2f8f664f3ba2250e26d238aa53" title=" " alt="" coords="470,692,647,748"/>
+<area shape="rect" id="node15" href="$d4/dc0/namespacelegendre__transform__sym__tomp.html#adbb98c4fd445015b2a288deca5636a47" title=" " alt="" coords="470,772,647,828"/>
+<area shape="rect" id="node16" href="$df/d06/namespacelegendre__trans__sym__matmul.html#a991ea08ab8813c222483bf3aadaf6552" title=" " alt="" coords="479,852,638,908"/>
+<area shape="rect" id="node17" href="$db/d09/namespacelegendre__transform__org.html#ac0859c7ec8dc2dffce4953cea3537285" title=" " alt="" coords="473,932,644,988"/>
+<area shape="rect" id="node18" href="$de/d0f/namespacelegendre__transform__spin.html#a23cb80d435a3227c9854fa1da72ddf67" title=" " alt="" coords="489,452,629,508"/>
+<area shape="rect" id="node19" href="$d4/d60/namespacelegendre__transform__testloop.html#ac8e7fe0457b36e38dc6e03b498ea87ac" title=" " alt="" coords="477,532,640,588"/>
+<area shape="rect" id="node21" href="$dd/dfa/namespacesum__coriolis__terms__rlm.html#ab40322d3cc372a7b72d6ef3a033ef16b" title=" " alt="" coords="490,1012,627,1068"/>
+<area shape="rect" id="node22" href="$dd/dfa/namespacesum__coriolis__terms__rlm.html#a7215e021293f6105513f3cf0dcc9ef1d" title=" " alt="" coords="483,1092,634,1148"/>
+</map>

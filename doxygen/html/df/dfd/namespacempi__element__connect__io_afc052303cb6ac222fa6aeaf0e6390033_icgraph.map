@@ -1,0 +1,10 @@
+<map id="mpi_element_connect_io::mpi_read_num_element" name="mpi_element_connect_io::mpi_read_num_element">
+<area shape="rect" id="node1" title=" " alt="" coords="464,88,649,129"/>
+<area shape="rect" id="node2" href="$df/d9c/namespacempi__edge__data__io.html#ad8be7ec0a7544820b09cc9d29936ba10" title=" " alt="" coords="235,15,394,56"/>
+<area shape="rect" id="node4" href="$da/dee/namespacempi__mesh__data__io.html#a0821b4d87e0bb2f4bc0e450c97860d16" title=" " alt="" coords="235,88,395,129"/>
+<area shape="rect" id="node7" href="$d4/da4/namespacempi__surface__data__io.html#ab0e147de021b148f765223644becff12" title=" " alt="" coords="213,169,416,211"/>
+<area shape="rect" id="node3" href="$d7/d55/namespacempi__element__file__io.html#a0f3abeb63f9488dbe418b8b75134611b" title=" " alt="" coords="13,5,158,47"/>
+<area shape="rect" id="node5" href="$da/dee/namespacempi__mesh__data__io.html#aa8cff2a5b77c6ab813956cda763daaa9" title=" " alt="" coords="5,71,165,112"/>
+<area shape="rect" id="node6" href="$d4/d7e/namespacempi__mesh__file__io.html#ade2e5a6e7e61b42b60fe00d39429c8fd" title=" " alt="" coords="9,136,161,177"/>
+<area shape="rect" id="node8" href="$d7/d55/namespacempi__element__file__io.html#ac4cd8be9fe83c3274c9681a86503e6b6" title=" " alt="" coords="5,201,165,243"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="gz_domain_data_io_b::gz_write_import_data_b" name="gz_domain_data_io_b::gz_write_import_data_b">
+<area shape="rect" id="node1" title=" " alt="" coords="472,276,639,317"/>
+<area shape="rect" id="node2" href="$dc/d82/namespacegz__edge__data__io__b.html#a725d52e58cf91604b787d30e183977a1" title=" " alt="" coords="235,5,424,47"/>
+<area shape="rect" id="node4" href="$d3/d79/namespacegz__element__data__io__b.html#a2513ca9a7843ee88e5ea2d8fa0ce59e8" title=" " alt="" coords="257,71,402,127"/>
+<area shape="rect" id="node6" href="$d1/de1/namespacegz__sph__modes__data__io__b.html#afbdbbeadd21e1982ca63b7e344372fc9" title=" " alt="" coords="250,151,409,207"/>
+<area shape="rect" id="node8" href="$d1/de1/namespacegz__sph__modes__data__io__b.html#ac378d7266ed4812de5ffa4eb8798821b" title=" " alt="" coords="250,231,409,287"/>
+<area shape="rect" id="node10" href="$da/d8f/namespacegz__mesh__data__io__b.html#adb2cf6a3b97718e20cefd10fcba05213" title=" " alt="" coords="241,312,418,353"/>
+<area shape="rect" id="node12" href="$d1/de1/namespacegz__sph__modes__data__io__b.html#aa99b64323eda29d4a773f19c781ad6bf" title=" " alt="" coords="248,378,411,434"/>
+<area shape="rect" id="node14" href="$d1/de1/namespacegz__sph__modes__data__io__b.html#a4a53221d6e715998464d8e808f132e47" title=" " alt="" coords="239,458,420,514"/>
+<area shape="rect" id="node16" href="$dc/dc6/namespacegz__surface__data__io__b.html#aa4529d779fb8c57a7305b5df2601b5c4" title=" " alt="" coords="258,538,401,594"/>
+<area shape="rect" id="node3" href="$d9/d86/namespacegz__element__file__io__b.html#a0af68b502f411c6b90877bca06d43dce" title=" " alt="" coords="9,5,183,47"/>
+<area shape="rect" id="node5" href="$d9/d86/namespacegz__element__file__io__b.html#a2aeefc3c98ce2c74ad2f7733cf44548e" title=" " alt="" coords="19,71,173,127"/>
+<area shape="rect" id="node7" href="$d9/d92/namespacegz__sph__modes__file__io__b.html#a164372728a1743bc0913007bd6c3794f" title=" " alt="" coords="17,151,175,207"/>
+<area shape="rect" id="node9" href="$d9/d92/namespacegz__sph__modes__file__io__b.html#a7b13e83086c0d1d2d62ee4a94e94cf80" title=" " alt="" coords="19,231,173,287"/>
+<area shape="rect" id="node11" href="$d7/dad/namespacegz__mesh__file__io__b.html#a679d2d92b8025cbba4c2f105ddc733a0" title=" " alt="" coords="23,312,169,353"/>
+<area shape="rect" id="node13" href="$d9/d92/namespacegz__sph__modes__file__io__b.html#afe0bba944592af425ae24db0e99da238" title=" " alt="" coords="15,378,177,434"/>
+<area shape="rect" id="node15" href="$d9/d92/namespacegz__sph__modes__file__io__b.html#ad1ad5a6c4166ecd4a83d649490079e76" title=" " alt="" coords="5,458,187,514"/>
+<area shape="rect" id="node17" href="$d9/d86/namespacegz__element__file__io__b.html#ac6dbafa39c05d938e235af5388c7385c" title=" " alt="" coords="21,538,171,594"/>
+</map>

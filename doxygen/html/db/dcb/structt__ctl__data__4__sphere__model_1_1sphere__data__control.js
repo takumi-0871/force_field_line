@@ -1,0 +1,25 @@
+var structt__ctl__data__4__sphere__model_1_1sphere__data__control =
+[
+    [ "cmb_radius_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#a2e1b962fe146a8d3bdf9ac2e2b67f1c5", null ],
+    [ "fluid_core_size_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#a244a098bdf4b9d3130a7012f87114fa7", null ],
+    [ "i_shell_def", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#a52fd3277bc5317d74cc8d96980646c56", null ],
+    [ "icb_radius_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#ac64f99c5893bfe10c333f5f037722483", null ],
+    [ "icb_to_cmb_ratio_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#aa30bedc59867c5151270f28c0da8819c", null ],
+    [ "increment_cheby_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#aae9db8707e556ee4b823854dec2e4114", null ],
+    [ "ltr_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#aecf755458ed4483a63995957d944a27c", null ],
+    [ "max_radius_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#a96775563e4e197a027b39a98aaa6f947", null ],
+    [ "med_layer_list_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#a680a8bcd58638deb03533f152942a20d", null ],
+    [ "min_radius_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#a9bae11d502e9516391bb038f2deac320", null ],
+    [ "ngrid_azimuth_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#a001820f09ab978d9a63c5eca4705cfb5", null ],
+    [ "ngrid_elevation_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#ab7ea532af5740458f5ac0c26bd704b7d", null ],
+    [ "num_fluid_grid_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#ae42f27e563d012fefb1cf28e93389313", null ],
+    [ "num_med_layer_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#a9f40240d415015c4caea742c4454c547", null ],
+    [ "num_radial_layer_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#a7cde82a52f29318afc85859e7c4fd6dd", null ],
+    [ "phi_symmetry_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#a3d8bf48d3f27c88ad7c049c9c0f47b89", null ],
+    [ "radial_grid_type_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#a5aa5c4ba14751a9ef6626b46eabdc239", null ],
+    [ "radial_grp_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#ac45cb15e8a0711d1f723c4d77e72be5b", null ],
+    [ "radial_layer_list_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#aac3ade891128d4a5f016fb091ed64be3", null ],
+    [ "radius_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#a843fb56f91620509c826dd1b1a22d5f9", null ],
+    [ "sph_coef_type_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#aba4738f6962c6e9c0aa7a5123e91ca89", null ],
+    [ "sph_grid_type_ctl", "db/dcb/structt__ctl__data__4__sphere__model_1_1sphere__data__control.html#aa9177e671e28cb0344a9ea0626a155c1", null ]
+];

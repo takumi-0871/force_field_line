@@ -1,0 +1,13 @@
+<map id="gz_mpi_node_geometry_io_b::gz_mpi_read_scl_in_ele_b" name="gz_mpi_node_geometry_io_b::gz_mpi_read_scl_in_ele_b">
+<area shape="rect" id="node1" title=" " alt="" coords="5,194,165,250"/>
+<area shape="rect" id="node2" href="$d4/d0b/namespacet__surf__edge__io.html#a2b530776c113101e2ebf683eea3ff54c" title=" " alt="" coords="235,128,377,169"/>
+<area shape="rect" id="node3" href="$d5/d62/namespacegz__mpi__binary__data__io.html#a435f069aaa93dd88fc598edf627a6b44" title=" " alt="" coords="235,194,377,250"/>
+<area shape="rect" id="node10" href="$d8/d0c/namespacegz__mpi__node__geometry__io__b.html#a469affd752a65465534a0b78846ec503" title=" " alt="" coords="213,343,399,399"/>
+<area shape="rect" id="node4" href="$d7/dcf/namespacet__buffer__4__gzip.html#a60abab7c9eba50fe51f9a2ba9b9863bf" title=" " alt="" coords="465,5,611,47"/>
+<area shape="rect" id="node5" href="$dc/d05/namespacebyte__swap__f.html#ab8ee81ec1d0a83ccba7c9437073e6ec7" title=" " alt="" coords="455,71,621,112"/>
+<area shape="rect" id="node6" href="$de/d27/namespacem__calypso__mpi__io.html#aa261e2f6e7df06b34f5fdd8ca461fd57" title=" " alt="" coords="447,136,629,177"/>
+<area shape="rect" id="node7" href="$d7/dcf/namespacet__buffer__4__gzip.html#a681d0ad12d4e122b9727df8c903cbc5c" title=" " alt="" coords="458,201,618,243"/>
+<area shape="rect" id="node8" href="$dd/d66/namespacegz__mpi__binary__head__io.html#abf1bf2a6f2571a9caf4dfe27b573c686" title=" " alt="" coords="453,267,623,323"/>
+<area shape="rect" id="node9" href="$d5/d29/namespacedata__convert__by__zlib.html#a923bb9af344d29a704caf4090c5ad374" title=" " alt="" coords="463,348,613,389"/>
+<area shape="rect" id="node11" href="$d8/dd2/namespacegz__mpi__binary__datum__io.html#ac2660a14ecf0419e147479e398bcf93a" title=" " alt="" coords="463,414,613,470"/>
+</map>

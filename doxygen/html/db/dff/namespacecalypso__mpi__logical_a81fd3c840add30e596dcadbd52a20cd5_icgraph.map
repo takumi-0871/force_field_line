@@ -1,0 +1,12 @@
+<map id="calypso_mpi_logical::calypso_mpi_bcast_one_logical" name="calypso_mpi_logical::calypso_mpi_bcast_one_logical">
+<area shape="rect" id="node1" title=" " alt="" coords="452,123,595,179"/>
+<area shape="rect" id="node2" href="$d0/dea/namespaceparallel__gen__sph__grids.html#a1631aaa386661e76d2deace9d37b441d" title=" " alt="" coords="237,43,401,99"/>
+<area shape="rect" id="node5" href="$d9/d7e/namespacet__check__and__make__sph__mesh.html#a26554dd92ff70f680e5116b0a12f60f3" title=" " alt="" coords="233,233,404,289"/>
+<area shape="rect" id="node9" href="$d9/d7e/namespacet__check__and__make__sph__mesh.html#aea79abf32908c28dfb293965b3dbd22f" title=" " alt="" coords="233,123,404,179"/>
+<area shape="rect" id="node3" href="$d1/deb/namespaceanalyzer__assemble__sph.html#a8cdb8dd695aedbb89edf5fd8f42b5476" title=" " alt="" coords="14,5,177,47"/>
+<area shape="rect" id="node4" href="$dc/de7/namespaceanalyzer__compare__sph__rst.html#acd9f252a1bc52f7187d7dd8147e5787c" title=" " alt="" coords="17,71,173,127"/>
+<area shape="rect" id="node6" href="$d3/d53/namespaceanalyzer__test__sph.html#a264108839a766670d27fed5a2f746bc9" title=" " alt="" coords="27,217,163,259"/>
+<area shape="rect" id="node7" href="$de/d83/namespaceinput__control__sph__mhd.html#a20d9e57b29a504d3a3b04dd80af10fce" title=" " alt="" coords="17,283,173,339"/>
+<area shape="rect" id="node8" href="$d9/d7e/namespacet__check__and__make__sph__mesh.html#a12c633130acdf6528917c3c504cf0a84" title=" " alt="" coords="14,363,177,419"/>
+<area shape="rect" id="node10" href="$d9/d14/namespaceanalyzer__rayleigh__cvt__sph.html#a9070150d41ca820fe9c32c15708fd6d8" title=" " alt="" coords="5,152,185,193"/>
+</map>

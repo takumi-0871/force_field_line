@@ -1,0 +1,11 @@
+<map id="cal_sph_exp_1st_diff::normalize_sph_average_grad" name="cal_sph_exp_1st_diff::normalize_sph_average_grad">
+<area shape="rect" id="node1" title=" " alt="" coords="480,136,679,177"/>
+<area shape="rect" id="node2" href="$d3/dac/namespaceconst__sph__radial__grad.html#a561052b7648f25a6476d81eae8dddbf8" title=" " alt="" coords="253,39,425,80"/>
+<area shape="rect" id="node4" href="$d3/dac/namespaceconst__sph__radial__grad.html#ac1e7d0cdc34da924756309e1ec13e6ca" title=" " alt="" coords="252,136,427,177"/>
+<area shape="rect" id="node8" href="$d3/dac/namespaceconst__sph__radial__grad.html#a07aeaf323bdbc44101e8eec811479a40" title=" " alt="" coords="247,233,432,275"/>
+<area shape="rect" id="node3" href="$df/ddb/namespacelead__fields__4__sph__mhd.html#acce2601e596389186537c1b24a640a9b" title=" " alt="" coords="23,5,181,47"/>
+<area shape="rect" id="node5" href="$d3/d4f/namespacecal__grad__of__sph__vectors.html#a8aa4abd77f6cf6764ebadd64b239db02" title=" " alt="" coords="15,71,189,112"/>
+<area shape="rect" id="node6" href="$de/d70/namespacecal__sol__sph__mhd__crank.html#a6d4f1b380780ddd1d88555c18b04f345" title=" " alt="" coords="7,136,197,177"/>
+<area shape="rect" id="node7" href="$de/d70/namespacecal__sol__sph__mhd__crank.html#aab6db625b4fd676f64d88a32ea885cd0" title=" " alt="" coords="21,201,183,243"/>
+<area shape="rect" id="node9" href="$d3/d4f/namespacecal__grad__of__sph__vectors.html#a77c253a504bf8efa4eed6dedfbfcd7fe" title=" " alt="" coords="5,267,199,308"/>
+</map>

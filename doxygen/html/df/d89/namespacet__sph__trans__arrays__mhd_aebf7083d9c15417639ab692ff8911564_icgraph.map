@@ -1,0 +1,9 @@
+<map id="t_sph_trans_arrays_mhd::dealloc_sph_trans_area_snap" name="t_sph_trans_arrays_mhd::dealloc_sph_trans_area_snap">
+<area shape="rect" id="node1" title=" " alt="" coords="444,71,611,127"/>
+<area shape="rect" id="node2" href="$d1/d47/namespaceanalyzer__sph__dynamobench.html#aab08e46b33986ce723bb236e8f6c0d3a" title=" " alt="" coords="197,5,396,47"/>
+<area shape="rect" id="node4" href="$d0/d9b/namespaceanalyzer__sph__mhd__w__psf.html#aadde7e96d09f18b9102b942e9af5c009" title=" " alt="" coords="223,71,370,127"/>
+<area shape="rect" id="node6" href="$da/d4b/namespaceanalyzer__sph__snap__w__psf.html#a63e780190a80c3525b0f9ab52d55082e" title=" " alt="" coords="221,151,372,207"/>
+<area shape="rect" id="node3" href="$dd/dc6/main__sph__dynamobench_8f90.html#ae6fe35a6bef2958f0250ad972ac4b963" title="Main program for dynamo benchmark check." alt="" coords="12,13,143,39"/>
+<area shape="rect" id="node5" href="$d6/d6d/main__sph___m_h_d__w__psf_8f90.html#a3206379918036cef446eada6d3cddb13" title="Main program for MHD dynamo simulation." alt="" coords="13,86,141,113"/>
+<area shape="rect" id="node7" href="$d3/dfc/main__sph__snapshot__w__psf_8f90.html#a59409503fefd18925f4344901f06f27e" title="Main program to evaluate snapshots from spectr data." alt="" coords="5,166,149,193"/>
+</map>

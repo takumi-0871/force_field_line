@@ -1,0 +1,6 @@
+<map id="t_fft_selector::working_ffts" name="t_fft_selector::working_ffts">
+<area shape="rect" id="node1" title="structure for working data for FFT" alt="" coords="317,71,493,98"/>
+<area shape="rect" id="node2" href="$d8/da3/structt__multi__fftw__wrapper_1_1working__mul__fftw.html" title="structure for working data for FFTW" alt="" coords="28,5,169,47"/>
+<area shape="rect" id="node3" href="$d1/de6/structt__fftw__wrapper_1_1working__fftw.html" title="structure for working data for FFTW" alt="" coords="5,71,192,98"/>
+<area shape="rect" id="node4" href="$d6/dcb/structt__fftpack5__wrapper_1_1working__fftpack.html" title="structure for working data for FFTPACK5" alt="" coords="33,123,165,164"/>
+</map>

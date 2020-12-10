@@ -1,0 +1,29 @@
+<map id="t_legendre_trans_select::sel_init_legendre_trans" name="t_legendre_trans_select::sel_init_legendre_trans">
+<area shape="rect" id="node1" title=" " alt="" coords="5,599,168,640"/>
+<area shape="rect" id="node2" href="$d0/d39/namespacet__leg__trans__sym__matmul__big.html#abb21f502deec87a45da4eb8418f307ae" title=" " alt="" coords="216,79,417,120"/>
+<area shape="rect" id="node5" href="$d0/d7c/namespacet__legendre__work__sym__mat__jt.html#afa0ba04ab1599a55beb58b3b07d788b1" title=" " alt="" coords="243,471,391,527"/>
+<area shape="rect" id="node12" href="$d0/d7c/namespacet__legendre__work__sym__mat__jt.html#a1c1bb7361e7a77d70df1c198298cf686" title=" " alt="" coords="243,391,391,447"/>
+<area shape="rect" id="node14" href="$dd/d93/namespacet__legendre__work__sym__matmul.html#a619aad9878a32f5d1e77acfc477c5f4b" title=" " alt="" coords="240,751,393,807"/>
+<area shape="rect" id="node18" href="$dd/d93/namespacet__legendre__work__sym__matmul.html#a5fef069c1f4d8b4e0250a023cccf0444" title=" " alt="" coords="240,911,393,967"/>
+<area shape="rect" id="node21" href="$dd/da6/namespacet__legendre__work__testlooop.html#a661984fef3e73189533695664b159698" title=" " alt="" coords="229,1243,405,1284"/>
+<area shape="rect" id="node3" href="$d0/d39/namespacet__leg__trans__sym__matmul__big.html#a76af69d73237c9c4bfa91b950999e5b0" title=" " alt="" coords="465,5,676,47"/>
+<area shape="rect" id="node4" href="$d0/d39/namespacet__leg__trans__sym__matmul__big.html#a9d847657c0842bb246175223c1458f8e" title=" " alt="" coords="487,71,655,127"/>
+<area shape="rect" id="node6" href="$d1/dfc/namespacet__field__matrices__4__legendre.html#aecdf99abdedc7ff2b03062a2606c5f5c" title=" " alt="" coords="499,311,643,367"/>
+<area shape="rect" id="node7" href="$d1/dfc/namespacet__field__matrices__4__legendre.html#a8537efabc3681f1ff6cc4b67c52bbb8a" title=" " alt="" coords="493,391,649,447"/>
+<area shape="rect" id="node8" href="$d0/d7c/namespacet__legendre__work__sym__mat__jt.html#ac5dc3878b11e3e77742cd4d494d48c05" title=" " alt="" coords="490,471,651,527"/>
+<area shape="rect" id="node9" href="$d1/dfc/namespacet__field__matrices__4__legendre.html#a9af9dc5c62fa0df89149eda2eefae156" title=" " alt="" coords="496,551,645,607"/>
+<area shape="rect" id="node10" href="$d0/d7c/namespacet__legendre__work__sym__mat__jt.html#a0eb024eb7d15bf066d9327c8318a0ea3" title=" " alt="" coords="484,231,657,287"/>
+<area shape="rect" id="node11" href="$d0/d7c/namespacet__legendre__work__sym__mat__jt.html#a74b4b496e7fa3674233e49d04c9e24e8" title=" " alt="" coords="492,631,649,687"/>
+<area shape="rect" id="node13" href="$d0/d7c/namespacet__legendre__work__sym__mat__jt.html#a226615a2bb7f564e691c6d3a510e32b7" title=" " alt="" coords="492,151,649,207"/>
+<area shape="rect" id="node15" href="$dd/d93/namespacet__legendre__work__sym__matmul.html#a2fd1ea227aadc48c573c0751a2554c5b" title=" " alt="" coords="493,711,648,767"/>
+<area shape="rect" id="node16" href="$dd/d93/namespacet__legendre__work__sym__matmul.html#ac6d1edc0567de43b28608e83f5653a7e" title=" " alt="" coords="491,791,650,847"/>
+<area shape="rect" id="node17" href="$dd/d93/namespacet__legendre__work__sym__matmul.html#a208d50515cb8db6cf7aa7f557da39f7d" title=" " alt="" coords="481,871,661,927"/>
+<area shape="rect" id="node19" href="$dd/d93/namespacet__legendre__work__sym__matmul.html#aea7bf20d627464eb0aedc990c949ea24" title=" " alt="" coords="493,951,648,1007"/>
+<area shape="rect" id="node20" href="$dd/d93/namespacet__legendre__work__sym__matmul.html#a79044124d161f7e12e3748620056321b" title=" " alt="" coords="491,1031,650,1087"/>
+<area shape="rect" id="node22" href="$dd/da6/namespacet__legendre__work__testlooop.html#a1b60e1113d7294cc7a2d61918e84ee7d" title=" " alt="" coords="483,1112,659,1153"/>
+<area shape="rect" id="node23" href="$dd/da6/namespacet__legendre__work__testlooop.html#a998c2a85b7f3d8302a0effc43247bebe" title=" " alt="" coords="475,1177,667,1219"/>
+<area shape="rect" id="node24" href="$dd/da6/namespacet__legendre__work__testlooop.html#afea1a7a023a3aab7dd49f8c6c3c77069" title=" " alt="" coords="483,1243,659,1284"/>
+<area shape="rect" id="node25" href="$dd/da6/namespacet__legendre__work__testlooop.html#ac03c91b4d41bebdf14b4f0854594cd6f" title=" " alt="" coords="465,1308,676,1349"/>
+<area shape="rect" id="node26" href="$dd/da6/namespacet__legendre__work__testlooop.html#ad2d249836cec1890df80b0643b3d692e" title=" " alt="" coords="473,1373,669,1415"/>
+<area shape="rect" id="node27" href="$dd/da6/namespacet__legendre__work__testlooop.html#a1d6aad3c41ae91eb997df5f8fb2d6de5" title=" " alt="" coords="471,1439,670,1480"/>
+</map>

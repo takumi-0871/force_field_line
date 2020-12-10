@@ -1,0 +1,7 @@
+<map id="t_ctl_data_sph_mhd_psf::read_control_4_sph_mhd_w_psf" name="t_ctl_data_sph_mhd_psf::read_control_4_sph_mhd_w_psf">
+<area shape="rect" id="node1" title=" " alt="" coords="396,45,536,101"/>
+<area shape="rect" id="node2" href="$d0/d9b/namespaceanalyzer__sph__mhd__w__psf.html#a22e262813bff06df11549d21cde03b11" title=" " alt="" coords="199,5,346,61"/>
+<area shape="rect" id="node4" href="$da/d4b/namespaceanalyzer__sph__snap__w__psf.html#a34ef31f3d485338a474c20bc0d7a4e4c" title=" " alt="" coords="197,85,348,141"/>
+<area shape="rect" id="node3" href="$d6/d6d/main__sph___m_h_d__w__psf_8f90.html#a3206379918036cef446eada6d3cddb13" title="Main program for MHD dynamo simulation." alt="" coords="13,20,141,47"/>
+<area shape="rect" id="node5" href="$d3/dfc/main__sph__snapshot__w__psf_8f90.html#a59409503fefd18925f4344901f06f27e" title="Main program to evaluate snapshots from spectr data." alt="" coords="5,100,149,127"/>
+</map>

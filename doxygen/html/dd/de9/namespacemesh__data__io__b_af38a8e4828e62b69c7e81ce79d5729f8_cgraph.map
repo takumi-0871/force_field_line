@@ -1,0 +1,12 @@
+<map id="mesh_data_io_b::read_num_node_ele_b" name="mesh_data_io_b::read_num_node_ele_b">
+<area shape="rect" id="node1" title=" " alt="" coords="5,199,156,240"/>
+<area shape="rect" id="node2" href="$df/d96/namespacenode__geometry__io__b.html#a0701aadbc4f71b1b0d4913b0c94882ba" title=" " alt="" coords="227,120,385,161"/>
+<area shape="rect" id="node6" href="$dd/de9/namespacemesh__data__io__b.html#a341cd7677c5c6b77e8391b3f98427cdf" title=" " alt="" coords="231,199,381,240"/>
+<area shape="rect" id="node10" href="$d9/d68/namespaceelement__connect__io__b.html#aafab62fa8a2c88b6b3b7a0e2a344711c" title=" " alt="" coords="204,289,408,331"/>
+<area shape="rect" id="node3" href="$dd/d2d/namespacet__geometry__data.html#a83f4130d109e628160cd558abff0bdcb" title=" " alt="" coords="465,5,619,47"/>
+<area shape="rect" id="node4" href="$d9/d00/namespacebinary__io.html#ad7df263d6a84c3ef04de070057618365" title=" " alt="" coords="478,71,606,112"/>
+<area shape="rect" id="node5" href="$d9/d00/namespacebinary__io.html#acb3344a42508af931e85fdfb34859291" title=" " alt="" coords="859,191,993,232"/>
+<area shape="rect" id="node7" href="$d6/d8e/namespacedomain__data__io__b.html#a31ed042171941db10b075ef7eeb3042f" title=" " alt="" coords="462,188,622,229"/>
+<area shape="rect" id="node9" href="$df/d96/namespacenode__geometry__io__b.html#ae9235ff29a6b96addcde4ad024f45d5a" title=" " alt="" coords="456,253,628,295"/>
+<area shape="rect" id="node8" href="$d9/d00/namespacebinary__io.html#a91b59d002af72af72ab7f22beca4da7c" title=" " alt="" coords="676,220,811,261"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="t_sph_mesh_field_data::sph_mesh_data" name="t_sph_mesh_field_data::sph_mesh_data">
+<area shape="rect" id="node1" title="Structure of spherical transform mesh information." alt="" coords="580,239,736,281"/>
+<area shape="rect" id="node2" href="$dc/d4f/structt__spheric__group_1_1sph__group__data.html" title="Structure of group data for spherical transform." alt="" coords="307,113,450,154"/>
+<area shape="rect" id="node3" href="$de/d01/structt__group__data_1_1group__data.html" title="Structure for node and element group." alt="" coords="5,57,175,84"/>
+<area shape="rect" id="node4" href="$d4/d25/structt__spheric__parameter_1_1sph__grids.html" title="Structure of grid and spectr data for spherical spectr method." alt="" coords="309,239,449,281"/>
+<area shape="rect" id="node5" href="$d9/df8/structt__spheric__rtm__data_1_1sph__rtm__grid.html" title="structure of index table for" alt="" coords="23,109,157,150"/>
+<area shape="rect" id="node6" href="$db/dce/structt__spheric__rlm__data_1_1sph__rlm__grid.html" title="structure of index table for" alt="" coords="24,174,156,215"/>
+<area shape="rect" id="node7" href="$dd/d03/structt__spheric__rtp__data_1_1sph__rtp__grid.html" title="structure of index table for" alt="" coords="25,239,155,281"/>
+<area shape="rect" id="node8" href="$da/d0c/structt__spheric__rj__data_1_1sph__rj__grid.html" title="structure of index table for" alt="" coords="25,305,155,346"/>
+<area shape="rect" id="node9" href="$d4/dc6/structt__spheric__parameter_1_1sph__shell__parameters.html" title="Structure for spherical shell paramteres." alt="" coords="11,370,169,411"/>
+<area shape="rect" id="node10" href="$df/d07/structt__sph__trans__comm__tbl_1_1sph__comm__tables.html" title="Structure for communication table for spherical transform." alt="" coords="301,371,456,413"/>
+<area shape="rect" id="node11" href="$dd/d4d/structt__sph__trans__comm__tbl_1_1sph__comm__tbl.html" title="Structure for communication table for each spherical grid." alt="" coords="13,449,167,490"/>
+</map>

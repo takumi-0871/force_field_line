@@ -1,0 +1,15 @@
+<map id="init_sphrical_transform_mhd::sel_sph_transform_mhd" name="init_sphrical_transform_mhd::sel_sph_transform_mhd">
+<area shape="rect" id="node1" title=" " alt="" coords="5,265,207,307"/>
+<area shape="rect" id="node2" href="$dc/dfe/namespacet__legendre__trans__select.html#a7aebfc1b72a1b45ed63094574e4bc22d" title=" " alt="" coords="468,199,631,240"/>
+<area shape="rect" id="node9" href="$dc/daa/namespaceinit__sphrical__transform__mhd.html#af5fbaed5aa8f46086136fc5ee7bc0bee" title=" " alt="" coords="255,290,408,346"/>
+<area shape="rect" id="node3" href="$d0/d39/namespacet__leg__trans__sym__matmul__big.html#abb21f502deec87a45da4eb8418f307ae" title=" " alt="" coords="691,5,892,47"/>
+<area shape="rect" id="node4" href="$d0/d7c/namespacet__legendre__work__sym__mat__jt.html#afa0ba04ab1599a55beb58b3b07d788b1" title=" " alt="" coords="717,71,865,127"/>
+<area shape="rect" id="node5" href="$d0/d7c/namespacet__legendre__work__sym__mat__jt.html#a1c1bb7361e7a77d70df1c198298cf686" title=" " alt="" coords="717,151,865,207"/>
+<area shape="rect" id="node6" href="$dd/d93/namespacet__legendre__work__sym__matmul.html#a619aad9878a32f5d1e77acfc477c5f4b" title=" " alt="" coords="715,231,868,287"/>
+<area shape="rect" id="node7" href="$dd/d93/namespacet__legendre__work__sym__matmul.html#a5fef069c1f4d8b4e0250a023cccf0444" title=" " alt="" coords="715,311,868,367"/>
+<area shape="rect" id="node8" href="$dd/da6/namespacet__legendre__work__testlooop.html#a661984fef3e73189533695664b159698" title=" " alt="" coords="703,392,879,433"/>
+<area shape="rect" id="node10" href="$d1/d7d/namespacecalypso__mpi__real.html#ae7a63dfc14b84bd9271578e6a91373f7" title=" " alt="" coords="461,264,637,305"/>
+<area shape="rect" id="node11" href="$dc/dfe/namespacet__legendre__trans__select.html#a62f14710fec75d018974e805390c52a4" title=" " alt="" coords="456,329,643,371"/>
+<area shape="rect" id="node12" href="$de/d71/namespacesph__transforms__4__mhd.html#a929791d0c49cabe363a2d1da60e924c4" title=" " alt="" coords="465,395,633,436"/>
+<area shape="rect" id="node13" href="$de/d71/namespacesph__transforms__4__mhd.html#a19c2fa4981b39d8963bf2a06db68c9ae" title=" " alt="" coords="458,460,641,501"/>
+</map>

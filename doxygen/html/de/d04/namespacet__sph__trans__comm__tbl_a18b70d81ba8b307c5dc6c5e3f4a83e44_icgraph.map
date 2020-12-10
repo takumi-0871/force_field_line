@@ -1,0 +1,23 @@
+<map id="t_sph_trans_comm_tbl::alloc_type_sph_comm_stack" name="t_sph_trans_comm_tbl::alloc_type_sph_comm_stack">
+<area shape="rect" id="node1" title=" " alt="" coords="976,253,1175,295"/>
+<area shape="rect" id="node2" href="$de/d04/namespacet__sph__trans__comm__tbl.html#a243a81dfda6095e821a98b15c0429705" title=" " alt="" coords="721,5,928,47"/>
+<area shape="rect" id="node3" href="$d0/dea/namespaceparallel__gen__sph__grids.html#abe6a13028912f6e23451971839474c30" title=" " alt="" coords="735,71,914,112"/>
+<area shape="rect" id="node4" href="$de/da0/namespaceset__comm__table__rtp__rj.html#a1fb3417939e87a9a396b3a4bf7f65dcc" title=" " alt="" coords="733,136,916,177"/>
+<area shape="rect" id="node6" href="$d9/d1d/namespacegen__sph__grids__modes.html#a0905bb6aa0bf5ac7be89162359bc911f" title=" " alt="" coords="735,253,914,295"/>
+<area shape="rect" id="node10" href="$d9/d1d/namespacegen__sph__grids__modes.html#abe125aa8762c3e0186eb337b19818f1c" title=" " alt="" coords="735,612,915,653"/>
+<area shape="rect" id="node13" href="$de/da0/namespaceset__comm__table__rtp__rj.html#a468c9b32899d9406faafe7268bffc467" title=" " alt="" coords="729,319,920,360"/>
+<area shape="rect" id="node14" href="$d9/d5e/namespacecopy__sph__comm__table__4__io.html#a2e087b28fabbcadf2d42ffacd80fa4c4" title=" " alt="" coords="745,385,905,441"/>
+<area shape="rect" id="node19" href="$de/d04/namespacet__sph__trans__comm__tbl.html#addeac680cfafecc6e1f242c6fa127252" title=" " alt="" coords="497,580,657,621"/>
+<area shape="rect" id="node21" href="$d3/d30/namespacebcast__comm__stacks__sph.html#a3eaf9181da53bd5ea1c6683d365f5c39" title=" " alt="" coords="239,251,432,292"/>
+<area shape="rect" id="node5" href="$de/da0/namespaceset__comm__table__rtp__rj.html#ad185172faabae2c061b17f2bb93b5d44" title=" " alt="" coords="495,136,659,177"/>
+<area shape="rect" id="node7" href="$d9/d1d/namespacegen__sph__grids__modes.html#aabe8458f93a15d4529fa031c86a0039f" title=" " alt="" coords="496,253,657,295"/>
+<area shape="rect" id="node8" href="$d1/d95/namespacempi__gen__sph__grids__modes.html#a35dc5f5c2fa7dc90ae44896fcb00523b" title=" " alt="" coords="245,372,425,413"/>
+<area shape="rect" id="node9" href="$d9/d7e/namespacet__check__and__make__sph__mesh.html#ac0ecb767993e72b31ed725b813ac5e83" title=" " alt="" coords="5,372,191,413"/>
+<area shape="rect" id="node11" href="$d9/d1d/namespacegen__sph__grids__modes.html#a1650077bb6533ac3e1965325c9c2fe69" title=" " alt="" coords="501,645,653,687"/>
+<area shape="rect" id="node12" href="$d1/d95/namespacempi__gen__sph__grids__modes.html#a445b69e5477e0524307e34e506574b2e" title=" " alt="" coords="245,613,425,655"/>
+<area shape="rect" id="node15" href="$db/d97/namespaceload__data__for__sph__io.html#ab6212d0beab5d0a3bbcfb69d6e01356a" title=" " alt="" coords="483,384,670,425"/>
+<area shape="rect" id="node16" href="$db/d97/namespaceload__data__for__sph__io.html#a3d4170b4bfb40f45851b23f7a319f299" title=" " alt="" coords="485,449,668,491"/>
+<area shape="rect" id="node17" href="$db/d97/namespaceload__data__for__sph__io.html#a43d02b3bed9faabae32db4e674eafa1d" title=" " alt="" coords="485,515,668,556"/>
+<area shape="rect" id="node18" href="$db/d97/namespaceload__data__for__sph__io.html#a31987c9e70ca4a54d0152bffdcbe703f" title=" " alt="" coords="480,319,673,360"/>
+<area shape="rect" id="node20" href="$de/d04/namespacet__sph__trans__comm__tbl.html#ae5dc1b46aade427a3f024c65d5e82bb1" title=" " alt="" coords="253,548,417,589"/>
+</map>

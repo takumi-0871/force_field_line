@@ -1,0 +1,5 @@
+<map id="t_mhd_file_parameter::mhd_file_io_params" name="t_mhd_file_parameter::mhd_file_io_params">
+<area shape="rect" id="node1" title="Structure of file name and format for MHD." alt="" coords="75,256,222,297"/>
+<area shape="rect" id="node2" href="$d7/d33/structt__file__io__parameter_1_1fem__file__io__flags.html" title="FEM mesh IO flags." alt="" coords="5,5,137,47"/>
+<area shape="rect" id="node3" href="$d7/d1b/structt__file__io__parameter_1_1field__io__params.html" title="Structure for field data IO paramters." alt="" coords="161,5,293,47"/>
+</map>

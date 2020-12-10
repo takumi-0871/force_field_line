@@ -1,0 +1,5 @@
+<map id="t_ctl_data_mhd_forces::magneto_convection_control" name="t_ctl_data_mhd_forces::magneto_convection_control">
+<area shape="rect" id="node1" title="Structure for Coriolis force." alt="" coords="340,31,495,87"/>
+<area shape="rect" id="node2" href="$df/de4/structt__control__array__charareal_1_1ctl__array__cr.html" title="Structure for charactor and real control array." alt="" coords="6,5,174,47"/>
+<area shape="rect" id="node3" href="$d9/d30/structt__control__array__character_1_1read__character__item.html" title="structure of control character item" alt="" coords="5,71,175,112"/>
+</map>
